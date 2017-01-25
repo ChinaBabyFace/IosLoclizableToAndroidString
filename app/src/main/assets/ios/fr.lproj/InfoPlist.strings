@@ -1,3 +1,0 @@
-/* Localized versions of Info.plist keys */
-
-NSLocationWhenInUseUsageDescription = "En connaissant votre emplacement, nous pouvons vous fournir des informations météo plus précises.";

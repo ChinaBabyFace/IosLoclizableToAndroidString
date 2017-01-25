@@ -1,3 +1,0 @@
-/* Localized versions of Info.plist keys */
-
-NSLocationWhenInUseUsageDescription = "通過你的位置，我們可以提供更精確的天氣信息";
