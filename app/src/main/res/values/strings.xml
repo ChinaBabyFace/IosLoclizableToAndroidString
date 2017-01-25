@@ -1,0 +1,1418 @@
+<resources>
+    <string name="app_name">Convert</string>
+    <!--公用基础字段,先从公用里找,没有的话再新建,同时不要修改公共基础字段-->
+    <string name="common_delete">Delete</string>
+    <string name="common_done">Done</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_repeat">Repeat</string>
+    <string name="common_never">Never</string>
+    <string name="common_repeat_everyday">Every day</string>
+    <string name="common_repeat_every_sunday">Every Sunday</string>
+    <string name="common_repeat_every_friday">Every Friday</string>
+    <string name="common_repeat_every_monday">Every Monday</string>
+    <string name="common_repeat_every_saturday">Every Saturday</string>
+    <string name="common_repeat_every_thursday">Every Thursday</string>
+    <string name="common_repeat_every_tuesday">Every Tuesday</string>
+    <string name="common_repeat_every_wednesday">Every Wednesday</string>
+    <string name="common_edit">Edit</string>
+    <string name="common_update">Update</string>
+    <string name="common_weight">Weight</string>
+    <string name="common_blood_pressure">Blood pressure</string>
+    <string name="common_6am">6 am</string>
+    <string name="common_11_59pm">11:59 PM</string>
+
+
+    <string name="common_sport">Sport</string>
+    <string name="common_am_upper">AM</string>
+    <string name="common_pm_upper">PM</string>
+    <string name="common_am_lower">am</string>
+    <string name="common_pm_lower">pm</string>
+    <string name="common_save">Save</string>
+
+
+    <!--定时提醒-->
+    <string name="reminder_top_bar_title">Reminder</string>
+    <string name="reminder_choose_your_task">Choose your task</string>
+    <string name="reminder_add_new_task">Add New Task</string>
+    <string name="reminder_add">Add Reminder</string>
+    <string name="reminder_take_pill">Take pill</string>
+    <string name="reminder_alarm_Tone">Alarm Tone</string>
+
+    <!-- 页面~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <!-- user_guide -->``
+
+    <string name="act_guide_edittext_text1">Measure. Track. Share.</string>
+    <string name="act_guide_edittext_text2">Track and know your numbers to help make healthy everyday choices.</string>
+
+    <!-- user_login -->
+
+    <string name="user_login_username_txt">Example@aaa.com</string>
+    <string name="user_login_password_txt">Password</string>
+    <string name="user_login_password_org_txt">Incorrect password</string>
+    <string name="user_login_button_txt">Log In</string>
+    <string name="user_login_register_txt">Create a new account</string>
+    <string name="user_login_or_txt">or</string>
+    <string name="user_login_email_example">Example@aaa.com</string>
+    <string name="user_login_signin">Login, please wait......</string>
+    <string name="user_password_wrongthreetime">Your access has been suspended due to 3 incorrect passwords. Please retry in 15 minutes or click on the ‘Forgot your password’ link to reset your password.</string>
+
+    <!-- user_register1 -->
+
+    <string name="user_register1_title_txt">Create an account</string>
+    <string name="user_register1_photo_txt">Add Photo</string>
+    <string name="user_register1_first_name">First Name</string>
+    <string name="user_register1_last_name">Last Name</string>
+    <string name="user_register1_male">Male</string>
+    <string name="user_register1_female">Female</string>
+    <string name="user_register1_warning">Complete all fields to continue</string>
+    <string name="user_register1_next">Next</string>
+
+    <!-- user_register2 -->
+
+    <string name="user_register2_birthday">Birthdate</string>
+    <string name="user_register2_height">Height</string>
+    <string name="user_register2_weight">Weight</string>
+    <string name="user_register2_warning">Complete all fields to continue</string>
+    <string name="user_register2_done">Next</string>
+
+    <!-- user_register3 -->
+
+    <string name="user_register3_welcome">Link your email address to your iHealth MyVitals account to view your vital records.</string>
+    <string name="user_register3_email">Example@aaa.com</string>
+    <string name="user_register3_password">Password</string>
+    <string name="user_register3_confirmpassword">Confirm Password</string>
+    <string name="user_register3_term">By registering an iHealth account, you have read and agreed with iHealth\'s Terms of Use and Privacy Policies.</string>
+    <string name="user_register3_warning_email">Please enter a valid email address</string>
+    <string name="user_register3_warning_pwd">Your password must be at least six characters.</string>
+    <string name="user_register3_warning_confirmpwd">Please re-enter the password</string>
+    <string name="user_register3_warning_confirmpwd_and_pwd">Password does not match, please re-enter</string>
+    <string name="user_register3_next">Create my account</string>
+
+    <!-- user_register_terms -->
+
+    <string name="user_register_terms_title_txt">Terms and Conditions</string>
+
+    <!-- act_setting_copyright -->
+
+    <string name="copyright_content">"APPLICATION AGREEMENT AND TERMS OF USE \n1. Introduction\nTHE APPLICATION AND RELATED CONTENT AND SERVICES ARE PROVIDED SUBJECT TO THESE TERMS AND CONDITIONS. PLEASE READ THE FOLLOWING INFORMATION CAREFULLY. YOUR CONTINUED USE OF THE APPLICATION WILL INDICATE YOUR AGREEMENT TO BE BOUND BY THE TERMS AND CONDITIONS SET FORTH BELOW. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, PROMPTLY EXIT THE APPLICATION.\nIMPORTANT NOTICE TO YOU\nThese Terms and Conditions of Use and the Privacy Policy (collectively, the “Terms and Conditions”), govern your use of the application, including without limitation use of all content, data, images, information and other materials posted on or available through the application (collectively, the “Application”). By using the Application, you agree that you have reviewed and understood these Terms and Conditions of Use and the Privacy Policy to your full satisfaction, that you accept and are subject to the Terms and Conditions of Use and the Privacy Policy, and that iHealth Labs, Inc. (“iHealth”) is permitted to use the information it collects through the Application as set forth below or in the Privacy Policy. If you are not in agreement with the Terms and Conditions, you must immediately leave and no longer use the Application. To the extent that there is any conflict between a provision of the Terms and Conditions of Use and a provision in this Privacy Policy, the provision in the Terms and Conditions of Use shall prevail. If you breach any of these Terms and Conditions, your authorization to use the Application shall automatically terminate.\nThese Terms and Conditions are in addition to any other agreement you may have with iHealth, including any agreement governing purchase or use of iHealth’s products or services by you or your organization. \n2. Ownership\nThe Application is owned and operated by iHealth. Except for Third Party Content (defined below) all content, data, information and other materials on or directly accessible from the Application, is owned by iHealth, its affiliates, licensors and/or vendors. The Application and all content is protected by United States and international copyright and trademark laws. Any rights not expressly granted by these Terms and Conditions or any applicable end user license agreements are reserved by iHealth and/or its vendors and licensors. \nExcept for Third Party Content, the contents of the Application may not be distributed, modified, reproduced, or used, in whole or in part, without the prior written consent of iHealth, except that you may download content from the Application to any single computer, provided you keep intact all copyright, trademark, and other proprietary notices and comply with these terms and any additional applicable end user license agreements. Except as provided in these Terms and Conditions, any use of these materials on any other Application or networked computer environment for any purpose is prohibited. \n3. Third Party Content\nThe Application may display, include, make available, or otherwise link to content, data, information, applications, web Applications, or other materials generated or provided by third parties (“Third Party Content”). You understand that Third Party Content may include content that may be deemed offensive, indecent, or objectionable, or that may be inaccurate, unresponsive, unreliable, or even untruthful. By using the Application, you acknowledge and agree that iHealth shall not be responsible for examining or evaluating the content, accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect of Third Party Content. iHealth does not warrant or endorse and does not assume and will not have any liability or responsibility to you or any other person for any Third Party Content. Third Party Content is provided “AS IS” and solely as a convenience to you, with no warranties of any kind. \nYou agree that iHealth shall not be liable or otherwise responsible for any content or information you post in a web-forum, in a chat room, or through other interactive or “social networking” portions of the Application (your “Personal Content”) and that such Personal Content may be immediately displayed on the Application and treated as Third Party Content. The generation and distribution of Personal Content is at your own risk. You further agree to indemnify, defend, and hold harmless iHealth and its affiliates and their customers, suppliers, employees, officers, directors, and agents from and against any and all claims, losses, liabilities, suits, costs, and other damages arising out of or related to your Personal Content, including claims that the Personal Content violates, infringes, or misappropriates the patent, trademark, trade secret, copyright, or other proprietary rights of any party; that the Personal Content is libelous or defamatory; or that the Personal Content caused or attributed to the injury or death to a third party. You hereby grant to iHealth and its suppliers a non-exclusive, transferable, worldwide, royalty free, sublicensable, right and license to store, copy, distribute, transmit, publicly perform, display, create derivative works of, and otherwise use the Personal Content for purposes of providing the Application to third parties, including the right to transmit the Personal Content to other users of the Application.\n4. iHealth Does Not Provide Medical Advice\nThe contents of the Application are not intended to be a substitute for professional medical advice, diagnosis, or treatment. iHealth does not recommend or endorse any specific tests, products, procedures, opinions or other information mentioned on the Application.\n5. No Framing\nYou may not frame or utilize framing techniques to use, surround or enclose any of iHealth’s names, trademarks, service marks, logos, or other proprietary information (including images, text, page layout, or form) of iHealth and/or its affiliates without IHealth’s express written consent. \n6. Jurisdiction\nThe Application is controlled and operated by iHealth from its offices within the State of California, United States of America. iHealth makes no representation that materials in the Application are appropriate or available for use in other locations. Those who choose to access the Application from other locations do so on their own initiative and are responsible for compliance with local or national laws, if and to the extent local or national laws are applicable. The software, technology and other information from the Application is further subject to United States export controls and, potentially, the import laws of your jurisdiction. No software, technology or other information from the Application may be downloaded or otherwise exported or re-exported to any person or entity on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Commerce Department's Table of Denial Orders or otherwise prohibited by United States export control laws. By downloading or otherwise using any software, technology or other information from the Application in any manner whatsoever, you represent and warrant that you are not on any such list or located in, under the control of, or a national or resident of any such country.\n7. Trademarks\n“IHEALTH” “IHEALTH.COM” and related designs are trademark(s) and service mark(s) owned by iHealth. iHealth’s trademarks and service marks may not be used in connection with any product or service that is not from iHealth, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits iHealth. \n8. iHealth’s Use of Your Data and Communications\nExcept as expressly provided in iHealth’s Privacy Policy, you acknowledge that any Personal Content, communications, material, information, or data of any kind that you e-mail, post, or transmit to or through the Application, including, questions, comments, suggestions and other information (your “Communications”) will be treated as non-confidential and non-proprietary by iHealth. You hereby represent and warrant that you have the right to provide to iHealth all Communications you submit to iHealth through the Application. \nYOU ACKNOWLEDGE THAT SECURITY SAFEGUARDS, BY THEIR NATURE, ARE CAPABLE OF CIRCUMVENTION AND IHEALTH DOES NOT AND CANNOT GUARANTEE THAT YOUR INFORMATION OR COMMUNICATIONS CANNOT BE ACCESSED BY UNAUTHORIZED PERSONS CAPABLE OF OVERCOMING SUCH SAFEGUARDS. YOU ACKNOWLEDGE AND AGREE THAT: (I) VIRUSES, WORMS, TROJAN HORSES, OR OTHER UNDESIRABLE DATA OR SOFTWARE; OR (II) UNAUTHORIZED USERS (e.g., HACKERS) MAY ATTEMPT TO OBTAIN ACCESS TO AND DAMAGE THE APPLICATION, YOUR INFORMATION OR COMMUNICATIONS, AND/OR IHEALTH’S NETWORKS. IHEALTH SHALL NOT BE RESPONSIBLE FOR SUCH ACTIVITIES OR FOR YOUR INABILITY TO ACCESS OR USE THE APPLICATION. YOU ARE SOLELY RESPONSIBLE FOR THE SECURITY AND INTEGRITY OF YOUR INFORMATION AND SYSTEMS.\n9. Hyperlinking to the Application\nExcept as specifically provided in these Terms and Conditions, you may not create hyperlinks to the Application. You may provide hyperlinks to the Application on a non-commercial, not-for-profit Application, freely accessible by the public at no charge, provided that “deep links” (e.g., hyperlinks other than to iHealth’s homepage currently located at www.IHealth.com) must be in accordance with any additional terms, conditions and/or technical instructions that iHealth may post on the Application from time-to-time. If you desire to link to the Application in any other manner, you must obtain iHealth’s written permission pursuant to a Hyperlink Agreement. You shall not link to the Application in any manner which states or implies any affiliation between you or your organization and iHealth, or any sponsorship, approval or recommendation of you or your organization by iHealth. Any permitted link to the Application must clearly identify iHealth as the owner of the Application. iHealth reserves the right to redirect any links to the Application to any page it chooses. \n10. Acceptable Use\nAs a condition of your use of the Application, you warrant to iHealth that you will not (i) use the Application for any purpose that is unlawful, (ii) use the Application for any commercial purpose, (iii) modify, rent, lease, loan, sell, or distribute the Application in any manner, (iv) use or exploit the Application in an abusive, improper, or illegal manner as determined solely by iHealth, including but not limited to, by trespass, burdening network capacity, or using the Application to harass, abuse, stalk, threaten, defame or otherwise infringe or violate the rights of any other party or to transmit illegal, pornographic, libelous, profane or otherwise offensive messages or content, (v) create derivative works based on the Application or reverse engineer, deconstruct, disassemble or decompile any software or technology underlying the Application or provided through the Application. \n11. External Hyperlinks from the Application\nThe Application may contain hyperlinks to third party Applications. External hyperlinks to or from the Application do not constitute any endorsement or recommendation by iHealth of any third party or its Application, products, resources or other information. An external hyperlink to a Application does not imply that iHealth is affiliated with or sponsors the third party's Application. iHealth is not responsible for any software, data or other information available from any third party Application. You are solely responsible for complying with all terms and conditions of use for the third party Applications. You acknowledge that iHealth shall have no liability for any damage or loss arising from your access to, use of or reliance on any third party Application, software, data, or other information. \n12. Accuracy and Integrity of Information\nAlthough iHealth attempts to ensure the integrity and accuracy of the Application, it makes no guarantees whatsoever as to the correctness or accuracy of the Application. It is possible the Application may include typographical errors, inaccuracies or other errors, and that unauthorized additions, deletions and alterations could be made to the Application by third parties. In the event that an inaccuracy arises, please inform iHealth so that it can be corrected. Information contained on the Application, including these Terms and Conditions and the Privacy Policy, may be changed or updated without notice.\n13. No Warranty\nTHE APPLICATION AND ALL INFORMATION AND CONTENT AVAILABLE THROUGH THE APPLICATION ARE PROVIDED “AS IS,” WITH ALL FAULTS, AND “AS AVAILABLE”. IHEALTH DOES NOT WARRANT THAT THE APPLICATION WILL MEET YOUR REQUIREMENTS, OR THAT THE RESULTS OF ANY QUERY WILL BE COMPLETE OR ACCURATE. IHEALTH DOES NOT WARRANT THAT ACCESS TO THE APPLICATION WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE APPLICATION WILL BE CORRECTED. WITHOUT LIMITING THE FOREGOING, IHEALTH DOES NOT REPRESENT OR ENDORSE THE ACCURACY OR RELIABILITY OF ANY DATA, DESCRIPTION, IDENTIFICATION OR OTHER INFORMATION DISPLAYED, DISTRIBUTED, HYPERLINKED OR OTHERWISE REFERRED TO THROUGH THE APPLICATION. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, IHEALTH DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, TITLE, NON-INFRINGEMENT, CONFORMITY TO ANY REPRESENTATION OR DESCRIPTION, MERCHANTABILITY, QUALITY OF INFORMATION, QUIET ENJOYMENT, AND FITNESS FOR A PARTICULAR PURPOSE.\n14. Limitation of Liability\nNEITHER IHEALTH NOR ITS AFFILIATES, NOR THEIR LICENSORS OR SUPPLIERS, WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES OR DAMAGES RESULTING FROM LOST PROFITS, LOST DATA, OR BUSINESS INTERRUPTION) ARISING FROM YOUR USE OF (OR INABILITY TO USE) THE APPLICATION OR THE INFORMATION CONTAINED THEREIN, HOWEVER ARISING, EVEN IF IHEALTH OR ITS AFFILIATES OR THEIR REPRESENTATIVES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION DOES NOT APPLY TO THE EXTENT IT IS PROHIBITED BY LAW.\nYOUR SOLE REMEDY FOR DISSATISFACTION WITH THE APPLICATION OR OTHER APPLICATION-RELATED CONTENT, INFORMATION, SERVICES, AND/OR HYPERLINKED APPLICATIONS IS TO STOP USING THE APPLICATION AND/OR SUCH CONTENT, INFORMATION, SERVICES, OR SERVICES. CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.\n15. Indemnification\nYou agree to indemnify and defend iHealth and its affiliates, and their respective officers, directors, shareholders, employees, and agents from any claims, actions, losses, liabilities, damages, costs, and expenses (including attorneys fees and costs) directly or indirectly arising from your (a) use of the Application, (b) violation of any third party right, or (c) breach of any of these Terms and Conditions. You agree to cooperate as fully as reasonably required in the defense of any claim. iHealth reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification under this section and, in any event, you agree not to settle any such matter without the prior written consent of iHealth.\n16. Procedure for Making Claims of Copyright Infringement\niHealth respects the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide iHealth the following information: \n1. An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;\n2. A description of the copyrighted work that you claim has been infringed; \n3. A description of where the material that you claim is infringing is located on the Application;\n4. Your address, telephone number, and email address; \n5. A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;\n6. A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.\n17. Changes to these Terms and Conditions\niHealth reserves the right to make changes to these Terms and Conditions, including the Privacy Policy, at any time. Please check these Terms and Conditions and the Privacy Policy when you use the Application to ensure that you are aware of any changes. The Terms and Conditions and Privacy Policy will indicate the date they were last updated. Your continued use of the Application, including use after the posting of any changes to these terms, will be deemed acceptance by you of the then-current Terms and Conditions and Privacy Policy. \n18. General\nExcept as provided below, the Terms and Conditions constitute the entire agreement between iHealth and you pertaining to the subject matter hereof. Certain provisions of these Terms and Conditions may be superseded by expressly designated legal notices or terms located on particular pages within the Application. The parties agree that any and all disputes, claims or controversies arising out of or relating to these Terms and Conditions that are not resolved by mutual agreement shall be governed by California law, without giving effect to principles of conflicts of laws provisions thereof, and submitted to final and binding arbitration before JAMS, or its successor, pursuant to the United States Arbitration Act, 9 U.S.C. Sec. 1 et seq. The arbitration shall take place in San Francisco, California unless the parties otherwise agree in writing. Within fourteen (14) days thereafter, the arbitrator shall arrive at a final decision, which shall be reduced to writing, signed by the arbitrator, and mailed to each of the parties and their legal counsel. All decisions of the arbitrator shall be final, binding and conclusive on the parties and shall constitute the only method of resolving disputes or matters subject to arbitration pursuant to this Agreement; provided, however, nothing shall prohibit the parties from seeking injunctive relief and/or other equitable remedies in a court of competent jurisdiction. The arbitrator or a court of appropriate jurisdiction may issue a writ of execution to enforce the arbitrator's judgment. Judgment may be entered upon such a decision in accordance with applicable law in any court having jurisdiction thereof.\n19. Additional Android Device Terms\nThis Section 19 applies to you only if you use the Application on an Android device (e.g., iPhone, iPad, iPod Touch) (any such device, an 'Android Device'); Section 19 does not apply to you if you do not use the Application on an Android Device. We are solely responsible for the Application on your Android Device, and you may use the Application on your Android Device only as permitted by these Terms of Use and the 'Usage Rules' set forth in the Application Store Terms and Conditions (http://www.Android.com/legal/itunes/appstore/us/terms.html). As between iHealth and Android Inc., to the extent that: (a) we are required to address any claims related to your or a third party's use or possession of the Application on your Android Device, we will be responsible for addressing, investigating, or defending the claim; and (b) we have not effectively disclaimed any warranties relating to the Application on your Android Device, we will be solely responsible for any product warranties or other claims, losses, liabilities, damages, costs or expenses if the Application fails to conform to any warranty. If the Application on your Android Device fails to conform to any applicable warranty, you may notify Android Inc. for a refund of the purchase price of the Application on your Android Device, if any. Android Inc. will not have any other warranty obligations whatsoever with respect to the Application on your Android Device. Android Inc. and its subsidiaries are third party beneficiaries to these Terms of Use and that upon your acceptance of these Terms of Use, Android Inc. and its subsidiaries may enforce these Terms of Use against you as a third party beneficiary of these Terms of Use.\n\nIf you have any questions concerning these Terms and Conditions, or you desire to contact iHealth for any reason, please write: \n\n719 N. Shoreline Blvd.\nMountain View, CA 94043\nsupport@ihealthlabs.com" </string>
+
+    <!-- user_userinfo -->
+
+    <string name="userinfo_title">My Account</string>
+    <string name="user_userinfo_gender">Gender</string>
+    <string name="user_userinfo_birthday">Birthdate</string>
+    <string name="user_userinfo_height">Height</string>
+    <string name="user_userinfo_athlete">Athlete</string>
+    <string name="user_userinfo_daily_activity">Daily activity</string>
+    <string name="user_userinfo_share_email_txt">Share email</string>
+    <string name="user_userinfo_share_email">Email</string>
+    <string name="user_userinfo_partner_service">Partner Services</string>
+    <string name="user_userinfo_remember_password">Remember password</string>
+    <string name="user_userinfo_auto_login">Auto login</string>
+    <string name="user_userinfo_logout">Log Out</string>
+
+    <!-- User_password_error -->
+
+    <string name="forgot_password">Forgot Password?</string>
+
+    <!-- user_take_photo -->
+
+    <string name="user_take_photo_take">Take Photo</string>
+    <string name="user_take_photo_choose">Choose an existing photo</string>
+    <string name="user_take_photo_cancel">Cancel</string>
+    <string name="user_userinfo_nosdcard">No SDCard</string>
+    <string name="user_userinfo_takephoneError_notsupport">Device does not support camera functions</string>
+    <string name="user_userinfo_takephoneError_take_failed">Take photo failed </string>
+    <string name="user_userinfo_takephoneError_cut_failed">Cut photo failed </string>
+
+    <!-- user_userinfo_daily_activity -->
+
+    <string name="user_userinfo_daily_activity_sedentary">Sedentary</string>
+    <string name="user_userinfo_daily_activity_sedentary_more">Spend most of day sitting.(e.g. desk job)</string>
+    <string name="user_userinfo_daily_activity_active">Active</string>
+    <string name="user_userinfo_daily_activity_active_more">Spend a good part of the day doing some physical activity.(e.g. waitress, mailman)</string>
+    <string name="user_userinfo_daily_activity_very_active">Very Active</string>
+    <string name="user_userinfo_daily_activity_very_active_more">Spend most of day doing heavy physical activity.(e.g. construction worker)</string>
+    <string name="user_userinfo_daily_activity_done">Done</string>
+
+    <!-- act_setting_walking_challenge -->
+    <string name="setting_waliking_challenge_text1">A new banner of walking challenge will appear on the result page.</string>
+    <string name="setting_waliking_challenge_text2">You could track your game in real time.</string>
+
+    <!-- act_setting -->
+
+    <string name="act_setting_title">Settings</string>
+    <string name="act_setting_copyright">Copyright</string>
+    <string name="act_setting_about">About</string>
+    <string name="act_App_Version">App Version</string>
+
+    <!-- act_setting_about -->
+
+    <string name="act_setting_about_app_version">App Version</string>
+    <string name="act_setting_about_model">Model</string>
+    <string name="act_setting_about_iHealth">iHealth</string>
+
+    <!-- act_faq -->
+
+    <string name="act_faq_title">Support</string>
+    <string name="act_faq_equipment_guide">Blood Pressure Setup</string>
+    <string name="act_faq_bp">Blood Pressure FAQ</string>
+    <string name="act_faq_scale">Scale FAQ</string>
+    <string name="act_faq_am">Activity and sleep FAQ</string>
+    <string name="act_faq_po">Pulse Oximeter FAQ</string>
+
+    <!-- act_faq_bp -->
+
+    <string name="act_faq_bp_title">Blood Pressure FAQ</string>
+
+    <!-- act_bp_guide -->
+
+    <string name="act_bp_guide_title">BP Guide</string>
+    <string name="bpfaq_BPTutorial_bp5">BP5</string>
+    <string name="bpfaq_BPTutorial_bp7">BP7</string>
+    <string name="bpfaq_BPTutorial_bp3">BP3/Ease</string>
+    <string name="bpfaq_BPTutorial_bp7s">View</string>
+    <string name="infomation_email">support@ihealthlabs.com.</string>
+
+    <!-- BP FAQ -->
+
+    <string name="bpfaq_BloodPressureKnowledge">Blood Pressure Knowledge</string>
+    <string name="bpfaq_BeforeUse">Before Use</string>
+    <string name="bpfaq_Useandips">Use and Tips</string>
+    <string name="bpfaq_DataSyncing">Data Syncing</string>
+    <string name="bpfaq_Troubleshooting">Troubleshooting</string>
+    <string name="bpfaq_Warranty">Warranty</string>
+    <string name="bpfaq_BP_Tutorial">BP Tutorial</string>
+
+    <string name="bpfaq_20">BP3/Ease</string>
+    <string name="bpfaq_21">BP5</string>
+    <string name="bpfaq_22">BP7</string>
+    <string name="bpfaq_23">View</string>
+
+    <string name="act_faq_spo2_title">Pulse Oximeter FAQ</string>
+    <!-- SPO2 faq页面  question  -gbb -->
+
+    <string name="Pulse_Oximeter_Setup">Pulse Oximeter Setup</string>
+    <string name="pulse_oximeter_basics">Pulse Oximeter Basics</string>
+    <string name="using_the_pluse_oximeter">Using the Pulse Oximeter</string>
+    <string name="syncing_data">Syncing Data</string>
+    <string name="troubleshooting">Troubleshooting</string>
+    <string name="warranty_infornation">Warranty Information</string>
+
+    <!-- AM  Activity and Sleep Tracker FAQ   by gbb -->
+
+    <string name="Activty_and_sleep_Setup">Activity and sleep Setup</string>
+    <string name="general_information">General Information</string>
+    <string name="information_and_setup">Information and Setup</string>
+    <string name="syncing_your_iHealth_tracker">Syncing Your iHealth Tracker</string>
+    <string name="information_about_activity_tracking">Information about Activity Tracking</string>
+    <string name="information_about_sleep_tracking">Information about Sleep Tracking</string>
+    <string name="charging_and_battery">Charging and Battery</string>
+    <string name="trouble_shooting">Trouble Shooting</string>
+
+    <!-- question -->
+
+    <string name="act_faq_scale_title">Scale FAQ</string>
+
+    <!-- AM  Scale FAQ   by gbb -->
+
+    <string name="body_weight_knowledge">Body Weight Knowledge</string>
+    <string name="before_use">Before Use</string>
+    <string name="use_and_tips">Use and Tips</string>
+    <string name="data_syncing">Data Syncing</string>
+    <string name="warranty">Warranty</string>
+    <string name="scalefaq_body_weight_knowledge">BODY WEIGHT KNOWLEDGE</string>
+    <string name="scalefaq_before_use">BEFORE USE</string>
+    <string name="scalefaq_use_and_tips" translatable="false">USE AND TIPS</string>
+    <string name="scalefaq_data_syncing">DATA SYNCING</string>
+    <string name="scalefaq_warranty" translatable="false">WARRANTY</string>
+
+    <!-- question -->
+
+    <!-- user_login -->
+
+    <string name="user_login_proDia_title">Error</string>
+    <string name="user_login_checkuser">Username must be a valid email</string>
+    <string name="user_login_checkuser_null">Username cannot be blank</string>
+    <string name="user_login_checkpassword">Password must be between 6-128 characters</string>
+    <string name="user_login_checkpassword_null">Password cannot be blank</string>
+    <string name="user_login_signin_toast_204">User name or password is incorrect</string>
+    <string name="user_login_signin_toast_206">User account locked</string>
+    <string name="user_login_signin_toast_207">User account blocked</string>
+    <string name="user_login_signin_toast_209">User does not exist</string>
+    <string name="user_login_signin_toast_901">Network timeout</string>
+    <string name="user_login_signin_toast_902">Not connected to the network</string>
+    <string name="user_login_signin_toast_999">Network error</string>
+    <string name="user_login_signin_toast_404">Login fail</string>
+    <string name="user_login_account_error">An account error occurred, please re-login</string>
+    <string name="user_login_out_error"> Logout fail</string>
+
+    <!-- user_register2 -->
+
+    <string name="user_register2_proDia_message">Syncing</string>
+    <string name="user_register2_signin_toast_404">Syncing failed</string>
+
+    <!-- user_register3 -->
+
+    <string name="user_register3_proDia_message"> Creating...</string>
+    <string name="user_register3_signin_toast_000">Registration failed</string>
+    <string name="user_register3_signin_toast_203">Password does not meet the requirements</string>
+
+    <!-- user_userinfo -->
+
+    <string name="user_userinfo_proDia_title">Warning</string>
+    <string name="user_userinfo_proDia_message_update"> Updating...</string>
+    <string name="user_userinfo_proDia_message_upload"> Uploading...</string>
+    <string name="user_userinfo_update_toast_201">iHealth ID already exists.</string>
+    <string name="user_userinfo_update_toast_111">Update failed</string>
+    <string name="user_userinfo_upload_toast_200">Update finished</string>
+
+    <!-- 体重Setting -->
+
+    <string name="act_weight_setting_hs5">HS5</string>
+    <string name="act_weight_setting_hs6">HS6</string>
+
+    <!-- AM测量数据同步 -->
+
+    <string name="act_am_test_steps">Steps</string>
+
+    <!-- AM运动字符串 -->
+
+    <string name="am_totaltittle_minute">minute</string>
+    <string name="am_totaltittle_totalburn">Calories burned</string>
+
+    <!-- AM睡眠字符串 -->
+
+    <string name="am_totaltittle_hours">h</string>
+
+    <!-- 卡路里运动 -->
+
+    <string name="Inport">Import</string>
+    <string name="StartTime">Start Time</string>
+    <string name="EndTime">End Time</string>
+    <string name="min">min</string>
+    <string name="add">Add</string>
+    <string name="name">Name</string>
+    <string name="bpresults_TrendsData">Date</string>
+    <string name="bpresults_Moodtitle">Mood</string>
+    <string name="bpresults_Activitytitle">Activity</string>
+    <string name="bpresults_share_title">[My Blood Pressure Summary]</string>
+    <string name="bpresults_Time">Time</string>
+
+    <!-- bp error -->
+
+    <string name="bperr0">Unable to take measurements due to arm/wrist movements.</string>
+    <string name="bperr1">Failed to detect systolic pressure</string>
+    <string name="bperr2">Failed to detect diastolic pressure</string>
+    <string name="bperr3">Pneumatic system blocked or cuff is too tight during inflation</string>
+    <string name="bperr4">Pneumatic system leakage or cuff is too loose during inflation</string>
+    <string name="bperr5">Cuff pressure reached over 300mmHg</string>
+    <string name="bperr6">Cuff pressure has not reached 15 mmHg in more than 160 seconds</string>
+    <string name="bperr7">Data retrieving error</string>
+    <string name="bperr8">Data retrieving error</string>
+    <string name="bperr10">Data retrieving error</string>
+    <string name="bperr12">communication error</string>
+    <string name="bperr13">Low battery</string>
+    <string name="bperr14">Systolic exceeds 260mmHg or diastolic exceeds 199mmHg</string>
+    <string name="bperr15">Systolic below 60mmHg or diastolic below 40mmHg</string>
+    <string name="bperr16">Arm/wrist movement beyond range</string>
+
+    <!-- bp result -->
+
+    <string name="bptest_Start">START</string>
+    <string name="bpresult_SYS">SYS</string>
+    <string name="bpresult_DIA">DIA</string>
+    <string name="bpresult_UnitmmHg">mmHg</string>
+    <string name="bpresult_UnitKPa">kPa</string>
+    <string name="amtrends_steps">Steps</string>
+    <string name="BMI">BMI</string>
+
+    <!-- 设备选择相关字段 -->
+
+    <string name="how_to_set_up">How do I link devices?</string>
+    <string name="refresh">Refresh</string>
+    <string name="refreshing">Refreshing\....</string>
+    <string name="mygoals">Goals</string>
+
+    <!-- 分享 -->
+
+    <string name="share_mail">Email</string>
+    <string name="share_Twitter">Twitter</string>
+    <string name="share_Facebook">Facebook</string>
+    <string name="share_Evernote">Evernote</string>
+
+    <!-- 首次进入 -->
+
+    <string name="am_share_title">[My Activity Summary]</string>
+    <string name="Weight_share_title">[My Weight Summary]</string>
+    <string name="only_one_am">"Only one Activity Tracker is allowed per account, please check the MAC address on the back of the Activity Tracker you wish to pair with."</string>
+    <string name="ask_upgrade">A new version of firmware is available, would you like to update now?</string>
+    <string name="ask_binding_new">"New Tracker found, To pair this tracker to your account and forget the previous one, select “yes”"</string>
+    <string name="bluetooth_devicelist_dialog_ssid">SSID:</string>
+    <string name="bluetooth_devicelist_dialog_type">Type:</string>
+    <string name="bluetooth_devicelist_dialog_password">Password:</string>
+    <string name="bluetooth_setwifi_title">set Wi-Fi</string>
+    <string name="findam">"Tracker %1$s has been found. If this ID number matches the number on the back of your Tracker, select “Yes” to pair the device to your account."</string>
+    <string name="connectdevice">Connect device</string>
+
+    <!-- 用户编辑 -->
+
+    <string name="user_userinfo_name_error">Username must be 1-32 characters</string>
+
+    <!-- chen 新加 -->
+
+    <string name="set_wifi_ok">Set Wi-Fi successful</string>
+    <string name="set_wifi_no">Set Wi-Fi failed</string>
+    <string name="Hours_Slept">Sleep Time</string>
+    <string name="lookingdevice">Looking for your device</string>
+    <string name="Scale_full">The scale has reached its max accounts of 20.</string>
+    <string name="cleaning_up">Cleaning up data...</string>
+
+    <!-- 管理 -->
+
+    <string name="act_regulatory_title">Regulatory</string>
+
+    <!-- 新加提示 -->
+
+    <string name="weight_hs5_vfr">VFR</string>
+
+    <!-- 血氧结果卡增加 -->
+
+    <string name="Hours_activity">Activity Time</string>
+    <string name="am3_addalarm_title_cancel">Cancel</string>
+    <string name="am3_addalarm_title_done">Done</string>
+
+    <string name="am3_addalarm_description">Sleep reminder wakes you up by a slight vibration tracker.</string>
+    <string name="am3_activealarm_description">Idle alarm reminds you to increase activity levels through vibration from the tracker. </string>
+    <string name="frame_slidebar_left_name_txt">Edit Profile</string>
+    <string name="act_equipment_guide_am3s_3">Open the app, select your device, and enter the last 2 of the 6 digits on your tracker</string>
+    <string name="Monday">Monday</string>
+    <string name="Tuesday">Tuesday</string>
+    <string name="Wednesday">Wednesday</string>
+    <string name="Thursday">Thursday</string>
+    <string name="Friday">Friday</string>
+    <string name="Saturday">Saturday</string>
+    <string name="Sunday">Sunday</string>
+
+    <string name="weight_body_analysis_scale">Body Analysis Scale</string>
+    <string name="Incorrect_pin">Incorrect pin. Please try again.</string>
+    <string name="delete_dialog">This measurement will be permanently deleted, are you sure?</string>
+    <string name="delete_alarm_dialog">This alarm will be permanently deleted, are you sure?</string>
+    <string name="week_repeat_workdays">Weekdays</string>
+    <string name="am3_addalarm_title">New Alarm</string>
+
+    <!-- 低功耗是否可用-AM,PO弹框提示文字 -->
+
+    <string name="record_the_random_6_digit_number">Please record the random 6 digit number on the tracker, then enter the last 2 digits of this number during the pairing process.</string>
+
+    <!-- AM3S  FAQ   by gbb -->
+
+    <string name="am3_faq_title">AM3</string>
+    <string name="am3s_faq_title">Edge</string>
+    <string name="am4_faq_title">Wave</string>
+    <string name="am3s_Activty_and_sleep_Setup">Activity and sleep Setup</string>
+    <string name="am3s_product_information">Product Information</string>
+    <string name="am3s_set_up">Set Up</string>
+    <string name="am3s_sleep_tracking">Sleep Tracking</string>
+    <string name="am3s_activity_tracking">Activity Tracking</string>
+    <string name="am4s_swim_mode">Swim Mode</string><!-- am4 才有这一条 -->
+    <string name="am3s_charging_and_battery">Charging And Battery</string>
+    <string name="am3s_syncing_your_ihealth_edge">Syncing Your iHealth Edge</string>
+    <string name="am3s_trouble_shooting">Trouble Shooting</string>
+
+    <string name="deletecurrentuserdialog">Are you sure you want to delete the current user account?</string>
+    <string name="Upgrade_confirm">Upgrade firmware of the scale?</string>
+    <string name="Scan_QR_code">Scan QR code</string>
+
+    <!-- hint值其实不用翻译，EditText会有默认国家值 -->
+
+    <string name="user_register2_country">Your region</string>
+
+    <!-- “选择国家”  google的多语言 -->
+
+    <string name="choose_country">Select region</string>
+    <string name="country">Region</string>
+
+    <!-- 以下为3.0用到字段   没有跟2.0混在一起   后面可以考虑合并 -->
+
+    <string name="manual_input">Manual Input</string>
+    <string name="input_bp_title">Log</string>
+    <string name="input_bp_date">Date</string>
+    <string name="input_bp_time">Time</string>
+    <string name="input_bp_sys">SYS</string>
+    <string name="input_bp_dia">DIA</string>
+    <string name="input_bp_pulse">Pulse</string>
+    <string name="input_bp_sys_unit">mmHg</string>
+    <string name="input_bp_sys_unit2">kPa</string>
+    <string name="input_bp_pulse_unit">Beats/Min</string>
+    <string name="input_bp_note">Add notes ...</string>
+    <string name="input_done">DONE</string>
+    <string name="setting_title">Settings</string>
+    <string name="setting_mydeice">Set Up My Devices</string>
+    <string name="select_device">Select New Device</string>
+    <string name="select_device_bp_title">BLOOD PRESSURE</string>
+    <string name="select_device_hs_title">SCALE</string>
+    <string name="select_device_am_title">ACTIVITY MONITORS</string>
+    <string name="select_device_po_title">PULSE OXIMETER</string>
+    <string name="select_device_bp">Blood Pressure Monitors</string>
+    <string name="select_device_hs">Scales</string>
+    <string name="select_device_am">Activity Trackers</string>
+    <string name="select_device_po">Pulse Oximeter</string>
+    <string name="setting_goals">Goals</string>
+    <string name="setting_unit">Units</string>
+    <string name="setting_shealth">SHealth</string>
+    <string name="setting_walking_challenge">Walking Challenge</string>
+    <string name="setting_about">About</string>
+    <string name="setting_device_isconnect">Connected</string>
+    <string name="setting_device_notconnect">Not connected</string>
+    <string name="numberpicker_cancel">Cancel</string>
+    <string name="numberpicker_ok">OK</string>
+    <string name="setting_mydevice_details">Details</string>
+    <string name="setting_mydevice_product_id">Product ID:</string>
+    <string name="setting_mydevice_hardware">Hardware version:</string>
+    <string name="setting_mydevice_firmware">Firmware version:</string>
+    <string name="setting_mydevice_offline_switch">Offline Measurement</string>
+    <string name="setting_mydevice_device_battery">Device battery</string>
+    <string name="setting_mydevice_forgot_device">Forget</string>
+    <string name="setting_mydevice_tp_hr_switch">Get temperature and room humidity</string>
+    <string name="setting_mydevice_reset_wifi">Reset WiFi</string>
+    <string name="setting_mydevice_delete_currentuser">Delete current user</string>
+    <string name="setting_mydevice_tp_txt">TEMP</string>
+    <string name="setting_mydevice_rh_txt">RH</string>
+    <string name="input_po_po">SpO2</string>
+    <string name="input_po_pr">Pulse Rate</string>
+    <string name="input_po_pi">PI</string>
+    <string name="input_po_po_unit">%</string>
+    <string name="input_hs_weight">Weight</string>
+    <string name="input_hs_weight_unit_kg">kg</string>
+    <string name="input_hs_weight_unit_lbs">lb(s)</string>
+    <string name="input_hs_weight_unit_st">st</string>
+    <string name="input_hs_bodyfat">Body fat</string>
+    <string name="input_hs_bodyfat_unit">%</string>
+    <string name="input_hs_bodymass">Bone mass</string>
+    <string name="input_hs_bodywater">Body water</string>
+    <string name="input_hs_musclemass">Muscle mass</string>
+    <string name="input_hs_dci">DCI</string>
+    <string name="input_hs_fatrating">Visceral Fat Rating</string>
+    <string name="share_bp_datas">Blood Pressure data</string>
+    <string name="share_file_cvs">CSV file</string>
+    <string name="share_file_xls">XLS file</string>
+    <string name="share_file_pdf">PDF file</string>
+    <string name="share_content">Content:</string>
+    <string name="share_email">E-mail</string>
+    <string name="share_format">Format:</string>
+    <string name="share_from">From:</string>
+    <string name="share_to">To:</string>
+    <string name="share">Share</string>
+    <string name="share_progressDialog_title">"Please Wait ..."</string>
+    <string name="share_po_datas">Blood oxygen data</string>
+    <string name="share_am_datas">Activity and Sleep Data</string>
+    <string name="share_hs_datas">HS data</string>
+    <string name="share_receiver">"Receiver:"</string>
+
+    <!-- bp Menu Act -->
+
+    <string name="bp_menu_dialog">Select One Device To Start </string>
+    <string name="bp_menu_noBP3m">BP3M  has disconnected</string>
+    <string name="bp_menu_noTrack">Track has disconnected</string>
+    <string name="bp_menu_noBP5">BP5  has disconnected</string>
+    <string name="bp_menu_noBP7">BP7  has disconnected</string>
+    <string name="bp_menu_noBP7s">BP7S  has disconnected</string>
+    <string name="bp_menu_Upload">Filter Data</string>
+
+    <!-- bp menu nodevice -->
+
+    <string name="bp_upload_text">%1$d new readings since last upload</string>
+    <string name="bp_upload_btn_content">Upload All Readings</string>
+    <string name="bp_list_pulseunit">Beats/Min</string>
+
+    <!-- bplist -->
+
+
+    <string name="bp_list_All">All</string>
+
+    <!-- bpResults -->
+
+    <string name="bpresults_Send">Done</string>
+    <string name="bpresults_PulseWave">Pulse wave</string>
+    <string name="bpresults_Add_comment">Add notes</string>
+    <string name="bpresults_Note">Note</string>
+    <string name="bpresults_WHO1">Normal BP</string>
+    <string name="bpresults_WHO2">High-normal BP</string>
+    <string name="bpresults_WHO3">Mild Hypertension</string>
+    <string name="bpresults_WHO4">Moderate Hypertension</string>
+    <string name="bpresults_WHO5">Severe Hypertension</string>
+
+    <!-- bp measure -->
+
+    <string name="bpmeasure_title">Measure</string>
+    <string name="bpmeasure_continue">Continue</string>
+    <string name="bpmeasure_degree">Please correctly position your arm.</string>
+    <string name="bp_test_stop">Stop</string>
+
+    <!-- bp trends -->
+
+    <string name="trends_nodata">No Data</string>
+    <string name="btn_Day">Recent</string>
+    <string name="btn_Week">Week</string>
+    <string name="btn_Month">Month</string>
+    <string name="btn_Year">Year</string>
+    <string name="bptrends_date">BP by date</string>
+    <string name="bptrends_day">BP by time of day</string>
+
+    <!-- bp upload -->
+
+    <string name="bp_upload">Blood Pressure Upload</string>
+    <string name="bp_upload_edit">Edit</string>
+    <string name="menu_sidebar_title_BP">"Blood Pressure"</string>
+    <string name="device_guide_am3s_1_txt">"When you receive the Edge and before first use,to do a battery full charge will increase slightly the battery's life."</string>
+    <string name="device_guide_am4_1_txt">"When you receive the Wave and before first use,to do a battery full charge will increase slightly the battery's life."</string>
+
+    <!-- 设备引导-BP3-1 -->
+
+    <string name="device_guide_bp3_1_title">"BP3 Setup Guide"</string>
+    <string name="device_guide_bp3_1_skip">"Cancel"</string>
+    <string name="device_guide_bp3_1_txt">"Make sure your device is fully charged."</string>
+    <string name="device_guide_bp3_1_next">"Next"</string>
+
+    <!-- 设备引导-BP3-2 -->
+
+    <string name="device_guide_bp3_2_txt">Please remove the case on your mobile device.</string>
+    <string name="device_guide_bp3_2_txt1">"Verbind uw Android-apparaat met de bloeddrukdock."</string>
+
+    <!-- 设备引导-BP3-3 -->
+
+    <string name="device_guide_bp3_3_txt">"Put on the monitor as shown below and \npress START. Take your first Blood \nPressure measurement!"</string>
+
+    <!-- 设备引导-BP5-1 -->
+
+    <string name="device_guide_bp5_1_title">"BP5 Setup Guide"</string>
+
+    <!-- 设备引导-BP5-2 -->
+
+    <string name="device_guide_bp5_2_txt">"Please press the START/STOP button \n on the blood pressure monitor."</string>
+    <string name="device_guide_bp5_2_txt2">"Click on the device titled BP5 xxxxxx to pair"</string>
+    <string name="isopenbluetooth">"Turn On BlueTooth to Allow \"iHealth\" to Connect to Accessories"</string>
+    <string name="isopenwifi">"Please connect to WiFi network in your mobile device settings."</string>
+
+    <!-- 设备引导-BP5-4_1 -->
+
+    <string name="device_guide_bp5_4_searching">"Searching..."</string>
+    <string name="device_guide_bp5_4_1_txt">"Is your blood pressure monitor powered on?"</string>
+    <string name="device_guide_bp5_4_1_txt2">"Make sure lights appear when you press the START/STOP button on the blood pressure monitor. If no lights appear, please charge it first."</string>
+
+    <!-- 设备引导-BP5-4_2 -->
+
+    <string name="device_guide_bp5_4_2_txt">"Not working?"</string>
+    <string name="device_guide_bp5_4_2_txt1">"If there are other smart devices nearby, please move them away."</string>
+    <string name="device_guide_bp5_4_2_txt2">"Make sure your blood pressure monitor is nearby."</string>
+    <string name="device_guide_bp5_4_2_txt3">"Make sure your blood pressure monitor is paired in your mobile device's Bluetooth settings."</string>
+
+    <!-- 设备引导-BP5-4_3 -->
+
+    <string name="device_guide_bp5_4_3_txt">"You can try the following"</string>
+    <string name="device_guide_bp5_4_3_txt1">"Go to your Bluetooth settings and delete BP5XXXXXX from your Bluetooth list. Turn Bluetooth settings off and re-pair the BP5."</string>
+    <string name="device_guide_bp5_4_3_txt2">"Please hold down your home button or click on menu button and swipe to fully shut down all Apps currently running in the background and re-open MyVitals."</string>
+
+    <!-- 设备引导-BP7-1 -->
+
+    <string name="device_guide_bp7_1_title">"BP7 Setup Guide"</string>
+
+    <!-- 设备引导-BP7-2 -->
+
+    <string name="device_guide_bp7_2_txt">"Please press the START/STOP button on the blood pressure monitor"</string>
+    <string name="device_guide_bp7_2_txt2">"Click on the device titled BP7 xxxxxx to pair"</string>
+
+    <!-- 设备引导-BP7-4_2 -->
+
+    <string name="device_guide_bp7_4_3_txt1">"Go to your Bluetooth settings and delete BP7XXXXXX from your Bluetooth list. Turn Bluetooth settings off and re-pair the BP7."</string>
+
+    <!-- 设备引导-PO3-1 -->
+
+    <string name="device_guide_po3_1_title">"PO3 Setup guide"</string>
+
+    <!-- 设备引导-PO3-3_1 -->
+
+    <string name="device_guide_po3_3_1_txt">"Is your pulse oximeter powered on?"</string>
+    <string name="device_guide_po3_3_1_txt2">"Make sure \"- -\" appear when you press the button on the pulse oximeter."</string>
+
+    <!-- 设备引导-PO3-3_2 -->
+
+    <string name="device_guide_po3_3_2_txt1">"If there are other smart devices nearby,move them away."</string>
+    <string name="device_guide_po3_3_2_txt2">"Make sure your pulse oximeter is nearby."</string>
+    <string name="device_guide_po3_3_2_txt3">"Your pulse oximeter can be found faster if you press the button to keep it on."</string>
+
+    <!-- 设备引导-PO3-3_3 -->
+
+    <string name="device_guide_po3_3_3_txt1">"Hold the button for 8 seconds to reset the pulse oximeter."</string>
+    <string name="device_guide_po3_3_3_txt2">"Turn off Bluetooth in your mobile device settings then turn on again"</string>
+    <string name="device_guide_po3_3_3_txt3">"Please hold down your home button or click on menu button and swipe to fully shut down all Apps currently running in the background and re-open MyVitals."</string>
+
+    <!-- amResults -->
+
+    <string name="amresults_title">Activity and Sleep Results</string>
+    <string name="amresults_Active">Active</string>
+    <string name="amresults_Nonactive">Non-active</string>
+    <string name="amresults_steps">step</string>
+    <string name="amresults_km">km</string>
+    <string name="amresults_kacl">kcal</string>
+    <string name="amresults_h">h</string>
+    <string name="amresults_Totalsleep">Total Sleep</string>
+    <string name="amresults_Asleep">Asleep</string>
+    <string name="amresults_DeepSleep">Deep sleep</string>
+    <string name="amresults_Awaken">Awake</string>
+    <string name="amresults_SleepStatus">Sleep Efficiency</string>
+
+    <!-- goal -->
+
+    <string name="goal_title">Goals</string>
+    <string name="goal_TargetWeight">Target weight</string>
+    <string name="goal_BloodPressure">Target blood pressure</string>
+    <string name="goal_dailyActiveGoal">Daily activity goal</string>
+    <string name="weight_unit_st">st</string>
+    <string name="weight_unit_kg">kg</string>
+    <string name="weight_unit_lb">lb(s)</string>
+    <string name="height_unit_cm">cm</string>
+    <string name="height_unit_feet">feet</string>
+    <string name="height_unit_m">m</string>
+    <string name="am_unit_km">km</string>
+    <string name="am_unit_kcal">kcal</string>
+    <string name="am_list_of">of</string>
+    <string name="amresults_mile">miles</string>
+    <string name="distance_mile_unit">mile</string>
+    <string name="goal_null"> -- </string>
+    <string name="diastolic_ishigher_systolic">The High pressure value cannot be equal to or lower than the Low pressure value.</string>
+    <string name="weightvalue_error">The weight values are not in the range or the format is incorrect</string>
+    <string name="bloodvalue_error">The blood pressure values are not in the range</string>
+
+    <!-- unit -->
+
+    <string name="setting_unit_bp">Blood pressure units:</string>
+    <string name="setting_unit_hs">Weight units:</string>
+    <string name="setting_unit_length">Distance units:</string>
+    <string name="setting_unit_height">Height units:</string>
+    <string name="setting_unit_temperature">Temperature units:</string>
+
+    <!-- am setting -->
+
+    <string name="amsetting_title">Edge Detail</string>
+    <string name="amsetting_about">ABOUT</string>
+    <string name="amsetting_settings">SETTINGS</string>
+    <string name="amsetting_productid">Product ID:</string>
+    <string name="amsetting_HardwareVersion">Hardware version:</string>
+    <string name="amsetting_Update">Update</string>
+    <string name="amsetting_FirmwareVersion">Firmware version:</string>
+    <string name="amsetting_DeviceBattary">Device battery</string>
+    <string name="amsetting_DeviceSkin">Device skin</string>
+    <string name="amsetting_SleepAlarm">Sleep alarm</string>
+    <string name="amsetting_ActiveAlarm">Active alarm</string>
+    <string name="amsetting_Every">Every %1$d  hours %2$d  min</string>
+    <string name="amsetting_reset">Reset</string>
+
+    <!-- AM Measurement -->
+
+    <string name="ammeasure_notconnect">The device is not connected</string>
+    <string name="ammeasure_gotoyourphone">Go to your phone settings and turn on Bluetooth.</string>
+    <string name="ammeasure_sync">SYNC</string>
+    <string name="ammeasure_link">LINK</string>
+    <string name="setting_title_undevice">You don\'t have any iHealth devices set up yet!</string>
+    <string name="setting_select_newdevice">Select New Device</string>
+
+    <!-- am setup guide -->
+
+    <string name="device_guide_am3_title">AM3 Setup guide</string>
+    <string name="device_guide_am3s_title">Edge Setup guide</string>
+    <string name="device_guide_am4_title">Wave Setup guide</string>
+    <string name="device_guide_am3_2_txt">Go to your phone settings and turn on Bluetooth.</string>
+    <string name="device_guide_am3_3_txt">Put on your monitor as shown above and press LINK.Then take your first activity measurement!</string>
+
+    <!-- 设备主界面TAB描述 -->
+
+    <string name="measurement">Measure</string>
+    <string name="list">List</string>
+    <string name="trends">Trends</string>
+
+    <!-- 设备选择相关字段 -->
+
+    <string name="add_device_dialog_am3_title1">Not working?</string>
+    <string name="add_device_dialog_am3_txt1_1">If there are other smart devices nearby,move them away.</string>
+    <string name="add_device_dialog_am3_txt1_2">Make sure your Activity Tracker is nearby.</string>
+    <string name="add_device_dialog_am3_txt1_3">Please confirm your AM3 is not binging with user(it show \"Launch the app to start \"on the watch).If is not,please unbind with user.</string>
+    <string name="add_device_dialog_am3_title2">You can try the following</string>
+    <string name="add_device_dialog_am3_txt2_1">Turn off Bluetooth in your mobile devices settings then turn on again.</string>
+    <string name="add_device_dialog_am3_txt2_2">Please hold down your home button or click on menu button and swipe to fully shut down all Apps currently running in the background and re-open MyVitals.</string>
+    <string name="add_device_dialog_am3s_title1">Not working?</string>
+    <string name="add_device_dialog_am3s_txt1_1">If there are other smart devices nearby,move them away.</string>
+    <string name="add_device_dialog_am3s_txt1_2">Make sure your Activity Tracker is nearby.</string>
+    <string name="add_device_dialog_am3s_title2">You can try the following</string>
+    <string name="add_device_dialog_am3s_txt2_1">Restart Edge(connected to the charger and hold the button 8 seconds).</string>
+    <string name="add_device_dialog_am3s_txt2_2">Turn off Bluetooth in your mobile device settings then turn on again.</string>
+    <string name="add_device_dialog_am3s_txt2_3">Please hold down your home button or click on menu button and swipe to fully shut down all Apps currently running in the background and re-open MyVitals.</string>
+
+    <!-- PO Result -->
+
+    <string name="po_upload">Pulse Oximeter Upload</string>
+    <string name="POResult_title">Pulse Oximeter Results</string>
+    <string name="SPO2">SpO2</string>
+    <string name="POResult_unnormal">Abnormal</string>
+    <string name="POResult_normal">Normal</string>
+    <string name="PR">PULSE</string>
+    <string name="PI">PI</string>
+    <string name="POResult_OxygenRange">Oxygen range</string>
+    <string name="bpm">bpm</string>
+    <string name="spo2_share_title">[My Oximeter Summary]</string>
+<string name="spo_introduce">This device has a SpO2 measurement range of 70 - 100%.
+SpO2 levels lower than 70% may indicate device malfunction, user error, or an abnormal blood oxygen saturation level. Please consult with your doctor about your blood oxygen saturation level.</string>
+    <!-- HS Result -->
+
+    <string name="HSResult_title">Weight Results</string>
+    <string name="HSResult_WEIGHT">WEIGHT</string>
+    <string name="HSResult_BMI">BMI</string>
+    <string name="HSResult_HSRange">BMI classification</string>
+    <string name="HSResult_HSRange4">Obese</string>
+    <string name="HSResult_HSRange3">Overweight</string>
+    <string name="HSResult_HSRange2">Normal</string>
+    <string name="HSResult_HSRange1">Underweight</string>
+    <string name="HSResult_bodyfat">Body fat</string>
+    <string name="HSResult_Leanmass">Lean mass</string>
+    <string name="HSResult_bodybone">Bone mass</string>
+    <string name="HSResult_bodydci">DCI</string>
+    <string name="HSResult_bodymuscle">Muscle mass</string>
+    <string name="HSResult_bodywater">Body water</string>
+    <string name="HSResult_VFR">VFR</string>
+    <string name="HSResult_ComeOn">Come on,\n You are beautiful</string>
+
+    <!-- BP Result -->
+
+    <string name="bpresults_title">Blood Pressure Results</string>
+    <string name="bpresults_SYS">SYS</string>
+    <string name="bpresults_DIA">DIA</string>
+    <string name="bpresults_Pulse">Pulse</string>
+    <string name="bpresults_bpunit1">mmHg</string>
+    <string name="bpresults_bpunit2">kPa</string>
+    <string name="bpresults_pulseunit">Beats/Min</string>
+    <string name="bpresults_WHO">WHO</string>
+    <string name="bpresults_GNC">JNC</string>
+    <string name="bpresults_WHOzong">Systolic</string>
+    <string name="bpresults_WHOheng">Diastolic</string>
+    <string name="BPResult_BPRange">BP range</string>
+    <string name="BPResult_4BPRange4">Normal BP</string>
+    <string name="BPResult_4BPRange3">High-normal </string>
+    <string name="BPResult_4BPRange2">Stage1 HBP</string>
+    <string name="BPResult_4BPRange1">Stage2 HBP</string>
+    <string name="BPResult_6BPRange6">Optimal</string>
+    <string name="BPResult_6BPRange5">Normal BP</string>
+    <string name="BPResult_6BPRange4">High-normal</string>
+    <string name="BPResult_6BPRange3">Mild HBP</string>
+    <string name="BPResult_6BPRange2">Moderate HBP</string>
+    <string name="BPResult_6BPRange1">Severe HBP</string>
+    <string name="BPResult_mooddescripe">(Blood pressure is affected by your mood.)</string>
+    <string name="BPResult_activitydescripe">(Blood pressure is affected by lifestyle changes.)</string>
+
+    <!-- po haveconnect -->
+
+    <string name="POTest_putfinger">Place pulse oximeter on your finger and press the button to start a measurement.</string>
+    <string name="POTest_pulloutfinger">Remove pulse oximeter from your finger to stop measurement. </string>
+    <string name="POTest_connect"> The device is connected.</string>
+
+    <!-- hs menu nodevice -->
+
+    <string name="hs_nodevice_hs5">Make sure your phone and HS5 scale are on the same WiFi network.</string>
+    <string name="hs_havedevice_hs345">Stand on scale with bare foot</string>
+    <string name="hs_havedevice_hs6">Stand on scale with your bare feet, the data is automatically synchronized to your cloud account.</string>
+    <string name="hs_havedevice_hs6_statisticaldata">Sync data now</string>
+    <string name="hs_Testing">Testing</string>
+
+    <!-- HS5 设备引导 - 1 -->
+
+    <string name="device_guide_hs5_title">HS5 Setup Guide</string>
+    <string name="device_guide_hs5_txt1_1">Install batteries</string>
+
+    <!-- HS5 设备引导 - 2 -->
+
+    <string name="device_guide_hs5_txt2_1">Please connect to WiFi network in your mobile device settings.</string>
+
+    <!-- HS5 设备引导 - 3 -->
+
+    <string name="device_guide_hs5_txt3_1">Go to your phone settings and turn on Bluetooth.</string>
+
+    <!-- HS5 设备引导 - 4 -->
+
+    <string name="device_guide_hs5_txt4_1">Is your scale successfully setting the Wifi connection?</string>
+    <string name="device_guide_hs5_txt4_1_1">On the scale you must see the Wifi icon flashing and tuning stable, \"SET\" should disappear and is replaced by \"0.0\".</string>
+
+    <!-- <string name="device_guide_hs5_txt4_2">Not working?</string> 同device_guide_bp5_4_2_txt -->
+
+    <string name="device_guide_hs5_txt4_2_1">Try to take measurement with your scale not too far away from your router.</string>
+    <string name="device_guide_hs5_txt4_2_2">Make sure your Scale and your phone are on the same Wifi network.</string>
+
+    <!-- <string name="device_guide_hs5_txt4_3">You can try the following</string> 同device_guide_bp5_4_3_txt -->
+
+    <string name="device_guide_hs5_txt4_3_1">Reinsert the battery.</string>
+    <string name="device_guide_hs5_txt4_3_2">Restart your router.</string>
+    <string name="device_guide_hs5_txt4_3_3">If setting the Wifi failed \(Wifi icon is not stable on the scale\), please reset the scale.</string>
+    <string name="device_guide_hs5_txt4_4_4">"Click on the device titled HS5 xxxxxx to pair"</string>
+
+    <!-- HS3 设备引导 - 1 -->
+
+    <string name="device_guide_hs3_title">HS3 Setup guide</string>
+
+    <!-- <string name="device_guide_hs3_txt1_1">Install batteries</string> 同device_guide_hs5_txt1_1 -->
+
+
+    <!-- HS3 设备引导 - 2 -->
+
+
+    <!-- <string name="device_guide_hs3_txt2_1">Go to your Phone Settings and turn on Blutooth.</string> device_guide_hs5_txt3_1 -->
+
+
+    <!-- HS3 设备引导 - 3 -->
+
+    <string name="device_guide_hs3_txt3_1">Confirm Scale shows \"0.0\".</string>
+    <string name="device_guide_hs3_txt3_2">Click on the device titled HS3 xxxxx to pair.</string>
+
+    <!-- HS3 设备引导 - 4 -->
+
+    <string name="device_guide_hs3_txt4_1">Is your scale powered on?</string>
+    <string name="device_guide_hs3_txt4_1_1">Make sure \"0.0\" appear on the scale. If not, please replace the batteries.</string>
+
+    <!-- <string name="device_guide_hs3_txt4_2">Not working?</string> 同device_guide_bp5_4_2_txt -->
+
+    <string name="device_guide_hs3_txt4_2_1">If there are other smart devices nearby, please move them away.</string>
+    <string name="device_guide_hs3_txt4_2_2">Make sure your scale is nearby.</string>
+
+
+    <!-- <string name="device_guide_hs3_txt4_3">You can try the following</string> 同device_guide_hs5_txt4_3 -->
+
+
+    <!-- <string name="device_guide_hs3_txt4_3_1">Reinsert the battery.</string > 同device_guide_hs5_txt4_3_1 -->
+
+    <string name="device_guide_hs3_txt4_3_2">Go to your Bluetooth settings and delete HS3XXXXXX from your Bluetooth list. Turn Bluetooth settings off and re-pair the HS3.</string>
+    <string name="device_guide_hs3_txt4_3_3">Please hold down your home button or click on menu button and swipe to fully shut down all Apps currently running in the background and re-open MyVitals.</string>
+
+    <!-- HS6 HS5S设备引导 - 1 -->
+
+    <string name="device_guide_hs6_title">iHealth Core Setup Guide</string>
+    <string name="device_guide_hs5s_title">iHealth Vista Setup Guide</string>
+    <string name="device_guide_hs6_txt1_1">Please connect to WiFi network in your mobile device settings.</string>
+
+    <!-- HS6 HS5S设备引导 - 2 -->
+
+    <string name="device_guide_hs6_2_txt">Scan QR code on the back of the scale</string>
+    <string name="device_guide_hs6_2_btn">Scan QR code</string>
+
+    <!-- HS6 HS5S设备引导 - 3 -->
+
+    <string name="device_guide_hs6_3_1_txt">Press the \"Set\" button located in the battery tray. Flip your scale over to see if the Setup message appears on the display.</string>
+    <string name="device_guide_hs6_3_2_txt">Enter password of your network</string>
+    <string name="device_guide_hs6_3_btn">Set WiFi</string>
+
+    <!-- HS4 设备引导 - 1 -->
+
+    <string name="device_guide_hs4_title">iHealth Lite Setup Guide</string>
+
+    <!-- <string name="device_guide_hs4_txt1_1">Install batteries</string> 同device_guide_hs5_txt1_1 -->
+
+
+    <!-- HS4 设备引导 - 2 -->
+
+
+    <!-- <string name="device_guide_hs4_txt2_1">Go to your Phone Settings and turn on Blutooth.</string> 同device_guide_hs5_txt3_1 -->
+
+
+    <!-- HS4 设备引导 -3 -->
+
+
+    <!-- <string name="device_guide_hs4_txt3_1">Is your Scale Powered on?</string> 同 device_guide_hs3_txt4_1 -->
+
+
+    <!-- <string name="device_guide_hs4_txt3_1_1">Make sure "0.0" appear on the scale. if is not, please replace the batteries. </string>  同 device_guide_hs3_txt4_2 -->
+
+
+    <!-- <string name="device_guide_hs4_txt4_2">Not working?</string> 同device_guide_bp5_4_2_txt -->
+
+
+    <!-- <string name="device_guide_hs4_txt3_2_1">if there are other smart devices nearby, move them away.</string> 同device_guide_hs3_txt4_2_1 -->
+
+
+    <!-- <string name="device_guide_hs4_txt3_2_2">Make sure your Scale is nearby.</string> 同 device_guide_hs3_txt4_2_2 -->
+
+
+    <!-- <string name="device_guide_hs4_txt3_2_3">Keep Scale lighting, it can to be searched quickly.</string> -->
+
+
+    <!-- <string name="device_guide_hs4_txt4_3">You can try the following</string> 同device_guide_hs5_txt4_3 -->
+
+
+    <!-- <string name="device_guide_hs4_txt4_3_1">Reinsert the battery.</string > 同device_guide_hs5_txt4_3_1 -->
+
+    <string name="device_guide_hs4_txt3_3_2">Turn off Bluetooth in your mobile device settings then turn on again.</string>
+
+    <!-- <string name="device_guide_hs4_txt3_3_3">Please double click your home button and swipe up shut down all Apps running in the background and reopen the app.</string>  同 device_guide_hs3_txt4_3_3 -->
+
+    <string name="trends_sport">Steps</string>
+    <string name="am_trends_sleep">Sleep</string>
+    <string name="am_trends_hour">h</string>
+    <string name="am_unit_steps">steps</string>
+    <string name="am_unit_step">step</string>
+    <string name="trends_distance">Distance</string>
+    <string name="trends_calories">Calories burned</string>
+    <string name="trends_calories_unit">kcal</string>
+    <string name="am_unit_distance_miles">miles</string>
+    <string name="am_unit_distance_km">km</string>
+
+    <!-- MyVitals -->
+
+    <string name="MyVitals_title">My Vitals</string>
+    <string name="than_last">Than last </string>
+    <string name="same_as_last_time">The same as last time</string>
+    <string name="HS_upload">Weight Upload</string>
+
+    <!-- HS6 -->
+
+    <string name="Scale_full_hs6">The scale has reached its max accounts of 10.</string>
+    <string name="hs6_reset_wifi">Do you want to re-set the Wifi of your iHealth Core now?</string>
+    <string name="hs6_reset_wifi_setting">You can reset wifi as follows: device settings ->Reset Wifi</string>
+    <string name="BPResult_SYSexplaination">Systolic pressure:\nMaximum value of the blood pressure as a result of the contraction of the systemic ventricle.\n\nDiastolic pressure:\nMinimum value of the blood pressure as a result of relaxation of the systemic ventricle.</string>
+    <string name="BPResult_Waveexplaination">Pulse Wave:\nWithin each cardiac cycle, the cyclical pressure fluctuations, which caused by ventricular systolic and diastolic, make the arteryexpansion and retraction. The
+
+       regular beats caused by the expansion and retraction of artery are called pulse. Along blood vessel walls the spread of the forward wave is called pulse wave.</string>
+    <string name="POResult_PIexplaination">PI:\nPI is the Perfusion Index. PI values reflect the pulsating blood flow, which reflects the ability of perfusion. The larger the pulsation of blood flow is, the larger the ripple is, and thus a higher PI value.</string>
+
+    <!-- 设备引导-BP3-3_v2 -->
+
+    <string name="device_guide_bp3_3_v2_txt">"Is the light on and steady on the BP3?"</string>
+    <string name="device_guide_bp3_3_v2_txt1">"1. Charge your blood pressure monitor"</string>
+    <string name="device_guide_bp3_3_v2_txt2">"2. Disconnect and then reconnect the BP3 with your mobile device"</string>
+    <string name="AMResult_StatusExplation">the percentage of time lying down that you are actually sleeping</string>
+    <string name="hsresult_Goal">Goal</string>
+    <string name="HSResult_BodyFatExplation">Body fat percentage is the amount of body fat as a proportion of your body weight. Reducing excess levels of body fat has shown to reduce the risk of certain conditions such as high blood pressure, heart disease, diabetes, and cancer.</string>
+    <string name="HSResult_LeanMassExplation">Lean Body Mass is a component of body composition, calculated by subtracting body fat weight from total body weight.The percentage of total body mass that is lean is usually not quoted – it would typically be 60–90%. The Lean body mass (LBM) has been described as an index superior to total body weight for prescribing proper levels of medications and for assessing metabolic disorders, as body fat is less relevant for metabolism.</string>
+    <string name="HSResult_BodyWaterExplation">Total Body Water Percentage is the total amount of fluid in a person’s body expressed as a percentage of their total weight. Water plays a vital role in many of the body’s processes and is found in every cell, tissue and organ. Maintaining a healthy total body water percentage will ensure the body functions efficiently and will reduce the risk of developing associated health problems.</string>
+    <string name="HSResult_MuscleMassExplation">This feature indicates the weight of muscle in your body. The muscle mass displayed includes the skeletal muscles, smooth muscles [such as cardiac and digestive muscles] and the water contained in these muscles. Muscles play an important role as they act as an engine in consuming energy. As your muscle mass increases, your energy consumption increases helping you reduce excess body fat levels and lose weight in a healthy way.</string>
+    <string name="HSResult_DCIExplation">Daily caloric intake is the estimated number of calories to maintain your current weight.</string>
+    <string name="HSResult_BoneMassExplation">This feature indicates the amount of bone (bone mineral level, calcium, or other minerals) in the body. Research has shown that exercise and the development of muscle tissue are related to stronger and healthier bones.</string>
+    <string name="HSResult_VFRExplation">Visceral fat is the fat that is in the internal abdominal cavity, surrounding the vital organs in the abdominal area. Research shows that even if your weight and body fat remains constant, as you get older the distribution of fat changes and is more likely to shift to the trunk area especially post menopause.</string>
+    <string name="BPTrends_minmax">min-max</string>
+    <string name="BPTrends_LastTest">Last Test</string>
+    <string name="HSTrends_Highest">Highest</string>
+    <string name="HSTrends_Lowest">Lowest</string>
+    <string name="HSTrends_Average">Average</string>
+    <string name="AMTrends_Activity">Activity</string>
+    <string name="AMTrends_BestDay">Best Day</string>
+    <string name="AMTrends_GoalReached">Goal Reached</string>
+    <string name="AMTrends_day">day</string>
+    <string name="AMTrends_steps">steps</string>
+    <string name="AMTrends_mins">min</string>
+    <string name="AMTrends_totalSteps">Total Steps</string>
+
+    <!-- zendesk新加 -->
+
+    <string name="ContactUs">Contact Us</string>
+    <string name="ContactUs_send">Send</string>
+    <string name="send_succ">Support ticket sent！ An iHealth customer service member will reply as soon as possible.</string>
+    <string name="send_failed">Failed to send</string>
+    <string name="yourEmail">Your email:</string>
+    <string name="subject">Subject:</string>
+    <string name="no_email">Please enter your e-mail</string>
+    <string name="Description">Description</string>
+    <string name="AMTrends_h">h</string>
+
+    <!-- update -->
+
+    <string name="update_title">New Version</string>
+    <string name="update_txt">Do you want to download the latest version of this app?</string>
+    <string name="update_must_txt">You must download the latest version of this app to proceed.</string>
+    <string name="update_button_later">Later</string>
+    <string name="update_button_download">Download</string>
+    <string name="yes">Yes</string>
+    <string name="HSTrends_bmp">bpm</string>
+
+    <!-- ask bluetooth -->
+
+    <string name="Application_Bluetooth_permission_request">Turn On Bluetooth to Allow \"iHealth\" to Connect to Accessories</string>
+    <string name="Application_GPS_permission_request">\n Please turn on location services (GPS) in order to successfully connect iHealth devices. Turn on now? \n</string>
+    <string name="user_userinfo_yes">Yes</string>
+    <string name="user_userinfo_no">No</string>
+    <string name="openBT">Turn Bluetooth "On" in your mobile device\'s settings</string>
+    <string name="opening">Opening......</string>
+    <string name="hs5_position">You are user No.</string>
+
+    <!-- AMResult -->
+
+    <string name="amresult_TotalStep">Total Steps</string>
+    <string name="AMResult_hours">h</string>
+    <string name="AMResult_hour">h</string>
+    <string name="AMResult_min">min</string>
+    <string name="AMResult_mins">min</string>
+    <string name="hs6_guide_target_weight_title">Target weight</string>
+    <string name="hs6_guide_target_weight_txt1">Please enter your actual weight</string>
+    <string name="hs6_guide_target_weight_txt2">The actual weight is used to distinguish different users within 3kg variance. It will be updated after each measure.</string>
+    <string name="hs6_guide_reset_wifi_title">Do you want to re-set the Wifi of your iHealth Core now?</string>
+    <string name="hs6_guide_reset_wifi_txt">"You can reset wifi as follows:Set Up MyDevice-> Core ->Reset wifi"</string>
+    <string name="hs5s_guide_reset_wifi_title">Do you want to re-set the Wifi of your iHealth Vista now?</string>
+    <string name="hs5s_guide_reset_wifi_txt">"You can reset wifi as follows:Set Up MyDevice-> Vista ->Reset wifi"</string>
+    <string name="list_no_sharedata">There is no shared data in this time period</string>
+    <string name="input_hs_done_hint">Input error!</string>
+    <string name="act_equipment_guide_bp_1">Charge the battery</string>
+    <string name="act_equipment_guide_bp_2">Turn Bluetooth "On" in your mobile device\'s settings</string>
+    <string name="act_equipment_guide_bp_3">Tap “Pair” to connect</string>
+    <string name="act_equipment_guide_po3_1">Connect Pulse Oximeter via Bluetooth</string>
+    <string name="act_equipment_guide_po3_2">Pair your Pulse Oximeter with your device</string>
+    <string name="act_equipment_guide_po3_3">Open the App and take measurement</string>
+    <string name="act_equipment_guide_am3_3">Open app and select “Yes” when prompted</string>
+    <string name="act_faq_am_title">Activity and Sleep FAQ</string>
+    <string name="amfaq_general_information_title">GENERAL INFORMATION</string>
+    <string name="amfaq_information_and_setup_title">INFORMATION AND SETUP</string>
+    <string name="amfaq_syncing_your_iHealth_tracker_title">SYNCING YOUR IHEALTH TRACKER</string>
+    <string name="amfaq_information_about_activity_tracking_title">INFORMATION ABOUT ACTIVITY TRACKING</string>
+    <string name="amfaq_information_about_sleep_tracking_title">INFORMATION ABOUT SLEEP TRACKING</string>
+    <string name="amfaq_charging_and_battery_title">CHARGING AND BATTERY</string>
+    <string name="amfaq_trouble_shooting_title">TROUBLE SHOOTING</string>
+    <string name="bp_guid_bp5_first">Secure the cuff on your arm leaving enough space to fit one finger between the cuff and arm.</string>
+    <string name="bp_guid_bp5_second">Position the monitor in the middle of your arm so that it is aligned with your middle finger.</string>
+    <string name="bp_guid_bp5_third">Apply the cuff following the UP/DOWN signs.</string>
+    <string name="bp_guid_bp5_fourth">Position the montor in the middle of your arm aligned with your middle finger.</string>
+    <string name="bp_guid_bp5_fifth">Position the cuff 1/2"(2cm) above your elbow joint.</string>
+    <string name="bp_guid_bp7_first">The measurement range allows the cuff to be at the same level as your heart.</string>
+    <string name="bp_guid_bp7_second">Apply the cuff to your wrist leaving 1-2cm between the cuff and bottom of your palm with the iHealth logo facing upright.</string>
+    <string name="bp_guid_bp7_third">Sit comfortably, resting your arm on travel case and angle your wrist until it is within measurement range.</string>
+    <string name="bp_guid_bp3_first">Secure the cuff on your arm leaving enough space to fit one finger between the cuff and arm.</string>
+    <string name="bp_guid_bp3_second">Position the cuff 1/2″(2cm) above your elbow joint.</string>
+    <string name="bp_guid_bp3_third">Position your arm so that the cuff is at the same level as your heart.</string>
+    <string name="bp_guid_bp3_fourth">Position the monitor in the middle of your arm so that it is aligned with your middle finger</string>
+    <string name="user_userinfo_upload_toast_222">Upload failed</string>
+    <string name="share_title">Select app to share</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_version">V3.0.0.17 </string>
+    <string name="guest">Guest</string>
+    <string name="Data">Data</string>
+
+    <!-- <string name="facebook_app_id">294007404096176</string> -->
+
+    <string name="facebook_app_id">527669054035079</string>
+
+    <!-- 修改 -->
+
+    <string name="act_guide_edittext_text3">Supports a variety of iHealth devices so you can keep track of all your vitals anywhere, anytime.</string>
+
+    <!-- 新加 -->
+
+    <string name="act_guide_start">Start your healthy journey</string>
+    <string name="ok">OK</string>
+    <string name="Cancel">Cancel</string>
+
+    <!-- 主架构相关 -->
+
+    <string name="summary">My Vitals</string>
+
+    <string name="bp">Blood Pressure</string>
+    <string name="bp_measure_title">Blood Pressure</string>
+    <string name="bp_list_title">Blood Pressure Results</string>
+    <string name="bp_trends_title">Blood Pressure Trends</string>
+
+    <string name="am3">Activity and Sleep</string>
+    <string name="am_measure_title">Activity and Sleep</string>
+    <string name="am_list_title">Activity and Sleep Results</string>
+    <string name="am_trends_title">Activity and Sleep Trends</string>
+
+    <string name="po">Pulse Oximeter</string>
+    <string name="po_measure_title">Pulse Oximeter</string>
+    <string name="po_list_title">Pulse Oximeter Results</string>
+    <string name="po_trends_title">Pulse Oximeter Trends</string>
+
+    <string name="hs">Weight</string>
+    <string name="hs_measure_title">Weight</string>
+    <string name="hs_list_title">Weight Results</string>
+    <string name="hs_trends_title">Weight Trends</string>
+
+    <string name="setting">Settings</string>
+    <string name="shop">Shop</string>
+    <string name="menu_sys_notice">System notice</string>
+    <string name="menu_ask">Do you want to exit the App ?</string>
+    <string name="init_cover">"In here,you can manage your devices and set up new devices."</string>
+    <string name="share_error_1">Can\'t find share component to share</string>
+    <string name="linked_devices">Search</string>
+    <string name="please_input_random">Please enter the last two digits.</string>
+
+    <!-- 低功耗是否可用-AM,PO弹框提示文字 -->
+
+    <string name="checkBLE_proDia_no_support_phone">Your Android device is not compatible with the Bluetooth Low Energy module of this product.</string>
+    <string name="checkBLE_proDia_no_support_sdk">Your Android OS version is not compatible with this product, please upgrade to Android 4.3 or higher.</string>
+    <string name="checkBLE_proDia_no_support_sdk_samsung">Your Android OS version is not compatible with this product, please upgrade to Android 4.4 or higher.</string>
+    <string name="device_guide_hs5_add1">Press the \"Set\" button located in the battery tray.</string>
+    <string name="device_guide_hs5_add2">Flip your scale over to see if the Setup message appears on the display.</string>
+    <string name="potest_text">Pull your finger out of the device to stop measurement.</string>
+    <string name="user_register3_signin_toast_201">iHealth ID already exists</string>
+    <string name="menucover">In here,you can manage your devices and set up new devices.</string>
+    <string name="device_guide_hs4s_added">If HS4S，Tap “Pair” to connect</string>
+    <string name="week_repeat_weekend">Weekend</string>
+
+    <!-- 最近没有数据 -->
+
+    <string name="week_nodate">No data available of last 7 days</string>
+    <string name="month_nodate">No data available of last 30 days</string>
+    <string name="year_nodate">No data available of last 365 days</string>
+    <string name="today_nodate">No data available of today</string>
+
+    <!-- 设备引导-BP3-1 -->
+
+    <string name="device_guide_bp3L_1_title">Ease Setup guide</string>
+    <string name="device_guide_bp3L_1_txt">Connecting</string>
+    <string name="device_guide_bp3L_1_TryAgain">Try again</string>
+    <string name="device_guide_bp3L_1_skip">"Cancel"</string>
+    <string name="device_guide_bp3L_4_txt">Not working? You can try the following.</string>
+    <string name="device_guide_bp3L_4_txt2">Make sure your iHealth Ease is nearby.</string>
+    <string name="device_guide_bp3L_4_txt3">Turn off Bluetooth in your mobile device settings then turn on again.</string>
+    <string name="device_guide_bp3L_4_txt4">Please double click your home button and swipe up to shut down all Apps currently running in the background and re-open MyVitals.</string>
+    <string name="bp_menu_noBP3L">Ease has disconnected</string>
+    <string name="bp_nodevice_noteConnect">Not connected. Please check the setup below for your device.</string>
+    <string name="resetAmdialog">Are you sure you want to perform a factory reset?</string>
+
+    <!-- 设备引导-BP7s-1 -->
+
+    <string name="device_guide_bp7s_2_txt2">Click on the device titled View xxxxxx to pair</string>
+    <string name="device_guide_bp7s_2_txt">Press START/STOP button for 2 seconds to turn on the Bluetooth when the blood pressure monitor is power off</string>
+    <string name="device_guide_bp7s_1_title">View Setup Guide</string>
+    <string name="device_guide_bp7s_3_txt">Press the "START/STOP" button for 2 seconds to turn on Bluetooth when the blood pressure monitor is powered off.</string>
+    <string name="device_guide_bp7s_2_tv">Go to Phone\'s Settings→Bluetooth, and click on the device titled View xxxxx to pair.</string>
+    <string name="device_guide_bp7s_4_txt1">Keep all the other smart devices away to avoid interference.</string>
+    <string name="device_guide_bp7s_4_txt2">Make sure your iHealth View is near your smartphone or tablet.</string>
+    <string name="device_guide_bp7s_4_txt3">Turn off Bluetooth in your mobile device settings then turn on again.</string>
+    <string name="device_guide_bp7s_4_txt4">Please tap the "recent" button and swipe up to shut down all Apps currently running in the background and re-open MyVitals.</string>
+    <string name="device_guide_bp7s_4_txt5">Press the START/STOP button on the blood pressure monitor until the LED light appears. Charge it if no light appears.</string>
+    <!-- bp7s guid5 -->
+    <string name="device_guide_bp7s_5_title">Measurement Guide</string>
+    <string name="device_guide_bp7s_5_title1">There is no data in your blood pressure monitor. Please try to measure blood pressure first.</string>
+    <string name="device_guide_bp7s_5_title2">Wrist position good</string>
+    <string name="device_guide_bp7s_5_tv1">Press the START/STOP button to turn on Bluetooth when your monitor is power off.</string>
+    <string name="device_guide_bp7s_5_tv2">Put on the monitor and adjust the wrist position good, press START/STOP button again to start measurement.</string>
+    <string name="device_guide_bp7s_5_cancle">Cancel</string>
+    <!-- bp7s 同步 -->
+    <string name="bp7s_sync">SYNC</string>
+    <string name="bp_nodevice_toPair">Click on the device titled BP XXXXXX to pair.</string>
+    <string name="bp_nodevice_Connect">Connect your Android device to the blood pressure dock and launch MyVitals.</string>
+    <string name="bp_nodevice_toPairBP3L">From the Android Quick Settings, turn on Bluetooth.</string>
+    <string name="bp_menu_bpFilter">Filter Data</string>
+    <string name="bp7s_syncing">SYNCING</string>
+    <string name="bp_menu_noBP7S">View  has disconnected</string>
+    <string name="bp7s_syncing_failed">Syncing failed, please try again.</string>
+    <string name="device_bp7s_noofflinedata">No offline data</string>
+    <!-- bp7s 指导 -->
+    <string name="bp_guid_bp7s_second">Apply the cuff to your wrist with the screen facing up and iHealth logo upright. Leave two fingers spacing between the cuff and the bottom of your palm.</string>
+    <string name="bp_guid_bp7s_third">Turn on the monitor by applying the cuff or press the "START/STOP" button. Adjust the height of your wrist, the monitor will detect your wrist position and the measurement will start ONLY when the correct position is detected. When the position is correct, press "START/STOP" button again to start measurement.</string>
+
+    <!-- hs5 删除用户 -->
+
+    <string name="hs5_delete_user">user No.</string>
+    <string name="hs5_delete_user_me">-me</string>
+    <string name="hs5_delete_user_confirm">Are you sure you want to delete %1$s ? </string>
+    <string name="hs5_delete_users">Delete user</string>
+    <string name="hs5_delete_users_failed">Delete failed</string>
+    <string name="hs5_delete_users_success">Delete success</string>
+    <!-- 550BT 引导 -->
+    <string name="device_guide_550bt_1_title">Track Setup guide</string>
+    <string name="device_guide_550bt_1_txt">Please press the [upto] button on the blood pressure monitor to turn on the Bluetooth</string>
+    <string name="device_guide_550bt_2_txt2">Make sure your iHealth Track is nearby.</string>
+    <string name="device_guide_550bt_2_txt4">Please tap the "Recent" and swipe upto shut down all Apps currently running in the background and re-open MyVitals.</string>
+    <string name="device_guide_550bt_2_txt5">Make sure your iHealth Track Bluetooth is turned on.if not,press the [upto] button on the blood pressure monitor to turn on it.</string>
+    <string name="bp_guid_550bt_fourth">Press the START/STOP button on the blood pressure monitor to start measure</string>
+    <string name="bp_guid_550bt_third">Position the monitor in the middle of your arm aligned with your middle finger.</string>
+    <string name="bp_menu_no550bt">Track  has disconnected</string>
+    <!-- 新加欢迎页 -->
+    <string name="act_guide_edittext_550bt">Fully automatic measurement offline,\nand easy manage cloud data.</string>
+
+    <!-- 绑定账号 三方整合 -->
+
+    <string name="bindsuccess_input_password">Your account has binded an iHealth Account, please input your password.</string>
+    <string name="bind_choose_title">Binding Account</string>
+    <string name="userchoose"> You should bind an iHealth Accout.</string>
+    <string name="use_exiting_account">Use an existing account</string>
+    <string name="register_bind_new_count">Register and bind a new account</string>
+    <string name="choosewarn">Please concern the following information before you move on:
+
+when you choose to bind iHealth account to current account,
+
+the history data will be merged into iHealth account, and usually it would take some time (the data merging process will be performed on cloud, and then, these history data will be pushed to your application when finished).
+
+  Furthermore, it happens that you have application settings (like your weight target) in both places, and in this situation you have to choose yourself which application settings,
+
+namely settings related to your account, to be used after binding. </string>
+    <string name="Register_Bind">Register and Bind</string>
+    <string name="Bind">Bind</string>
+    <string name="continue_smart"> Next</string>
+    <string name="best_account">Please select a best account</string>
+    <string name="same_server_faild">Your account connection is not available in your country.</string>
+    <string name="rebind">Your account is already bound, please log in again.</string>
+    <string name="check_usernameandpassword_fail">Bind Fail</string>
+    <string name="account_exists">iHealth ID already exists.</string>
+    <string name="bind_country_load">Upload</string>
+    <string name="confirm_country">Please confirm your location for a better service from iHealth.</string>
+    <string name="add_user">Add account</string>
+    <string name="link_iHealth_account">To ensure the security of your account, please link to an iHealth account.</string>
+    <string name="notice">Notice</string>
+    <string name="bind_title">Linking your iHealth account</string>
+    <string name="bind_tip"> Linking an iHealth account helps ensure that your data is secure</string>
+    <string name="creat_new_account">Create and Link New Account</string>
+    <string name="comfirm_info_title">Enter your information</string>
+    <string name="comfirm_info_tip">Incorrect information may cause account problems in the future</string>
+    <string name="comfirm_info_marning">Please complete all the fields</string>
+    <string name="comfirm_info_caution">Please confirm that all the information is correct </string>
+    <string name="choose_your_country">Choose your task</string>
+    <string name="third_complete">"When linking accounts, some measurement data may need to be merged. This process could take up to 24 hrs."</string>
+    <string name="third_complete2">"If your data still does not appear after 24 hrs, please contact iHealth customer support."      </string>
+    <string name="got_it">"Got it</string>
+    <!-- shealth -->
+    <string name="tv_shealth_tip">  Do you want to share the data of this iHealth MyVitals account with the SHealth app?
+        If yes,only this account will share data with Shealth</string>
+    <string name="tv_shealth_tip_title">You are about to add a new user to your SHealth.</string>
+    <string name="share_list_title_years">" years"</string>
+    <string name="share_list_title_mybloodpressure">My Blood Pressure</string>
+    <string name="share_list_title_myweight">My Weight/Body Fat</string>
+    <string name="share_list_title_myactivity">My Activity</string>
+    <string name="share_list_title_myspo2">My SPO2</string>
+    <string name="wifi_pwd_limit">Wi-Fi password can not exceed 32</string>
+    <string name="wifi_pwd_limit_comma">The password is not supported by the input comma</string>
+    <string name="device_disconnected">Your device has disconnected</string>
+
+    <!-- AM4及AM新需求相关 -->
+    <string name="please_input_random_added">Please enter the last two digits displayed on the tracker to pair.</string>
+    <string name="please_check_mac">Please check the MAC ID on the back of the tracker and select the correct one to pair.</string>
+    <string name="bind_am3s_well_done">You\'re all set</string>
+    <string name="bind_am3s_success">Pairing successful!</string>
+    <string name="bind_am3s_bottom_txt">The tracker is now ready for your personal use only.</string>
+    <string name="am_nodevice_openblutooth">Please turn on Bluetooth</string>
+    <string name="am_nodevice_swipedown_openblutooth">Swipe down from the top of the screen to open the quick settings and turn Bluetooth on.</string>
+    <string name="am_nodevice_OR">OR</string>
+    <string name="am_nodevice_gosetting_openblutooth">Go to phone setting to turn Bluetooth on.</string>
+    <string name="am_have_device">There\'s already a tracker linked in your account.If you want to add a new tracker,please “Reset” the old one first and then add again.</string>
+    <string name="wave_guide_what_is">What is the iHealth Wave?</string>
+    <string name="wave_guide_activity">Activity</string>
+    <string name="wave_guide_stay_motivated">Stay motivated</string>
+    <string name="wave_guide_stay_motivated_walking">Walking</string>
+    <string name="wave_guide_stay_motivated_running">Running</string>
+    <string name="wave_guide_stay_motivated_swimming">Swimming</string>
+    <string name="wave_guide_keep_swimming">Just keep swimming</string>
+    <string name="wave_guide_keep_swimming_freestyle">Freestyle</string>
+    <string name="wave_guide_keep_swimming_backstroke">Backstroke</string>
+    <string name="wave_guide_keep_swimming_breaststroke">Breaststroke</string>
+    <string name="wave_guide_sleep">Sleep</string>
+    <string name="wave_guide_sleep_your_efficient">How efficient is your sleep?</string>
+    <string name="wave_guide_sleep_alarm">Alarm</string>
+    <string name="wave_guide_sleep_analysis">Analysis</string>
+    <string name="wave_guide_swim_mode">Swim Mode</string>
+
+    <string name="wave_guide_swipe_up">Swipe up from the home button…</string>
+    <string name="wave_guide_swim_mode_when_swimming_time">Time</string>
+    <string name="wave_guide_swim_mode_charge_the_wave">Fully charge the Wave before first use to increase battery life</string>
+    <string name="wave_guide_swim_mode_when_swimming_styles">Styles</string>
+    <string name="wave_guide_swim_mode_when_swimming_percentage">Percentage</string>
+    <string name="wave_guide_swim_mode_when_swimming_duration">Duration for this style</string>
+    <string name="wave_guide_swim_mode_finish_swimming">When finished swimming</string>
+    <string name="wave_guide_swim_mode_finish_swimming_calories">Calories</string>
+    <string name="wave_guide_swim_mode_finish_swimming_strokes">Number of strokes</string>
+    <string name="wave_guide_swim_mode_finish_swimming_strokes_per">Strokes per minute</string>
+    <string name="wave_guide_swim_mode_attention">Attention</string>
+    <string name="wave_guide_swim_mode_attention_content">Swim Mode is activated by default. It is recommened to turn swim mode off if you don\'t plan to use it.</string>
+    <string name="wave_guide_swim_mode_set_mode">Set Swim Mode</string>
+    <string name="wave_settings_pool_length">Pool Length</string>
+    <string name="wave_settings_open_water">Open water</string>
+    <string name="wave_settings_other">Other...</string>
+    <string name="wave_settings_set_pool_length">SET POOL LENGTH</string>
+    <string name="wave_settings_cover_txt1">Swim Mode is activated by default. Leaving it on will increase battery consumption. It is recommened to turn swim mode off if you don\'t plan to use it.</string>
+    <string name="wave_settings_cover_txt2">Setting the pool length will increase the accuracy of  swim distance tracking.</string>
+    <string name="wave_settings_swim_goals_motivate">Set swim goals to motivate yourself</string>
+    <string name="wave_settings_switch_turn">Turn on the swim mode and set your swim goal</string>
+    <string name="wave_settings_when_you_swim">When you swim, swim goal will displayed after swim styles</string>
+
+    <!-- am4结果卡 -->
+    <string name="AM4Result_Workout">Workout</string>
+    <string name="AM4Result_Active_calories">Active calories</string>
+    <string name="AM4Result_Total_calories">Total calories</string>
+    <string name="AM4Result_Current_BMR">Current BMR</string>
+    <string name="AM4Result_Swim">Swim</string>
+    <string name="AM4Result_TotalSleep">Total Sleep</string>
+    <string name="AM4Result_Light">Light</string>
+    <string name="AM4Result_Deep">Deep</string>
+    <string name="AM4Result_Awake">Awake</string>
+    <string name="AM4Result_H">h</string>
+    <string name="AM4Result_Mins">min</string>
+    <string name="AM4Result_s">s</string>
+    <string name="AM4Result_Steps">Steps</string>
+    <string name="AM4Result_BackStroke">BackStroke</string>
+    <string name="AM4Result_Freestyle">Freestyle</string>
+    <string name="AM4Result_BreastStroke">BreastStroke</string>
+    <string name="AM4Result_Other">Other</string>
+    <string name="AM4Result_Str">Str</string>
+    <string name="AM4Result_Spm">Spm</string>
+    <string name="AM4Result_Lap">lap</string>
+    <string name="AM4Result_Laps">laps</string>
+    <string name="AM4Result_Laps_Star">*</string>
+    <string name="AM4Result_LapsExplanation">*Please  enjoy early access to the lap function as we work through beta testing.</string>
+    <string name="AM4Result_cover_laps">How many laps you swim</string>
+    <string name="AM4Result_cover_kcal">Calories burned from swimming</string>
+    <string name="AM4Result_cover_total_stroke">Total strokes you swim</string>
+    <string name="AM4Result_cover_stroke_per_minute">Strokes per minute</string>
+
+    <string name="AM4Result_cover_swim_styles">Percentage of duration for different swim styles</string>
+    <string name="AM4Result_cover_alarm">Sleep alarm wakes you up by vibrations from the tracker</string>
+    <string name="AM4Result_cover_search">There\'s already a tracker linked to your account, if you want to add a new tracker, "reset" the old on first</string>
+
+    <string name="contact_us">Contact us</string>
+    <string name="send">Send</string>
+
+    <string name="yourEmailEU">e-mail *:</string>
+    <string name="subjectEU">Subject *:</string>
+    <string name="slect_product">Select Your Product *:</string>
+    <string name="serialNumber">Serial number:</string>
+    <string name="serialNumberExtra">The serial number is printed on the side or on the back of your device (preceded by SN)</string>
+    <string name="request">Select the object of your request *:</string>
+    <string name="description">Description *:</string>
+    <string name="descriptionExtra">Please,try to be as clear as possible in order to help us to provide you the best answer</string>
+    <string name="explain">(*)These fields can\'t be blank</string>
+    <string name="network_error">Network error</string>
+    <string name="success_message">Thank you! Your message has been successfully sent to our support team.</string>
+    <string name="fail_message">Submit failed, please try again.</string>
+    <string name="notice_message">Please fullfill all the information before submitting</string>
+    <string name="doneEU">Done</string>
+
+    <string name="wave_guide_swim_mode_when_swimming">When swimming</string>
+    <string name="wave_guide_swim_mode_Displays_swim_styles">Displays swim styles</string>
+    <string name="am_swim_goal">Swim goal</string>
+    <string name="am_list_step">Step</string>
+    <string name="am_list_sleep">Sleep</string>
+    <string name="am_list_swim">Swim</string>
+
+    <string name="am_wave_guide_set_swim_goals_blabla">Set swim goals to motivate yourself</string>
+    <string name="am_wave_guide_when_you_swim_blabla">When you swim, swim goal will display after swim styles</string>
+    <string name="am_wave_guide_turn_on_the_blabla">Turn on the swim mode and set your swim goal</string>
+    <string name="am_wave_guide_rotate_wrist_blabla">Rotate wrist to display swim goal</string>
+    <string name="am_wave_guide_swim_goal">Swim goal</string>
+    <string name="am_wave_guide_swim_total_duration">Total duration</string>
+
+    <string name="am_wave_guide_swim_duration">Duration</string>
+    <string name="am_wave_guide_swim_number_of_strokes">Number of Strokes</string>
+
+    <string name="am_wave_setting_swim_goal_title">Swim Goal</string>
+    <string name="am_wave_setting_swim_goal_content">Swim goal is the total time you actually swim, not the time you spend in water.</string>
+
+    <string name="wave_settings_cover_txt_new">Swim Mode is on by default and will increase battery consumption. Please turn off if you don\'t plan on swimming.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reminder_notify_pill">Take pill.</string>
+    <string name="reminder_notify_pill_sport">Take pill and sport.</string>
+    <string name="reminder_notify_pill_blood">Take pill and take my Blood Pressure.</string>
+    <string name="reminder_notify_sport_blood">Sport and take my Blood Pressure.</string>
+    <string name="reminder_notify_pill_weight">Take pill and take my Weight.</string>
+    <string name="reminder_notify_sport_weight">Sport and take my Weight.</string>
+    <string name="reminder_notify_blood_weight">Take my Blood Pressure and take my Weight.</string>
+    <string name="reminder_notify_pill_sport_blood">Take pill and sport and take my Blood Pressure.</string>
+    <string name="reminder_notify_pill_sport_weight">Take pill and sport and take my Weight.</string>
+    <string name="reminder_notify_pill_blood_weight">Take pill and take my Blood Pressure and take my Weight.</string>
+    <string name="reminder_notify_sport_blood_weight">Sport and take my Blood Pressure and take my Weight.</string>
+    <string name="reminder_notify_pill_sport_blood_weight">Take pill and sport and take my Blood Pressure and take my Weight.</string>
+    <string name="reminder_notify_blood">Take my Blood Pressure.</string>
+    <string name="reminder_notify_sport">Sport.</string>
+    <string name="reminder_notify_weight">Take my Weight.</string>
+
+</resources>

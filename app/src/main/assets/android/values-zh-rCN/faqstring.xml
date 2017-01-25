@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--am4-->
+    <string name="am4s_syncing_your_ihealth_wave">同步ihealth wave</string>
+
+    <!-- Product Information -->  
+    <string name="astfaq_am4_1">1. Wave的产品介绍?</string> 
+    <string name="astfaq_am4_2">2. Wave是如何识别游泳的?</string> 
+    <string name="astfaq_am4_3">3. Wave会记录哪些数据？</string> 
+    <string name="astfaq_am4_4">4. 怎么佩戴Wave？</string> 
+
+    <!--Swim Mode--> 
+    <string name="astfaq_am4_5">1.Wave可以识别几种泳姿？</string> 
+    <string name="astfaq_am4_6">2.佩戴Wave游泳有注意事项吗？</string> 
+    <string name="astfaq_am4_7">3.游泳数据会在屏幕上显示多久？</string> 
+    <string name="astfaq_am4_8">4.在游泳过程中Wave记录并显示什么数据？</string> 
+    <string name="astfaq_am4_9">5.游泳结束后Wave显示什么数据?</string> 
+    <string name="astfaq_am4_10">6.Wave如何退出游泳模式？</string> 
+    <string name="astfaq_am4_11">7.可以在洗澡淋浴时佩戴Wave吗？</string> 
+    <string name="astfaq_am4_12">8.如果不需要游泳模式可以关掉吗？</string> 
+    <string name="astfaq_am4_13">9.在游泳过程中可以用腰夹佩戴Wave吗？</string>
+    <string name="astfaq_am4_14">6.在游泳过程中Wave没有进入到游泳模式。</string>
+    <!-- Set Up -->
+    <string name="astfaq_am4_15"> 1.首次使用 iHealth Wave 活动跟踪器</string>
+    <string name="astfaq_am4_16"> 2.如何在我的设备上设置我的 iHealth Wave 活动跟踪器 </string>
+    <string name="astfaq_am4_17"> 3.为什么需要将我的运动追踪器连接到我 iHealth MyVitals 帐户?</string>
+    <string name="astfaq_am4_18"> 4.我的 iHealth Wave可以绑定多用户吗?</string>
+    <string name="astfaq_am4_19"> 5.我可以把我的跟踪器给别人吗?</string>
+    <string name="astfaq_am4_20"> 6.为什么我需要更新我的 android 应用程序?</string>
+    <string name="astfaq_am4_21"> 7.我的 iHealth Wave何时重置之前的数据会有影响吗?</string>
+    <string name="astfaq_am4_22"> 8.iHealth Wave可以与 PC 连接吗?</string>
+
+    <!-- Activity Tracking -->
+    <string name="astfaq_am4_23">1.卡路里跟踪功能是如何实现的?</string>
+    <string name="astfaq_am4_24">2.iHealth Wave适用于所有的体育活动吗?</string>
+    <string name="astfaq_am4_25">3.什么是锻炼模式?</string>
+    <string name="astfaq_am4_26">4.跟踪器可以存储多少数据?</string>
+    <string name="astfaq_am4_27">5.iHealth Wave的防水等级和防水性能是怎样的?</string>
+    <string name="astfaq_am4_28">6.如何切换模式?</string>
+    <string name="astfaq_am4_29">7.如何关闭闹钟?</string>
+    <string name="astfaq_am4_30">8.空闲闹钟是如何工作的？我怎样设置空闲闹钟呢?</string>
+    <string name="astfaq_am4_31">9.活动级别功能是如何工作的?</string>
+    <string name="astfaq_am4_32">10.我可以在进行诸如篮球,足球和其他剧烈运动时穿戴和使用 iHealth Wave吗?</string>
+
+    <!-- Charging And Battery -->
+    <string name="astfaq_am4_33">1.我可以检查跟踪电池电量？</string>
+    <string name="astfaq_am4_34">2.充满电的情况下，跟踪器的电池续航能力是怎样的？</string>
+    <string name="astfaq_am4_35">3.充电小贴士</string>
+    <!-- Syncing Your iHealth Wave -->
+    <string name="astfaq_am4_36">1.iHealth Wave腕表如何与 iHealth MyVitals 应用程序进行同步?</string>
+    <string name="astfaq_am4_37">2.我多久需要将跟踪器与我的移动设备进行数据同步呢?</string>
+    <string name="astfaq_am4_38">3.同步数据时，跟踪器是否需要放置在要同步设备的附近?</string>
+    <string name="astfaq_am4_39">4.当更改时区时，我如何将时间同步至跟踪器上?</string>
+    <!-- Trouble Shooting -->
+    <string name="astfaq_am4_40">1.如何获得 iHealth Wave的固件升级?</string>
+    <string name="astfaq_am4_41">2.重置功能如何实现?</string>
+    <string name="astfaq_am4_42">3.我何时需要重新启动 iHealth Wave？该如何操作呢?</string>
+    <string name="astfaq_am4_43">4.我不能将活动跟踪器与我的移动设备连接。</string>
+    <string name="astfaq_am4_44">5.如果您在设备连接和同步方面仍有问题，请按照下面的步骤进行操作:</string>
+
+
+    <!--AM4 answer-->
+    <string name="astfaq_am4_content_1">iHealth Wave可以分析并记录行走的步数，距离，卡路里消耗，游泳数据及睡眠数据。Wave出色的防水能力，能够支持游泳佩戴，记录并显示多项游泳数据。
+    Wave可以设置静音闹钟及活动提醒，提醒的同时不会打扰到其他人。
+    Wave通过蓝牙4.0连接智能设备。</string>
+    <string name="astfaq_am4_content_2">Wave通过3轴加速度传感器来分析人体动作，当你游泳时，Wave可以正确的识别并自动切换到游泳模式。
+    游泳模式以一圈为单位记录数据，当一圈中只有一个泳姿，Wave只记录一种泳姿的数据，如果在一圈中有多种泳姿，Wave会计算出一圈中时长占比最大的一种泳姿，并把这一圈的数据记录在其下。</string>
+     <string name="astfaq_am4_content_3">Wave识别并记录游泳姿势，每种泳姿的时长，总游泳时长，总划水次数，每分钟的划水次数，卡路里消耗。
+    连接App可以查看更多游泳信息。</string>
+    <string name="astfaq_am4_content_4">如果为了记录步数和睡眠，可以使用腕带及表扣两种选择，但如果想去游泳，必须使用腕带佩戴在手腕上。</string>
+
+
+    <!--Swim Mode-->  
+    <string name="astfaq_am4_content_5">在游泳过程中，腕表可自动识别记录三种泳姿：蛙泳，自由游，仰泳。如果有其他泳姿，Wave同样可以识别为游泳，但在腕表上会显示为未识别泳姿“？？”，在app中归类为“其他”。</string>
+
+    <string name="astfaq_am4_content_6">1.游泳的水温不要超过30度。
+    2.为了减少划水阻力，佩戴腕表要紧贴手腕。
+    3.游泳模式会增加电量消耗，使用时间将从7天降为5天。
+    4.游泳模式可自由开关，如果不使用在app中关闭即可。</string>
+
+
+    <string name="astfaq_am4_content_7">在泳池中游泳时，Wave的屏幕上会一直显示当前游泳的信息，包括当前时间，泳姿，每种泳姿的时长。
+    如果结束游泳离开泳池，走大约50步，Wave会从游泳模式切换到运动模式，并显示总的游泳数据。总游泳数据包括总游泳时长，卡路里消耗，总划水次数及每分钟划水次数会在目标完成度后一屏显示30分钟。
+    所有数据可通过连接app后查看。</string>
+
+    <string name="astfaq_am4_content_8">在游泳过程中，Wave会显示当前的时间，游泳的姿势，当前泳姿的时长。
+    如果游了多种姿势，可晃动手腕切换查看不同显示内容。</string>
+     
+    <string name="astfaq_am4_content_9">当游泳结束后，Wave通过两次震动告知并显示总的游泳数据，包括总的游泳时长，卡路里，总划水次数（str），每分钟划水次数（spm）。这些数据会在目标完成度后一屏显示30分钟。</string>
+
+    <string name="astfaq_am4_content_10">当完成游泳离开泳池时，走大约50步，Wave会自动切换为运动模式。
+    如果将仍在游泳模式中的Wave摘下放在一边，持续30分钟后，会自动切换为运动模式。</string>
+
+    <string name="astfaq_am4_content_11">可以，但是水温不要超过30度。</string>
+
+    <string name="astfaq_am4_content_12">可以在app里面关闭。
+    首先确定Wave和app是连接状态。
+    打开app，管理我的设备-Wave-游泳模式-关闭即可。</string>
+
+    <string name="astfaq_am4_content_13">不可以，在游泳过程中只能佩戴在手腕，并且要紧贴手腕。</string>
+
+
+    <!-- Set Up -->
+    <string name="astfaq_am4_content_27">当您初次拿到活动追踪器，请为其充电直至充满 (约 2 ~ 4 小时)。请将充电器的 USB 一端连接到您的计算机或其他 USB 充电器，另一端与运动追踪器的磁端连接。然后将充电器的磁点与活动跟踪器吸附连接。</string>
+    <string name="astfaq_am4_content_28">为保护您的个人数据，iHealth 活动跟踪器将在您第一次安装程序的过程中与您的 iHealth MyVitals 帐户进行连接。</string>
+    <string name="astfaq_am4_content_29">每次每个账户只能与一个活动跟踪器连接。</string>
+    <string name="astfaq_am4_content_30">​新版本应用程序可能包含更多的功能和改进。更新您的 android 应用程序能够提高程序性能并有助于问题修复。</string>
+    <string name="astfaq_am4_content_31">您的活动跟踪器将在每天午夜重新开始计算，因此您当天的所有数据将重置为零。您每分钟存储的数据将会保存在您的追踪器中，如果您14 天没有同步数据，这些数据将被清除。我们建议您每天进行数据同步。</string>
+
+
+
+
+    <string name="astfaq_am4_content_15">配对前请先确保您的 iHealth Wave 活动跟踪器已充满电。然后按照按照以下步骤完成配对:
+	a.从苹果应用程序商店或Google Play下载"iHealth MyVitals 3.0"应用程序 。
+	b.进入您设备中的"设置"，打开蓝牙开关。
+	c.打开应用程序并创建一个 iHealth 帐户。如果您已有iHealth账户，请登录到您的帐户。
+	d.将活动跟踪器放置在设备附近。点击左上角的菜单图标并选择"活动和睡眠"。
+	e.单击"连接"，然后从设备列表中选择"Wave"。点击"完成"。
+	f.您的追踪器会显示6 位随机数字。在您的设备中输入最后两位进行配对。
+	g.如果您无法看到 6 位随机数字，请关闭应用程序，然后重复以上操作。要关闭在后台运行的应用程序，长按HOME (或点击菜单按钮) ，然后左右滑动来关闭应用程序 (Android版本)。</string>
+    <string name="astfaq_am4_content_16">请参照"如何在我的设备上设置iHealth Wave"条目下的步骤进行操作，重新将其连接到另一个帐户。请注意，连接到另一个帐户后，没有被同步到原帐户的数据将被删除。</string>
+    <string name="astfaq_am4_content_17">目前，iHealth Wave只可选择与 android 和 ios 设备进行连接。</string>
+    <!-- Sleep Tracking -->
+
+    <string name="astfaq_am4_content_32">睡眠模式将会在最小运动 30 分钟内自动启动。如果不停的进行运动，追踪器会将重置，用户将不得不等待分配的时间，直到再次进入睡眠模式。</string>
+    <string name="astfaq_am4_content_33">当您佩戴着 iHealth 活动和睡眠跟踪器入睡时，跟踪器将会整晚检测并分析您的运动模式，并把这些数据转化为有用的信息，如您多长时间入梦，您醒来的次数，以及您的真实睡眠时长和清醒时长。</string>
+    <string name="astfaq_am4_content_34">您可以在应用程序中设置睡眠闹钟。睡眠闹钟会通过轻微的振动来唤醒您，而不会干扰您的伴侣。睡眠闹钟的振动持续时间为 40 秒。</string>
+
+
+    <string name="astfaq_am4_content_18">IHealth Wave腕表能够在您睡觉时检测您的肢体动作，比如您是睡着了或者辗转反侧，然后将该数据转换为醒来次数。知道您醒来的次数可以帮助您更好地理解您休息的质量。</string>
+
+    <!--Activity Tracking-->
+    <string name="astfaq_am4_content_35">当您连续走路或跑步时间超过 10 分钟，在完成锻炼 5 分钟后，跟踪器将生成一份包含步数、 距离、 卡路里信息的总结报告。</string>
+    <string name="astfaq_am4_content_36">跟踪器可以存储长达 14 天的数据。超过 14 天的数据将被新数据自动替换。</string>
+    <string name="astfaq_am4_content_37">iHealth wave 腕表是防雨防淋溅防汗的。然而，它并不防水，所以请不应在游泳和洗澡时佩戴。</string>
+    <string name="astfaq_am4_content_38">您可以通过轻抬手腕来切换不同的模式。</string>
+    <string name="astfaq_am4_content_39">当睡眠闹钟响的时候，摇晃您的追踪器，可将其关闭。</string>
+    <string name="astfaq_am4_content_40">您可以在 iHealth MyVitals 应用程序中添加活动闹钟。追踪器将产生大约 4 秒的振动来提醒您起身进行一些运动。</string>
+    <string name="astfaq_am4_content_41">在这些剧烈运动时，佩戴活动跟踪器是安全的，活动跟踪器将从这些运动中记录您的步数。然而，卡路里计数结果可能不能准确反映运动的强度和剧烈程度。</string>
+
+
+    <string name="astfaq_am4_content_19">iHealth Wave 活动跟踪器记录您活动全天所消耗的卡路里，以及您的基础代谢率 (BMR)，即您休息时所消耗的热量(换句话说，就是在您睡觉时，用来维持您特定身体机能所消耗的能量)。这种计算是基于您的年龄、 性别、 身高、 体重的。追踪器显示的是您从每天午夜开始消耗的热量。</string>
+    <string name="astfaq_am4_content_20">iHealth Wave 腕表是防雨防淋溅防汗的。然而，它并不防水，所以请不应在游泳和洗澡时佩戴。</string>
+    <string name="astfaq_am4_content_21">为了使您更积极，iHealth Wave 将根据您的活动级别奖励您不同的活动成就，比如嬉戏跳跃的青蛙可以分别移至第三，第二和第一名。如下所示:
+	步数为在 2,500 步时 : 小人将跳转到第三名;
+步数为在 5,000 步时 : 小人将跳转到第二名;
+步数为在 10,000 步时 : 小人将跳转到第一名并加冕。</string>
+
+    <!-- Charging And Battery -->
+    <string name="astfaq_am4_content_42">跟踪器的电池电量水平出现在跟踪显示屏上以及应用程序中。当电池电量达到 20%时，追踪器会产生振动，提醒您要给它充电。</string>
+    <string name="astfaq_am4_content_43">a.从您的计算机或电源插座上移除您的充电器，以避免磁性连接器连接到其他物品而缩短使用寿命。
+    b.当跟踪器的电池电量低于 20%时，请及时充电，以延长电池的使用寿命。</string>
+
+    <string name="astfaq_am4_content_22">iHealth Wave 活动跟踪器是由可充电内置电池供电。根据使用习惯，腕表的电池通常能持续使用 5-7 天。如果您经常检查统计数据或设定有多个闹钟，您可能需要更经常给电池充电。</string>
+    <!-- Syncing Your iHealth Wave -->
+
+
+    <string name="astfaq_am4_content_44">要将数据从跟踪器同步到您的应用程序中，您必须打开蓝牙。启动应用程序来启动蓝牙连接。(在 android 设备上，您应该看到蓝牙图标显示在的您 android 设备屏幕右上角，在电池电量水平图标旁边，会闪烁几秒钟，然后显示稳定。这表明您的 iHealth Wave 和 android 设备已连接)。</string>
+    <string name="astfaq_am4_content_45">同步过程中，保持跟踪您的移动设备的 16 英尺范围内。</string>
+
+
+
+ <string name="astfaq_am4_content_23">转到活动和睡眠页，然后点击"同步"。您的追踪器应启动并会自动同步。
+ 建议您每天进行数据同步，但这并非必须的操作。iHealth Wave 活动跟踪器可以存储长达 14 天的详细数据。每日同步只需几分钟 ; 数据存储得越多，同步的时间可能越长。</string>
+
+    <string name="astfaq_am4_content_24">当您旅行到一个不同的时区时，当您与您的移动设备同步追踪器时，iHealth Wave会自动更新它的时间。</string>
+
+    <!-- Trouble Shooting -->
+
+
+    <string name="astfaq_am4_content_46"> 重置功能会清除您所有的个人数据，包括任何未同步的数据。因此，在重置腕表之前，请务必通过应用程序将数据同步到您的个人账户下。您不会丢失以前在应用端和云端同步的数据。</string>
+    <string name="astfaq_am4_content_47"> 请确保您满足如下要求：
+1.请确保您有一个支持的设备。若要查看最新列表，请转到www.ihealthlabs.com/support 页查看。
+2.请确认您使用了最新的 MyVitals 3.0 应用程序。
+3.在您的 android 或 ios设备的设置中蓝牙已开启。</string>
+    <string name="astfaq_am4_content_48">android:
+1.关闭所有后台程序。
+2.转到您的蓝牙设置并关闭蓝牙。
+3.重新启动您的设备。
+4.重启操作完成后，重新启用蓝牙。启动应用程序并按照第一次设置的过程重新尝试连接。</string>
+     
+
+    <string name="astfaq_am4_content_14">
+    1.确定在app中游泳模式是开启状态。
+    2.请将Wave带在手腕并紧贴手腕。
+    3.游泳姿势尽量标准规范。
+    4.如果无法进入，请联系客服工作人员。</string>
+
+
+    <string name="astfaq_am4_content_25"> 我们正在不断寻找方法来提高您的 iHealth Wave 的使用体验。我们会不断更新设备的固件，以提高产品性能。固件更新发布时，将会以弹窗形式在应用中弹出消息。您可以按照屏幕上的说明完成更新。</string>
+    <string name="astfaq_am4_content_26"> 如果您遇到了蓝牙连接困难或 iHealth Wave的显示问题，您可以执行基本的重启操作来重启跟踪器。重新启动追踪器不会影响您的设置，如睡眠提醒等。要重启腕表，请将您的追踪器连接到充电器。按住充电器按钮 大约8 秒，直到追踪器将显示”重新启动完成“即完成重启操作。</string>
+
+<string name="scalefaq_content_10">您每天在休息状态下燃烧的热量可以用一个公式，以
+
+身高、体重、年龄及性别估算 ( Mifflin 方程式)。这个方程式算出来的就是所谓的静态代谢率 (RMR)。"\n""\n"
+
+        您每日燃烧的热量是以您的 RMR 乘以您个人的活动量 (PAL)。您的 PAL 假设为久坐到少量活动 (譬如典型的办公室人员)。更专业地说，相当于 1.45 的 PAL。您的 PAL 依下列日常活动而不同："\n"
+
+    "\t""\t"睡眠 – 8 小时"\n"
+
+    "\t""\t"个人护理 (穿衣、洗澡) – 1 小时"\n"
+
+"\t""\t"吃饭 – 1 小时"\n"
+
+"\t""\t"煮饭 – 1 小时"\n"
+
+"\t""\t"坐着 (办公室工作、贩卖、顾店 – 8 小时"\n"
+
+"\t""\t"开车上/下班 – 1 小时"\n"
+
+"\t""\t"一般家务 – 1 小时"\n"
+
+"\t""\t"轻鬆休閒活动 (看电视、聊天) – 3 小时"\n""\n"
+
+Mifflin 方程式对大多数人来说提供了一个不错的 RMR 估算，然而每个人的代谢各有差异。如果您觉得您的 RMR 与典型的人不同 (譬如医生或营养师可能更精确地帮您计算过 RMR)，也许会想要依此调整您的每日摄取热量。请使用每日摄取热量画面的调整栏位。</string>
+    <string name="scalefaq_content_11">无线身体组成人体成分秤需要四颗 1.5V AA (五号) 电池，已随附于包装中。充电式电池则不适合使用于本产品。</string>
+<string name="scalefaq_content_12">可以。测量单位可以更改。人体成分秤下方电池盒盖下有切换开关，可以选择磅(lbs)、公斤(kg)、或英石(st)。"\n""\n"
+
+        您也可以更改 App 上显示的测量单位。按一下资讯图示 (i)，选择资讯页面上的「单位」。</string>
+    <string name="scalefaq_content_13">请到 www.ihealthlabs.com 下载「快速入门指南」。</string>
+    <string name="scalefaq_content_14">为求得到最准确的读数，建议量体重时不要将人体成分秤放在不平的地板、柔软的表面或地毯上。请将它放在硬质、平整的地面。</string>
+    <string name="scalefaq_content_15">人体成分秤在您穿着鞋子或袜子时能测量体重，但若您要测量全部 9 项身体组成，就必须光脚踩在四个电极上。</string>
+    <string name="scalefaq_content_16">不。不需要拿着 Android 装置。只要 Android 装置在 Bluetooth 范围内，可以成功与秤连接即可。</string>
+<string name="scalefaq_content_17">可以。在第一次建立连接后，就可以在没有 Android 装置的状态下使用人体成分秤。人体成分秤会将资料传输到 iHealth 云端。"\n""\n"
+
+         缺少网路连接时，每量 200 次就必须与 Android 装置同步一次。否则人体成分秤上的旧资料会被新的覆写过去。"\n""\n"
+
+         App 会在每次启动时自动与 iHealth 云端同步。</string>
+    <string name="scalefaq_content_18">是的。测量结果与测量时间会一起存放在您 Android 装置的存储空间中；但资料只会占用一个 MP3 文件所占的空间。</string>
+<string name="scalefaq_content_19">请确认您光脚踩在所有四个电极上，否则测量结果可能不准确。"\n""\n"
+
+        每次移动人体成分秤后都要初始化及自动校准。初始化会让内部元件重新启动，使人体成分秤正确归零， 并确保读数准确。若要初始化人体成分秤："\n"
+
+        "\t""\t"将人体成分秤放到硬质、平整的地面。"\n"
+
+     "\t""\t"用单脚踩踏人体成分秤的平台，使数字显示在面板上，然后移开。"\n"
+
+    "\t""\t" 等待几秒。"\n"
+
+     "\t""\t"人体成分秤就会重新校准。</string>
+    <string name="scalefaq_content_20">在正常环境下 (没有高电磁干扰)，Android 装置及人体成分秤可以在 65 英迟/20 公尺的距离内透过无线分享器连接运作。</string>
+    <string name="scalefaq_content_21">可以。在第一次建立连接后，就可以在没有 Android 装置的状态下使用人体成分秤。但最少每量 200 次就必须与 Android 装置同步一次，否则人体成分秤上的旧资料会被新的覆写过去。重新连接 Wi-Fi 时，测量资料就会上传到您的 Android 装置。</string>
+    <string name="scalefaq_content_22">此人体成分秤可以自动辨识身体特徵明显不同的使用者，但若身体特徵相似，使用者须自行确认身份。</string>
+<string name="scalefaq_content_23">在不使用 Android装置下，此人体成分秤可以容纳 10 个使用者。"\n""\n"
+
+         若使用 Android 装置，使用者人数就没有上限。採用这种使用方式，此人体成分秤对于家庭、健身俱乐部及运动团队都是理想的工具。</string>
+    <string name="scalefaq_content_24">不可以。强烈建议配戴起搏器的人不要使用此人体成分秤。</string>
+    <string name="scalefaq_content_25">是的，您可以照常量体重。此人体成分秤最多可以储存 200 条测量结果。且会在网路连接恢复时立刻上传到您的 App。</string>
+    <string name="scalefaq_content_26">可以。只要按下「分享」，您的资料将以电子邮件寄给指定的人，如家人或医生。</string>
+    <string name="scalefaq_content_27">当您在 App 上建立了个人档案，所有的测量资料都会自动上传到云端。</string>
+    <string name="scalefaq_content_28">请按下人体成分秤背后的「设定」按钮，确认人体成分秤在「设定」状态。</string>
+<string name="scalefaq_content_29">关闭后再开启 Bluetooth 功能表上的 Bluetooth 按钮 (请参阅设定→一般选项→Bluetooth)，重新建立 Bluetooth 连接。"\n""\n"
+
+         若持续无法连接，请重新启动您的 Android 装置。</string>
+    <string name="scalefaq_content_30">重新建立 Bluetooth 连接</string>
+<string name="scalefaq_content_31">请确认 Android 装置已连接到分享器。 "\n""\n"
+
+         请确认 MAC 位址未被分享器排除。"\n""\n"
+
+         从「快速入门指南」中「将人体成分秤连接到网路分享器」的步骤 3 开始重新操作。</string>
+<string name="scalefaq_content_32">请确认人体成分秤的电源已开启，且 Wi-Fi 符号稳定 (没有闪烁)"\n""\n"
+
+         请确认 Android 装置和人体成分秤连接到同一个分享器。</string>
+    <string name="scalefaq_content_33">请确认您分享器的电源已开启，「密码」及「名称」等设定也未更动。</string>
+    <string name="scalefaq_content_34">取出人体成分秤的电池。等待一分钟再装回去。若问题没有改善，请换一组新的电池。</string>
+    <string name="scalefaq_content_35">请确认电池安装正确。若持续显示，请换一组新的电池。</string>
+    <string name="scalefaq_content_36">取出电池，等待一分钟再装入一组新的电池。若问题没有改善，请联络 iHealth 客户服务。</string>
+    <string name="scalefaq_content_37">目前重量超过 330 磅或 150 公斤的可测范围。</string>
+    <string name="scalefaq_content_38">站到人体成分秤中央，站好不动并等人体成分秤量完体重后自动关闭。非必要时不要移动人体成分秤。</string>
+    <string name="scalefaq_content_39">目前的体重不稳定。请重新测量并且站好不动，确认您光脚踩在全部四个电极上。</string>
+    <string name="scalefaq_content_40">人体成分秤无法侦测到人体电阻。请确认您光脚踩在全部四个电极上，并再试一次。</string>
+<string name="scalefaq_content_41">无线人体成分秤保证自购买日起一年内，在遵守使用说明操作下，无材质及制造上的瑕疵。以上保固仅限于一般使用者。"\n"
+
+        保固有效期间，由我方判定免费维修或更换产品。这是保固条款中我方唯一的责任，亦是您唯一可以得到的补偿。</string>
+    <string name="astfaq_content_10"> 您每次只能将一个跟踪链接到一个 iHealth MyVitals 帐户。</string>
+    <string name="astfaq_content_11">如果您决定给别人追踪器，您首先需要将腕表恢复出厂设置，恢复原始出厂设置会取消链接到追踪器的账号信息，并从中删除您的 iHealth MyVitals 帐户。请参阅"如何恢复出厂设置"的问题，并在"故障排除"部分中，查看相关内容。</string>
+    <string name="astfaq_content_12"> 更新版本的应用程序将包含更多的功能和改进。更新您的移动应用将提供更高的性能并进行一些问题的修复。</string>
+    <string name="astfaq_content_13"> 您的活动跟踪器将在每天午夜重新开始计算，因此您当天的所有数据将重置为零。您每分钟存储的数据将会保存在您的追踪器中，如果您14 天没有同步数据，这些数据将被清除。我们建议您每天进行数据同步。</string>
+    <string name="astfaq_content_14"> 目前，iHealth 跟踪器只能与移动设备进行连接。</string>
+    <string name="astfaq_content_15"> 您可以在应用程序中打开飞行模式。如果您开启飞行模式，腕表屏幕上将显示一个飞机图标。按住按钮2 秒钟将其关闭。请注意，当您的追踪器处于飞行模式时，不能进行数据同步。</string>
+<string name="astfaq_content_16"> 要将数据从跟踪器同步到您的应用程序中，您必须打开蓝牙。启动应用程序来启动蓝牙连接。(在 android 设备上，您应该看到蓝牙图标显示在的您 android 设备屏幕右上角，在电池电量水平图标旁边，会闪烁几秒钟，然后显示稳定。这表明您的 iHealth活动跟踪器和 android 设备已连接)。
+
+    如果您的移动设备连接到互联网，您的数据将上载到 iHealth 云。
+
+    转到活动和睡眠页，然后点击"同步"。您的追踪器会自动开始同步数据。</string>
+    <string name="astfaq_content_17">建议您每天进行数据同步，但这并非必须的操作。iHealth 活动跟踪器可以存储长达 14 天的详细数据。每日同步只需几分钟 ; 数据存储得越多，同步的时间可能越长。</string>
+    <string name="astfaq_content_18"> 同步过程中，保持跟踪您的移动设备的 16 英尺范围内。</string>
+    <string name="astfaq_content_19"> 当您旅行到一个不同的时区时，当您与您的移动设备同步追踪器时，iHealth 活动跟踪器会自动更新它的时间。</string>
+    <string name="astfaq_content_20">iHealth 活动跟踪器记录您活动全天所消耗的卡路里，以及您的基础代谢率 (BMR)，即您休息时所消耗的热量(换句话说，就是在您睡觉时，用来维持您特定身体机能所消耗的能量)。这种计算是基于您的年龄、 性别、 身高、 体重的。追踪器显示的是您从每天午夜开始消耗的热量。</string>
+    <string name="astfaq_content_21">当您的手腕参与到整体运动的一部分时，并进行诸如走路或跑步等足部触地的活动时，活动跟踪器能进入最佳的工作状态。iHealth 活动跟踪器不太适用于追踪反阻力运动，如举重训练和瑜伽等。尽管在这些活动中佩戴活动跟踪器也能捕获数据，不过这些类型的运动数据记录得将不如跑步或走路等活动准确。</string>
+    <string name="astfaq_content_22">目前腕表暂时不支持记录非步行或非跑动的活动。</string>
+    <string name="astfaq_content_23">假设您戴着 iHealth 跟踪器进行了 30 分钟的篮球运动，期间您在应用程序中标记出了打篮球所燃烧的卡路里数，应用程序将作出调整，并从您手动记录的数据中甄别和记录您的实际活动数据。</string>
+    <string name="astfaq_content_24">您可以在 iHealth MyVitals 应用程序中添加活动闹钟。追踪器将产生大约 4 秒的振动来提醒您起身进行一些运动。</string>
+<string name="astfaq_content_25">为了使您更积极，iHealth Edge 将根据您的活动级别奖励您不同的活动成就，比如嬉戏跳跃的青蛙可以分别移至第三，第二和第一名。如下所示:
+
+步数为在 2,500 步时 : 跳跃的青蛙将跳转到第三名;
+
+步数为在 5,000 步时 : 跳跃的青蛙将跳转到第二名;
+
+步数为在 10,000 步时 : 跳跃的青蛙将跳转到第一名并加冕。</string>
+    <string name="astfaq_content_26">在这些剧烈运动时，佩戴活动跟踪器是安全的，活动跟踪器将从这些运动中记录您的步数。然而，卡路里计数结果可能不能准确反映运动的强度和剧烈程度。</string>
+    <string name="astfaq_content_27">iHealth 跟踪器的设计可以确保在乘坐汽车或者坐立时腕表不会记录错误的数据。然而，当传感器检测到的恒定的运动，它可能会拾取一些步数。道路条件和花在路上的时间也可能会影响跟踪结果。例如，当您开车行驶在颠簸的路上或上下班的时候花更长的时间时，您可能会看到一些步数。如果您打算开车很长的距离，只需摘除追踪器，这样在您的旅行期间它将不会跟踪您的数据。</string>
+    <string name="astfaq_content_28">要切入睡眠模式，您可以按下按键 2 秒钟，直到"睡眠"出现在跟踪器的显示屏幕上。当您醒来的时候再次按下按钮，2 秒结束后，睡眠记录并恢复活动跟踪。打开应用程序同步数据并查看您的睡眠。</string>
+    <string name="astfaq_content_29">当您在睡前在手腕上配戴着 iHealth 跟踪器并切入"睡眠"模式，它将检测和分析您一晚的运动模式，并把这些数据转化为有用的信息，如您入睡时长，您醒来的次数以及您深睡时长和清醒时长。</string>
+    <string name="astfaq_content_30">不能，您必须手动切入睡眠模式来启用跟踪器的睡眠跟踪功能以追踪您的睡眠数据。</string>
+    <string name="astfaq_content_31">IHealth 腕表能够在您睡觉时检测您的肢体动作，比如您是睡着了或者辗转反侧，然后将该数据转换为醒来次数。知道您醒来的次数可以帮助您更好地理解您休息的质量。</string>
+    <string name="astfaq_content_32">您可以在应用程序中设置睡眠闹钟。睡眠闹钟会通过轻微的振动来唤醒您，而不会干扰您的伴侣。睡眠闹钟的振动持续时间为 40 秒。</string>
+    <string name="astfaq_content_33">跟踪器的电池电量水平出现在跟踪显示屏上以及应用程序中。当电池电量达到 20%时，追踪器会产生振动，提醒您要给它充电。</string>
+    <string name="astfaq_content_34"> iHealth 活动跟踪器是由可充电内置电池供电。根据使用习惯，腕表的电池通常能持续使用 5-7 天。如果您经常检查统计数据或设定有多个闹钟，您可能需要更经常给电池充电。</string>
+    <string name="astfaq_content_35"> 将充电线的一端插入追踪器背面的USB 端口，将另一端插入您的计算机 USB 端口。一个空的跟踪器电池完全充满电大约需要两个小时。您可以更频繁的对腕表充电，以确保电池永远不会完全失电。</string>
+    <string name="astfaq_content_36">如果您忘了给电池充电的建议，或长时间不使用腕表，电池将完全耗尽。当发生这种情况时，再次使用追踪器之前，请给电池充电并启动应用程序将iHealth 跟踪器的数据与您的移动设备进行同步。</string>
+    <string name="astfaq_content_37">我们正在不断寻找方法来提高您的 iHealth Edge 的使用体验。我们会不断更新设备的固件，以提高产品性能。固件更新发布时，将会以弹窗形式在应用中弹出消息。您可以按照屏幕上的说明完成更新。</string>
+<string name="astfaq_content_38">您的 iHealth 跟踪器是仅供您个人使用，当您首次设置追踪器时，将会将它链接到您的 iHealth MyVitals 帐户。如果您想要把跟踪器给一个家庭成员或朋友，您需要首先将其恢复出厂设置。要这样做，请在 iHealth MyVitals 应用程序中转到设置我设备->AM3。
+
+    工厂重置将从追踪器中擦除您的所有个人数据，包括任何异步的数据。请务必在执行厂重置之前打开该应用程序进行数据同步。您不会丢失以前同步存储在应用程序中和云上的数据。</string>
+<string name="astfaq_content_39">    如果您遇到了蓝牙连接困难或 iHealth 跟踪器的显示问题，您可以执行基本的重启操作来重启跟踪器。重新启动追踪器不会影响您的设置，如睡眠提醒等。
+
+    要重新启动您的 iHealth 跟踪器，请按住该按钮 5 秒，直到出现"重新启动"。继续按住按钮 3 秒钟，直到您看到时钟显示。</string>
+    <string name="faq_10">1.iHealth 无线脉冲血氧仪可以存储多少测量结果?</string>
+    <string name="faq_11">2.应用程序是否支持多用户?</string>
+    <string name="faq_12">3.应用程序中可以存储多少测量数据?</string>
+    <string name="faq_13">4.我可以从程序中删除先前的测量数据吗？</string>
+    <string name="faq_14">5.我可以删除的应用程序的现有用户？</string>
+    <string name="faq_15">6.如果不使用移动设备，可以进行测量么?</string>
+    <string name="faq_16">1.应用程序可以识别多个用户的离线测量数据并对数据进行自动排序?</string>
+    <string name="faq_17">2.数据是如何上传到我的 iHealth 云帐户的?</string>
+    <string name="faq_18">1.如果我 iHealth 无线脉冲血氧仪无法打开怎么办?</string>
+    <string name="faq_19">2.如果蓝牙连接失败我该怎么办?</string>
+    <string name="faq_20">3.如果我的 iHealth 无线脉冲血氧仪在测量之后不显示任何结果，该怎么办?</string>
+    <string name="faq_21">1.都有哪些条款和保修条件?</string>
+    <string name="faq_answer_10">iHealth 无线脉冲血氧仪可以存储多达 100条测量数据。</string>
+    <string name="faq_answer_11">是的，应用程序支持多个用户，并且在应用程序中对每个用户都有各自的配置文件和数据存储。</string>
+    <string name="faq_answer_12">应用程序通过使用您的移动设备的内存空间来存储多达 9,999 测量结果。</string>
+    <string name="faq_answer_13">是的。要删除之前的测量结果，请转到列表页，选择"编辑"，然后”选择您希望删除的测量结果“，然后点击"完成"。</string>
+    <string name="faq_answer_14">     是。要删除现有的用户，挖掘用户名在主屏幕的顶部，然后选择用户配置文件。点击“编辑”，并通过点击下方的“删除用户”按钮，删除用户。</string>
+    <string name="faq_answer_15">可以。使用 iHealth 无线脉冲血氧仪可以进行多达100条离线测量，并可以自动保存其中。离线测量数据将会在下次连接时自动被上载到您的移动设备中。</string>
+    <string name="faq_answer_16">不能。用户需要选择他们自己的数据并手动保存到个人账户。</string>
+    <string name="faq_answer_17">一旦您在程序中设置了个人账户，您所有的测量数据都将会自动上都传到 iHealth 云中。</string>
+    <string name="faq_answer_18">设备电量可能过低。请使用USB 电缆对设备进行充电。</string>
+    <string name="faq_answer_19">关闭并重新启动您的 iHealth 无线脉冲血氧仪。关闭并重新启动应用程序。建议您将到移动设备的版本升级至最新。</string>
+    <string name="faq_answer_20">请确保你的手指已正确插入，如快速入门指南中所示。将您的手指放置在正确的位置，并保持完全安静，然后再次进行测试。</string>
+<string name="faq_answer_21">当您按照说明使用 ihealth 无线脉冲血氧仪，那么从您购买日期开始的一年时间之内，在材料和工艺方面出现问题将免费保修。上述保修条款只适用于原始零售购买者。
+
+当修复或更换本产品时，我们不会收取任何费用，不受上述保证约束。在上述条款约束下，修理或更换是我们唯一的责任。</string>
+    <string name="bpfaq_content_10">iHealth 产品设计为与 iHealth App 共同使用，但可以与 Target Weight PRO 等 App 兼容。</string>
+    <string name="bpfaq_content_11">可以。您可以按下「分享」将血压记录通过E-mail分享给医生或者家人。您也可以在 Facebook 或 Twitter 上分享血压记录，或分享到腾讯微博这个 App中。</string>
+    <string name="bpfaq_content_12">一旦您在 App 上建立了个人帐户，您的所有测量资料都会自动上传到iHealth云端。</string>
+    <string name="bpfaq_content_13">不能。使用者必须自行手动选择离线测量记录并分类。</string>
+<string name="bpfaq_content_14">BP5提供两种不同尺寸的袖带，适用 22 到 48 厘米的臂围。\n
+
+
+
+BP7血压计仅提供一个尺寸的袖带，适用 13.5 到 22 厘米的腕围。</string>
+    <string name="bpfaq_content_15">有时血压测量结果传输需要几个小时。如果您的测量结果无法上传，请联络 iHealth 客户服务人员。</string>
+    <string name="bpfaq_content_16">请确认袖带已直接套在您的裸露的手臂上，并按下「开始/停止」按钮手动开启血压计。</string>
+    <string name="bpfaq_content_17">按住血压计上的「开始/停止」按钮10 秒以上重新启动血压计，并重新启动 Android 设备。建议将 Android 设备的操作系统更新为Android 4.2.2 版本以上。如果血压计蓝牙指示灯持续亮 2.5 秒又熄灭 5 秒，请按住「开始/停止」10 秒以重新启动血压计。若仍无法与 Android 设备连接，可能是 Android 使用的电池种类？ 设备蓝牙功能故障。</string>
+    <string name="bpfaq_content_18">可能是血压计电力不足。请尽快充电。</string>
+<string name="bpfaq_content_19">iHealth 血压计保证自购买日起一年内，在遵守使用说明操作下，无材质及制造上的瑕疵。以上保修仅限于原始买方。\n\n
+
+
+
+保修条款有效期间，由我方判定免费维修或更换产品。此项为保修条款中我方所承担的唯一责任，亦是您唯一可以得到补偿的方式。若您需要保修服务，请拨打 1-855-816-7705 或发送电子邮件到 support@ihealthlabs.com。</string>
+    <string name="astfaq_am3s_content_10">​新版本应用程序可能包含更多的功能和改进。更新您的 android 应用程序能够提高程序性能并有助于问题修复。</string>
+    <string name="astfaq_am3s_content_11">您的活动跟踪器将在每天午夜重新开始计算，因此您当天的所有数据将重置为零。您每分钟存储的数据将会保存在您的追踪器中，如果您14 天没有同步数据，这些数据将被清除。我们建议您每天进行数据同步。</string>
+    <string name="astfaq_am3s_content_12">目前，iHealth Edge只可选择与 android 和 ios 设备进行连接。</string>
+    <string name="astfaq_am3s_content_13">睡眠模式将会在最小运动 30 分钟内自动启动。如果不停的进行运动，追踪器会将重置，用户将不得不等待分配的时间，直到再次进入睡眠模式。</string>
+    <string name="astfaq_am3s_content_14">当您佩戴着 iHealth 活动和睡眠跟踪器入睡时，跟踪器将会整晚检测并分析您的运动模式，并把这些数据转化为有用的信息，如您多长时间入梦，您醒来的次数，以及您的真实睡眠时长和清醒时长。</string>
+    <string name="astfaq_am3s_content_15">IHealth Egde腕表能够在您睡觉时检测您的肢体动作，比如您是睡着了或者辗转反侧，然后将该数据转换为醒来次数。知道您醒来的次数可以帮助您更好地理解您休息的质量。</string>
+    <string name="astfaq_am3s_content_16">您可以在应用程序中设置睡眠闹钟。睡眠闹钟会通过轻微的振动来唤醒您，而不会干扰您的伴侣。睡眠闹钟的振动持续时间为 40 秒。</string>
+    <string name="astfaq_am3s_content_17">iHealth Edge 活动跟踪器记录您活动全天所消耗的卡路里，以及您的基础代谢率 (BMR)，即您休息时所消耗的热量(换句话说，就是在您睡觉时，用来维持您特定身体机能所消耗的能量)。这种计算是基于您的年龄、 性别、 身高、 体重的。追踪器显示的是您从每天午夜开始消耗的热量。</string>
+    <string name="astfaq_am3s_content_18">当您的手腕参与到整体运动的一部分时，并进行诸如走路或跑步等足部触地的活动时，活动跟踪器能进入最佳的工作状态。iHealth Edge 活动跟踪器不太适用于追踪反阻力运动，如举重训练和瑜伽等。尽管在这些活动中佩戴活动跟踪器也能捕获数据，不过这些类型的运动数据记录得将不如跑步或走路等活动准确。</string>
+    <string name="astfaq_am3s_content_19">当您连续走路或跑步时间超过 10 分钟，在完成锻炼 5 分钟后，跟踪器将生成一份包含步数、 距离、 卡路里信息的总结报告。</string>
+    <string name="astfaq_am3s_content_20">跟踪器可以存储长达 14 天的数据。超过 14 天的数据将被新数据自动替换。</string>
+    <string name="astfaq_am3s_content_21">iHealth Edge 腕表是防雨防淋溅防汗的。然而，它并不防水，所以请不应在游泳和洗澡时佩戴。</string>
+    <string name="astfaq_am3s_content_22">您可以通过轻抬手腕来切换不同的模式。</string>
+    <string name="astfaq_am3s_content_23">当睡眠闹钟响的时候，摇晃您的追踪器，可将其关闭。</string>
+    <string name="astfaq_am3s_content_24">您可以在 iHealth MyVitals 应用程序中添加活动闹钟。追踪器将产生大约 4 秒的振动来提醒您起身进行一些运动。</string>
+<string name="astfaq_am3s_content_25">为了使您更积极，iHealth Edge 将根据您的活动级别奖励您不同的活动成就，比如嬉戏跳跃的青蛙可以分别移至第三，第二和第一名。如下所示:
+	步数为在 2,500 步时 : 小人将跳转到第三名;
+步数为在 5,000 步时 : 小人将跳转到第二名;
+步数为在 10,000 步时 : 小人将跳转到第一名并加冕。</string>
+    <string name="astfaq_am3s_content_26">在这些剧烈运动时，佩戴活动跟踪器是安全的，活动跟踪器将从这些运动中记录您的步数。然而，卡路里计数结果可能不能准确反映运动的强度和剧烈程度。</string>
+    <string name="astfaq_am3s_content_29">跟踪器的电池电量水平出现在跟踪显示屏上以及应用程序中。当电池电量达到 20%时，追踪器会产生振动，提醒您要给它充电。</string>
+    <string name="astfaq_am3s_content_30">iHealth Edge 活动跟踪器是由可充电内置电池供电。根据使用习惯，腕表的电池通常能持续使用 5-7 天。如果您经常检查统计数据或设定有多个闹钟，您可能需要更经常给电池充电。</string>
+<string name="astfaq_am3s_content_31">a.从您的计算机或电源插座上移除您的充电器，以避免磁性连接器连接到其他物品而缩短使用寿命。
+    b.当跟踪器的电池电量低于 20%时，请及时充电，以延长电池的使用寿命。</string>
+    <string name="astfaq_am3s_content_32">要将数据从跟踪器同步到您的应用程序中，您必须打开蓝牙。启动应用程序来启动蓝牙连接。(在 android 设备上，您应该看到蓝牙图标显示在的您 android 设备屏幕右上角，在电池电量水平图标旁边，会闪烁几秒钟，然后显示稳定。这表明您的 iHealth Edge 和 android 设备已连接)。</string>
+<string name="astfaq_am3s_content_33">转到活动和睡眠页，然后点击"同步"。您的追踪器应启动并会自动同步。
+ 建议您每天进行数据同步，但这并非必须的操作。iHealth Edge 活动跟踪器可以存储长达 14 天的详细数据。每日同步只需几分钟 ; 数据存储得越多，同步的时间可能越长。</string>
+    <string name="astfaq_am3s_content_34">同步过程中，保持跟踪您的移动设备的 16 英尺范围内。</string>
+    <string name="astfaq_am3s_content_35">当您旅行到一个不同的时区时，当您与您的移动设备同步追踪器时，iHealth Edge会自动更新它的时间。</string>
+    <string name="astfaq_am3s_content_36"> 我们正在不断寻找方法来提高您的 iHealth Edge 的使用体验。我们会不断更新设备的固件，以提高产品性能。固件更新发布时，将会以弹窗形式在应用中弹出消息。您可以按照屏幕上的说明完成更新。</string>
+    <string name="astfaq_am3s_content_37"> 重置功能会清除您所有的个人数据，包括任何未同步的数据。因此，在重置腕表之前，请务必通过应用程序将数据同步到您的个人账户下。您不会丢失以前在应用端和云端同步的数据。</string>
+    <string name="astfaq_am3s_content_38"> 如果您遇到了蓝牙连接困难或 iHealth Edge的显示问题，您可以执行基本的重启操作来重启跟踪器。重新启动追踪器不会影响您的设置，如睡眠提醒等。要重启腕表，请将您的追踪器连接到充电器。按住充电器按钮 大约8 秒，直到追踪器将显示”重新启动完成“即完成重启操作。</string>
+<string name="astfaq_am3s_content_39"> 请确保您满足如下要求：
+1.请确保您有一个支持的设备。若要查看最新列表，请转到www.ihealthlabs.com/support 页查看。
+2.请确认您使用了最新的 MyVitals 3.0 应用程序。
+3.在您的 android 或 ios设备的设置中蓝牙已开启。</string>
+<string name="astfaq_am3s_content_40">android:
+1.关闭所有后台程序。
+2.转到您的蓝牙设置并关闭蓝牙。
+3.重新启动您的设备。
+4.重启操作完成后，重新启用蓝牙。启动应用程序并按照第一次设置的过程重新尝试连接。</string>
+    <string name="astfaq_am3s_10"> 6.为什么我需要更新我的 android 应用程序?</string>
+    <string name="astfaq_am3s_11"> 7.我的 iHealth Edge何时重置之前的数据会有影响吗?</string>
+    <string name="astfaq_am3s_12"> 8.iHealth Edge可以与 PC 连接吗?</string>
+    <string name="astfaq_am3s_13"> 1.如何打开睡眠跟踪功能?</string>
+    <string name="astfaq_am3s_14"> 2.睡眠跟踪功能如何工作?</string>
+    <string name="astfaq_am3s_15"> 3.什么是 醒来次数 ?</string>
+    <string name="astfaq_am3s_16"> 4.睡眠闹钟如何工作？我如何设置睡眠闹钟呢?</string>
+    <string name="astfaq_am3s_17">1.卡路里跟踪功能是如何实现的?</string>
+    <string name="astfaq_am3s_18">2.iHealth Edge适用于所有的体育活动吗?</string>
+    <string name="astfaq_am3s_19">3.什么是锻炼模式?</string>
+    <string name="astfaq_am3s_20">4.跟踪器可以存储多少数据?</string>
+    <string name="astfaq_am3s_21">5.iHealth Edge的防水等级和防水性能是怎样的?</string>
+    <string name="astfaq_am3s_22">6.如何切换模式?</string>
+    <string name="astfaq_am3s_23">7.如何关闭闹钟?</string>
+    <string name="astfaq_am3s_24">8.空闲闹钟是如何工作的？我怎样设置空闲闹钟呢?</string>
+    <string name="astfaq_am3s_25">9.活动级别功能是如何工作的?</string>
+    <string name="astfaq_am3s_26">10.我可以在进行诸如篮球、 足球和其他剧烈运动时穿戴和使用 iHealth Edge吗?</string>
+    <string name="astfaq_am3s_29">1.我可以检查跟踪电池电量？</string>
+    <string name="astfaq_am3s_30">2.充满电的情况下，跟踪器的电池续航能力是怎样的？</string>
+    <string name="astfaq_am3s_31">3.充电小贴士</string>
+    <string name="astfaq_am3s_32">1.iHealth Edge腕表如何与 iHealth MyVitals 应用程序进行同步?</string>
+    <string name="astfaq_am3s_33">2.我多久需要将跟踪器与我的移动设备进行数据同步呢?</string>
+    <string name="astfaq_am3s_34">3.同步数据时，跟踪器是否需要放置在要同步设备的附近?</string>
+    <string name="astfaq_am3s_35">4.当更改时区时，我如何将时间同步至跟踪器上?</string>
+    <string name="astfaq_am3s_36">1.如何获得 iHealth Edge的固件升级?</string>
+    <string name="astfaq_am3s_37">2.重置功能如何实现?</string>
+    <string name="astfaq_am3s_38">3.我何时需要重新启动 iHealth Edge？该如何操作呢?</string>
+    <string name="astfaq_am3s_39">4.我不能将活动跟踪器与我的移动设备连接。</string>
+    <string name="astfaq_am3s_40">5.如果您在设备连接和同步方面仍有问题，请按照下面的步骤进行操作:</string>
+    <string name="astfaq_1">1.什么是 iHealth 活动和睡眠跟踪器?</string>
+    <string name="astfaq_2">2.哪些手机与 iHealth 跟踪器兼容?</string>
+    <string name="astfaq_3">3.iHealth 跟踪如何工作?</string>
+    <string name="astfaq_4">4.iHealth 跟踪显示什么样的信息?</string>
+    <string name="astfaq_5">5.如何佩戴我 iHealth 跟踪器呢?</string>
+    <string name="astfaq_6">6.制造 iHealth 跟踪器使用的是什么材料呢?</string>
+    <string name="astfaq_7">7. iHealth 跟踪器防水吗?</string>
+    <string name="astfaq_8">1.如何在我的移动设备上设置我 iHealth 跟踪器</string>
+    <string name="astfaq_9">2.为什么需要将我的追踪器与我的 iHealth MyVitals 帐户绑定?</string>
+    <string name="astfaq_am3s_content_1">iHealth Edge 活动跟踪器是一种活动和睡眠跟踪器。它能跟踪并记录您走过的每一步，旅行的距离，消耗的热量以及睡眠效率。它的睡眠提醒功能可以通过产生轻微的振动来唤醒您，而不会影响到您身边的人。活动闹钟的功能将有助于您变得更加积极。 iHealth Edge还具有一个有趣的活动水平功能，它能促使您为达到不同水平的运动量更积极地进行活动。此设备通过蓝牙 4.0，以无线方式与您的移动设备进行连接。</string>
+<string name="astfaq_am3s_content_2">iHealth Edge 活动跟踪器适合步行、 跑步和日常生活中的其他活动。一般来讲，通过一整天的跟踪，从您的总活动和消耗的总热量，它能对您的活动程度做出评判。它还可以跟踪您的睡眠模式，并帮助您深入观察您的睡眠效率随时间的推移发生的变化。
+活动跟踪器需要与免费的iHealth MyVitals 应用程序配合使用。该程序具有个性化的健康工具，它能最大限度分析出从您的跟踪器同步上来的数据，并更好您地管理您的健康目标。
+iHealth Edge 活动跟踪器使用 3 轴加速度传感器，它能检测您在三个维度的运动模式，并将其转换为您的步数、 热量、 运动距离和睡眠效率等信息。</string>
+    <string name="astfaq_am3s_content_3">iHealth Edge 活动跟踪器显示基本的时间、运动的步数、 走行的距离、 消耗的热量，以及每日的活动级别。当您连续步行或跑步时间超过 10 分钟，它还能够生成简单的活动报告。</string>
+    <string name="astfaq_am3s_content_4">跟踪器的佩戴有两种方式，您可以选择佩戴在手腕上，或使用我们提供的腰夹别在腰部。当然，您也可以选择在睡眠时佩戴臂带。</string>
+    <string name="astfaq_am3s_content_5">当您初次拿到活动追踪器，请为其充电直至充满 (约 2 ~ 4 小时)。请将充电器的 USB 一端连接到您的计算机或其他 USB 充电器，另一端与运动追踪器的磁端连接。然后将充电器的磁点与活动跟踪器吸附连接。</string>
+<string name="astfaq_am3s_content_6">配对前请先确保您的 iHealth Edge 活动跟踪器已充满电。然后按照按照以下步骤完成配对:
+	a.从苹果应用程序商店或Google Play下载"iHealth MyVitals 3.0"应用程序 。
+	b.进入您设备中的"设置"，打开蓝牙开关。
+	c.打开应用程序并创建一个 iHealth 帐户。如果您已有iHealth账户，请登录到您的帐户。
+	d.将活动跟踪器放置在设备附近。点击左上角的菜单图标并选择"活动和睡眠"。
+	e.单击"连接"，然后从设备列表中选择"Edge"。点击"完成"。
+	f.您的追踪器会显示6 位随机数字。在您的设备中输入最后两位进行配对。
+	g.如果您无法看到 6 位随机数字，请关闭应用程序，然后重复以上操作。要关闭在后台运行的应用程序，长按HOME (或点击菜单按钮) ，然后左右滑动来关闭应用程序 (Android版本)。</string>
+    <string name="astfaq_am3s_content_7">为保护您的个人数据，iHealth 活动跟踪器将在您第一次安装程序的过程中与您的 iHealth MyVitals 帐户进行连接。</string>
+    <string name="astfaq_am3s_content_8">每次每个账户只能与一个活动跟踪器连接。</string>
+    <string name="astfaq_am3s_content_9">请参照"如何在我的设备上设置iHealth Edge"条目下的步骤进行操作，重新将其连接到另一个帐户。请注意，连接到另一个帐户后，没有被同步到原帐户的数据将被删除。</string>
+    <string name="scalefaq_10">10. 运动和活动如何影响体重？</string>
+    <string name="scalefaq_11">1. 使用的电池种类？</string>
+    <string name="scalefaq_12">2. 是否可以更改测量单位？</string>
+    <string name="scalefaq_13">3. Wi-Fi 连接如何运作？</string>
+    <string name="scalefaq_14">4. 在任何平面上都可以使用人体成分秤吗？</string>
+    <string name="scalefaq_15">1. 测量的时候可以穿鞋子或袜子吗</string>
+    <string name="scalefaq_16">2. 量体重时必须拿着Android 装置吗？</string>
+    <string name="scalefaq_17">3. 可以在没有 Android 装置的状态下使用人体成分秤吗？</string>
+    <string name="scalefaq_18">4. 测量结果会占用 Android 装置的记忆体吗？</string>
+    <string name="scalefaq_19">5. 测量中有波动，这是怎么了？</string>
+    <string name="scalefaq_20">5. Android 装置与人体成分秤可以在相隔多少距离内正常运作？</string>
+    <string name="scalefaq_21">6. 可以在没有 Android 装置的状态下使用无线身体组成人体成分秤吗？</string>
+    <string name="scalefaq_22">7. 若没有 Android 装置，要如何选择使用者？</string>
+    <string name="scalefaq_23">8. 可以多人共用同一个无线身体组成人体成分秤吗？</string>
+    <string name="scalefaq_24">9. 若我佩戴起搏器，还可以使用此人体成分秤吗？</string>
+    <string name="scalefaq_25">10. 此人体成分秤即使没有 Wi-Fi 连接也可以运作？</string>
+    <string name="scalefaq_26">1. 可以与人分享资料吗？</string>
+    <string name="scalefaq_27">2. 如何将资料上传到 iHealth 云端网站？</string>
+    <string name="scalefaq_28">3. 人体成分秤的产品型号没有出现在 Android 装置上的 Bluetooth 列表。</string>
+    <string name="scalefaq_29">4. Bluetooth 连接失败。</string>
+    <string name="scalefaq_30">5. Wi-Fi 分享的快显视窗未出现在 Android 装置上。</string>
+    <string name="scalefaq_31">6. Wi-Fi 符号未出现在人体成分秤显示器上。</string>
+    <string name="scalefaq_32">7. App 与人体成分秤连接失败。</string>
+    <string name="scalefaq_33">8. Wi-Fi 符号闪烁后消失，人体成分秤显示「ER 4」。</string>
+    <string name="scalefaq_34">9. 人体成分秤没有反应。</string>
+    <string name="scalefaq_35">10. 人体成分秤显示「Lo」</string>
+    <string name="scalefaq_36">11. 人体成分秤显示「ER 0」、「ER 3」、「ER 6」、「ER 7」或「ER 8」。</string>
+    <string name="scalefaq_37">12. 人体成分秤显示「ER 1」。</string>
+    <string name="scalefaq_38">13. 人体成分秤显示「ER 2」。</string>
+    <string name="scalefaq_39">14. 人体成分秤显示「ER 5」。</string>
+    <string name="scalefaq_40">15. 人体成分秤显示「----」。</string>
+    <string name="scalefaq_41">1. 有哪些保固条款与规定？</string>
+    <string name="astfaq_am3s_1">	1.什么是 iHealth Edge 活动跟踪器?</string>
+    <string name="astfaq_am3s_2">  2.iHealth Edge 活动跟踪器是如何工作的?</string>
+    <string name="astfaq_am3s_3">  3.iHealth Edge 活动跟踪器显示什么信息?</string>
+    <string name="astfaq_am3s_4">  4.我应该如何佩戴我的 iHealth Edge 活动跟踪器呢?</string>
+    <string name="astfaq_am3s_5"> 1.首次使用 iHealth Edge 活动跟踪器</string>
+    <string name="astfaq_am3s_6"> 2.如何在我的设备上设置我的 iHealth Edge 活动跟踪器 </string>
+    <string name="astfaq_am3s_7"> 3.为什么需要将我的运动追踪器连接到我 iHealth MyVitals 帐户?</string>
+    <string name="astfaq_am3s_8"> 4.我的 iHealth Edge可以绑定多用户吗?</string>
+    <string name="astfaq_am3s_9"> 5..我可以把我的跟踪器给别人吗?</string>
+    <string name="bpfaq_1">1. 什么是血压？</string>
+    <string name="bpfaq_2">2. 什么是「收缩压」与「舒张压」？</string>
+    <string name="bpfaq_3">3. 什么是正常血压？</string>
+    <string name="bpfaq_4">4. 什么是高血压？</string>
+    <string name="bpfaq_5">5. 我要如何知道我有高血压？</string>
+    <string name="bpfaq_6">6. 我应该向医护人员咨询我的血压读数吗？</string>
+    <string name="bpfaq_7">7. 我要如何了解及判读我的测量结果？</string>
+    <string name="bpfaq_8">1. 血压计套组有多精确？</string>
+    <string name="bpfaq_9">2. 在家使用 iHealth 血压计套组测量血压是否有任何风险？</string>
+    <string name="faq_1">1.什么是脉冲血氧仪?</string>
+    <string name="faq_2">2.什么是血氧饱和度 (SpO2)?</string>
+    <string name="faq_3">3.什么是 SpO2 的正常范围?</string>
+    <string name="faq_4">4.什么是脉搏的正常范围?</string>
+    <string name="faq_5">5.什么是灌注指数?</string>
+    <string name="faq_6">6.什么样的条件可能会影响我的记录?</string>
+    <string name="faq_7">7.哪些因素会影响脉搏波动?</string>
+    <string name="faq_8">8.iHealth 无线脉冲血氧仪的测量范围和精度为多少?</string>
+    <string name="faq_9">9.电池指示灯何时会出现在显示屏上?</string>
+    <string name="scalefaq_content_1">在体适能上，身体组成指的是脂肪、骨骼及肌肉占人体的百分比。因为我们身体里的肌肉组织占的体积较脂肪组织少，我们的身体组成就像体重一样，决定了我们的胖瘦。两个同样身高体重的人，就会因为身体组成不同，而有完全不同的外观。</string>
+<string name="scalefaq_content_2">体脂肪指的是身体脂肪占体重的比例。"\n""\n"
+        减少过多的体脂已证明可以减少特定疾病如高血压、心脏病、糖尿病及癌症的风险。</string>
+    <string name="scalefaq_content_3">骨质密度指的是身体中骨骼的量 (骨矿物质水平、钙或其他矿物的含量)。研究显示运动及肌肉生长与更强壮、更健康的骨骼有关。</string>
+    <string name="scalefaq_content_4">     肌肉量指的是身体中肌肉的重量。肌肉量包含骨骼肌、平滑肌(譬如心脏与消化系统的肌肉) 及其中所含的水份。肌肉就像引擎一样，在消耗热量上扮演着重要角色。当您的肌肉量增加，您的热量消耗也会增加，帮助您减去过多的脂肪，并且以健康的方式减重。</string>
+<string name="scalefaq_content_5">身体含水率指的是人体内液体的总量，以占体重的百分比表示。水在人体中的很多运作扮演不可或缺的角色，每个细胞、组织、器官里都有水的存在。维持健康的身体含水比例，可以确保身体功能有效地运作，也能减少相关的健康问题。请见以下健康范围："\n""\n"
+
+        "\t""\t"女性：45 - 60%"\n"
+
+        "\t""\t"男性：50 - 65%</string>
+<string name="scalefaq_content_6">内脏脂肪又称为腹部脂肪、器官脂肪或腹腔内脂肪。这些脂肪位于腹腔中，包覆在胃、肝、肠或肾脏等之间。内脏脂肪与皮肤下的皮下脂肪及散布在骨骼肌的肌肉内脂肪不同。下半身如大腿及臀部的脂肪是皮下脂肪，而腹部内的多为内脏脂肪。"\n""\n"
+
+         内脏脂肪可能引起内脏脂肪症候群或其他与生活型态相关的疾病。男性或更年期妇女更容易囤积内脏脂肪。</string>
+<string name="scalefaq_content_7">内脏脂肪是腹腔内的脂肪，包覆在躯干 (腹腔) 部位的重要器官。研究显示即使您的体重及体脂维持不变，脂肪的分布依然会随年龄改变，尤其是在更年期的时候，更倾向会转移到躯干部位。"\n""\n"
+
+         指数 1 到 12：表示您的内脏脂肪量是健康的。请继续监控您的指数，确保维持在健康的范围。"\n""\n"
+
+         指数 13 到 59：表示您的内脏脂肪过量。请考虑改变饮食及运动等的生活型态。"\n"</string>
+    <string name="scalefaq_content_8">每日摄取热量 (DCI) 是基础代谢、日常活动代谢 (包括日常家庭杂务等活动) 及摄食生热效应 (消化、吸收、代谢及其他饮食活动所用的热量) 的加总。这可以估算出您在未来的 24 小时内摄取多少卡路里，才能维持您现在的体重。</string>
+<string name="scalefaq_content_9">要减掉一磅的体重，您燃烧的热量要比您摄取的还要多大概 3,500 卡或更多。"\n""\n"
+
+
+
+想要达到减重目标，您的每日摄取热量要能产生赤字。计算是经下列两个因素所得："\n"
+
+"\t""\t"估计您每日燃烧的热量"\n"
+
+"\t""\t"您每周想要减去的体重"\n"
+
+"\t""\t"例如您想每周减一磅，而您正常每日燃烧 2,500 卡，那么您每日摄取热量就是 2,000 卡。这个数字是这样算出来的："\n"
+
+"\t""\t" 每周减一磅所需的热量赤字为 3,500 卡"\n"
+
+"\t""\t" 每日热量赤字为 500 卡 (3,500 除以 7)"\n"
+
+"\t""\t" 每日摄取热量为 2,000 卡 (2,500 卡减掉每日热量赤字 500 卡)"\n"
+
+"\t""\t"这种计算方式的可靠度依您每日燃烧热量的计算精确度而定。算出来的数字可能因为种种因素而不精确 (譬如日常活动代谢比正常时多或少，或日常工作活动比正常时多或少)。</string>
+    <string name="faq_answer_1">脉冲血氧仪是一款能够快速轻松测量您血液氧饱和度 (SpO2) 水平和脉搏率 (心率) 的无创测量装置。</string>
+    <string name="faq_answer_2">血氧饱和度是血液中携带的氧气量的最大百分比。</string>
+<string name="faq_answer_3" formatted="false">  对于一个正常健康的人，正常 SpO2 应该是 96%至99%。然而，海拔高度的变化可以影响一个人的 SpO2 读数。
+	     当海拔高于海平面时，空气中的氧气减少。海拔越高，空气中的氧气越稀薄。例如，在海平面上测得的血氧读数为 98%，
+	     在5000 英尺海平面以上该读数可能会降至 95%，在 10000 英尺海平面以上，该读数会进一步下降至 90%。
+	     您可以咨询您的健康顾问以获取更详细的信息。</string>
+    <string name="faq_answer_4">正常测静息心率是每分钟 60 至 100 次之间。详细信息，请咨询您的健康顾问。</string>
+    <string name="faq_answer_5" formatted="false">灌注指数或 PI，是脉冲强度监测站点的相对评估结果。PI 范围从0.01%(非常弱脉冲强度) 至 20%(非常强脉冲强度)。</string>
+    <string name="faq_answer_6">双手冰冷、 脉搏微弱、 手部活动、指甲油和丙烯酸指甲都是一些可能会对测量结果产生影响的最常见因素，还会造成不准确的结果。</string>
+    <string name="faq_answer_7">很多 因素可以影响脉率，包括但不是限于身体活动、 体能水平、 情绪状态、 体重、 药物和身体的位置。</string>
+<string name="faq_answer_8" formatted="false">SpO2 测量范围: 70-99%。
+
+平均均方根 (ARMS) 的 SpO2 精度: 80%∼99%: ± 2%，70%∼79%: ± 3%,70%:没有定义。
+
+脉搏测量范围: 30 250bpm。
+
+脉冲率精度: 30∼99bpm: ±2bpm，100∼250bpm: ± 2%。</string>
+    <string name="faq_answer_9">电池电量太低时，就会出现电池指示灯。</string>
+    <string name="astfaq_content_1"> iHealth 无线活动和睡眠跟踪是一种活动和睡眠跟踪器。它能跟踪并记录您走过的每一步，旅行的距离，消耗的热量以及睡眠效率。它的睡眠提醒功能可以通过产生轻微的振动来唤醒您，而不会影响到您身边的人。活动闹钟的功能将有助于您变得更加积极。 iHealth Edge还具有一个有趣的活动水平功能，它能促使您为达到不同水平的运动量更积极地进行活动。此设备通过蓝牙 4.0，以无线方式与您的移动设备进行连接。</string>
+    <string name="astfaq_content_2">如 www.iHealthlabs.com/support所列的相关 Android 设备</string>
+<string name="astfaq_content_3"> ihealth 跟踪器适合步行、 跑步和日常生活中的其他活动。一般来讲，通过一整天的跟踪，从您的总活动和消耗的总热量，它能对您的活动程度做出评判。它还可以跟踪您的睡眠模式，并帮助您深入观察您的睡眠效率随时间的推移发生的变化。
+
+活动跟踪器需要与免费的iHealth MyVitals 应用程序配合使用。该程序具有个性化的健康工具，它能最大限度分析出从您的跟踪器同步上来的数据，并更好您地管理您的健康目标。
+
+IHealth 跟踪器使用 3 轴加速度传感器，它能检测您在三个维度的运动模式，并将其转换为您的步数、 热量、 运动距离和睡眠效率等信息。</string>
+    <string name="astfaq_content_4">iHealth 活动跟踪器显示基本的时间、运动的步数、 走行的距离、 消耗的热量，以及每日的活动级别。按下按钮，可以进行每个视图的切换。</string>
+    <string name="astfaq_content_5"> 跟踪器的佩戴有两种方式，您可以选择佩戴在手腕上，或使用我们提供的腰夹别在腰部。当然，您也可以选择在睡眠时佩戴臂带。从”手腕跟踪“到”腰跟踪“，切换为最大跟踪精度。</string>
+    <string name="astfaq_content_6"> iHealth 跟踪器的腕带是由低过敏性的 TPU 橡胶、 乳胶和无PVC制成，使用更加亲肤。</string>
+    <string name="astfaq_content_7">有较好的防水能力，在出汗，下雨，泼溅，游泳，甚至是淋浴的情况下都可佩带腕表，但是水温不能超过30度。</string>
+<string name="astfaq_content_8"> 腕表的设置简单快捷。请按照下面的步骤来设置您的 iHealth 跟踪器:
+
+    从苹果应用商店或 Google Play 上下载iHealth MyVitals 应用程序。
+
+    进入您的移动设备中的"设置"，打开蓝牙开关。
+
+    打开应用程序，然后按照屏幕上的说明设置和个性化您的追踪器。
+
+    有关详细信息，请参阅产品包装上快速开始指南，或从www.iHealthlabs.com 下载。</string>
+    <string name="astfaq_content_9">为了保护您的个人数据，iHealth 跟踪链接追踪器将在第一次安装iHealth MyVitals 程序时与您的账号进行连接。链接功能可以确保只有您可以将同步追踪器与您的移动设备同步，即使您错误放置了您的追踪器。</string>
+    <string name="bpfaq_content_1">血压是血液流经全身血管时，施加在血管壁上的力量或压力。心脏像泵一样，将血液打进血管，推动循环。每次心跳中，这股力量会将血液从最高压 (收缩压) 推到最低压 (舒张压)。心跳周期指的是心跳中的一连串动作。血压以毫米汞柱 (mmHg) 为单位。</string>
+    <string name="bpfaq_content_2">血压通常以收缩压/舒张压表示，譬如 120/80。在心跳周期中压力的最高点就是收缩压 — 这是心脏收缩时产生的压力。而最低点则发生在两个心跳之间，称为舒张压 — 这是心脏休息时最小的动脉压力。</string>
+<string name="bpfaq_content_3">世界卫生组织针对如何评价血压数值建立了以下全球通用的指导："\n""\n"
+
+最适当血压"\n"
+
+"\t""\t"收缩压小于 120 mmHg"\n"
+
+"\t""\t"舒张压小于 80 mmHg"\n"
+
+正常血压"\n"
+
+"\t""\t"收缩压介于 120~129 mmHg"\n"
+
+"\t""\t"舒张压介于 80~84 mmHg"\n"
+
+正常偏高血压	•"\n"
+
+"\t""\t"收缩压介于 130~139 mmHg"\n"
+
+"\t""\t"舒张压介于 85~89 mmHg"\n"
+
+轻度高血压"\n"
+
+"\t""\t"收缩压介于 140~159 mmHg"\n"
+
+"\t""\t"舒张压介于 90~99 mmHg"\n"
+
+中度高血压   •"\n"
+
+"\t""\t"收缩压介于 160~179 mmHg"\n"
+
+"\t""\t"舒张压介于 100~109 mmHg"\n"
+
+重度高血压	  •"\n"
+
+"\t""\t"收缩压大于 179 mmHg"\n"
+
+"\t""\t"舒张压大于 110 mmHg"\n""\n"
+
+以上资料仅供为评估指导；个人的健康状况会因年龄、性别、整体身体状况及遗传而有所不同。判读血压报告时应与专业医护人员讨论及检测。</string>
+    <string name="bpfaq_content_4">高血压是指血流对血管造成的压力高并可能引发心脏病等疾病，是一种常见的健康问题。其危险在于心脏必须更费力地将血液推送至全身。</string>
+<string name="bpfaq_content_5">因为很多人只有轻微的症状，甚至可能没有症状，所以高血压常被称为「无声杀手」。高血压的英文 hypertension 字首为 hyper，会使人误认为与过度运动 (hyperactive)、情绪紧绷 (tense) 或紧张的 (nervous) 行为有关，但事实上，表面上看来冷静且放松的人仍有可能患有高血压。
+
+ \n \n
+
+家庭血压测量有助于发现或监控高血压。持续定期测量血压一段时间，便可以追踪记录，并且发现您的血压是否出现任何变化、波动或升高。单次测量的高血压未必就是有高血压或其他健康问题。
+
+\n \n
+
+只有医护人员可以为您诊断健康状况。而 iHealth 血压计是便于测量、追踪及分享结果的工具。</string>
+<string name="bpfaq_content_6">如果您已经被诊断出患有高血压，那么定期就诊就很重要。iHealth App 是一个便于储存、追踪并向医护人员分享您的测量结果的工具，以便医护人员协助治疗您的高血压。\n\n
+
+
+
+如果您尚未被诊断患出有高血压，但又担心患有高血压，建议您请医护人员为您的健康状况作精确的诊断。</string>
+<string name="bpfaq_content_7">可以利用世界卫生组织建立的评估指导来分析血压测量结果。根据您的体型、生活方式以及整体的健康状况，与医护人员来讨论您的理想血压应为多少，这点对您来说也是很重要的。\n\n
+
+血压测量结果异常偏高往往是人为造成的。请务必依据说明书或 iHealth 网站 (www.ihealthlabs.com) 上所提供的资讯，正确地测量及使用产品。如果您感觉测量结果不正确，请休息几分钟后重新进行测量；要保持冷静及放松以免造成测量结果偏高。\n\n
+
+
+
+iHealth 血压计也具备心率不齐检测功能。若在测量血压时检测到心率不齐，脉率读数旁的心率不齐符号便会显示在屏幕上。若此符号经常出现，请就您的心率不齐状况咨询医护人员。</string>
+    <string name="bpfaq_content_8">为确保精确度，iHealth 血压计已取得 CE 医疗器材认证 (欧洲) 及 FDA 认证 (美国)。iHealth血压计产品都以下列关于非侵入式血压计的欧洲和美国标准进行测试：AAMI SP10:2002 (手动、电动或自动血压计) 及 EN1060-4:2004 (非侵入式血压计 – 第四部份：测试各步骤以判定非侵入式自动血压计的整体系统精确度)。这些标准比较了 iHealth 血压计与水银血压计的测量结果。并且经过处理及分析，以确保血压计的医疗可靠度。</string>
+<string name="bpfaq_content_9">在家使用本产品测量血压没有相关的医疗风险。如果您测量时感觉不适，请向专业医护人员咨询如何正确使用袖带及调整其松紧度。\n\n
+
+
+
+如果您手臂上有血液透析管 (导管)，请不要在此手臂测量血压。\n
+
+在血压测量过程中，您随时可在 Apps 屏幕上向右滑动「停止」按钮，停止血压测量。</string>
+    <string name="scalefaq_1">1. 什么是身体组成？</string>
+    <string name="scalefaq_2">2. 什么是体脂肪？</string>
+    <string name="scalefaq_3">3. 什么是骨质密度？</string>
+    <string name="scalefaq_4">4. 什么是肌肉量？</string>
+    <string name="scalefaq_5">5. 什么是身体含水率？</string>
+    <string name="scalefaq_6">6. 什么是内脏脂肪？</string>
+    <string name="scalefaq_7">7. 什么是内脏脂肪指数？</string>
+    <string name="scalefaq_8">8. 什么是每日摄取热量 (DCI)？</string>
+    <string name="scalefaq_9">9. 热量如何影响体重？</string>
+</resources>

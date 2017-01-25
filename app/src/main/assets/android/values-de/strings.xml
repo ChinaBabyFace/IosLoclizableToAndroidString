@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- 页面~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <!-- user_guide -->
+    <string name="act_guide_edittext_text1">Messen. Verfolgen. Teilen.</string>
+    <string name="act_guide_edittext_text2">Verfolgen und kennen Sie Ihre Zahlen, um jeden Tag gesunde Entscheidungen zu treffen.</string>
+    <!-- user_login -->
+    <string name="user_login_username_txt">Example@aaa.com</string>
+    <string name="user_login_password_txt">Passwort</string>
+    <string name="user_login_password_org_txt">Falsches Passwort</string>
+    <string name="user_login_button_txt">Anmelden</string>
+    <string name="user_login_register_txt">Ein neues Konto einrichten</string>
+    <string name="user_login_or_txt">oder</string>
+    <string name="user_login_email_example">Example@aaa.com</string>
+    <string name="user_login_signin">Anmeldung, bitte warten...</string>
+
+
+    <!-- user_register1 -->
+    <string name="user_register1_title_txt">Ein Konto einrichten</string>
+    <string name="user_register1_photo_txt">Foto hinzufügen</string>
+    <string name="user_register1_first_name">Vorname </string>
+    <string name="user_register1_last_name">Nachname</string>
+    <string name="user_register1_male">Männlich</string>
+    <string name="user_register1_female">Weiblich</string>
+    <string name="user_register1_warning">Alle Felder zum Fortfahren ausfüllen</string>
+    <string name="user_register1_next">Weiter</string>
+    <!-- user_register2 -->
+    <string name="user_register2_birthday">Geburtsdatum</string>
+    <string name="user_register2_height">Größe</string>
+    <string name="user_register2_weight">Gewicht</string>
+    <string name="user_register2_warning">Alle Felder zum Fortfahren ausfüllen</string>
+    <string name="user_register2_done">Weiter</string>
+    <!-- user_register3 -->
+    <string name="user_register3_welcome">Verknüpfen Sie Ihre E-Mail-Adresse mit Ihrem iHealth MyVitals-Konto, um die Aufzeichnungen Ihrer Vitalwerte anzusehen.</string>
+    <string name="user_register3_email">Example@aaa.com</string>
+    <string name="user_register3_password">Kennwort</string>
+    <string name="user_register3_confirmpassword">Passwort bestätigen</string>
+    <string name="user_register3_term">Durch die Registrierung eines iHealth-Kontos bestätigen Sie, dass Sie die Nutzungsbedingungen und Datenschutzbestimmungen von iHealth gelesen haben und sich damit einverstanden erklären.</string>
+    <string name="user_register3_warning_email">Geben Sie bitte eine gültige E-Mail-Adresse ein</string>
+    <string name="user_register3_warning_pwd">Ihr Passwort muss aus mindestens sechs Zeichen bestehen.</string>
+    <string name="user_register3_warning_confirmpwd">Bitte gegen Sie das Passwort erneut ein</string>
+    <string name="user_register3_warning_confirmpwd_and_pwd">Die Passwortfelder stimmen nicht überein, bitte wiederholen Sie die Eingabe</string>
+    <string name="user_register3_next">Mein Konto einrichten</string>
+    <!-- user_register_terms -->
+    <string name="user_register_terms_title_txt">Nutzungsbedingungen</string>
+    <!-- user_userinfo -->
+    <string name="userinfo_title">Mein Konto</string>
+    <string name="user_userinfo_gender">Geschlecht</string>
+    <string name="user_userinfo_birthday">Geburtsdatum</string>
+    <string name="user_userinfo_height">Höhe</string>
+    <string name="common_weight">Gewicht</string>
+    <string name="user_userinfo_athlete">Sportler</string>
+    <string name="user_userinfo_daily_activity">Tägliche Aktivität </string>
+    <string name="user_userinfo_share_email_txt">E-Mail teilen</string>
+    <string name="user_userinfo_share_email">E-Mail</string>
+    <string name="user_userinfo_partner_service">Partnerdienste</string>
+    <string name="user_userinfo_remember_password">Passwort speichern</string>
+    <string name="user_userinfo_auto_login">Automatische Anmeldung</string>
+    <string name="common_update">Update</string>
+    <string name="user_userinfo_logout">Abmelden</string>
+    <!-- User_password_error -->
+    <string name="forgot_password">Passwort vergessen?</string>
+    <!-- user_take_photo -->
+    <string name="user_take_photo_take">Foto aufnehmen</string>
+    <string name="user_take_photo_choose">Ein bestehendes Foto auswählen</string>
+    <string name="user_take_photo_cancel">Abbrechen</string>
+    <string name="user_userinfo_nosdcard">Keine SD-Karte</string>
+    <string name="user_userinfo_takephoneError_take_failed">Nehmen Sie Foto gescheitert</string>
+    <string name="user_userinfo_takephoneError_cut_failed">Foto Cut gescheitert</string>
+    <!-- user_userinfo_daily_activity -->
+    <string name="user_userinfo_daily_activity_sedentary">Sitzend</string>
+    <string name="user_userinfo_daily_activity_sedentary_more">Ich verbringe den Tag hauptsächlich sitzend (z. B. am Schreibtisch)</string>
+    <string name="user_userinfo_daily_activity_active">Aktiv</string>
+    <string name="user_userinfo_daily_activity_active_more">Ein großer Teil des Tages wird mit körperlichen Tätigkeiten verbracht. (z. B. Kellnerin, Postbote)</string>
+    <string name="user_userinfo_daily_activity_very_active">Sehr aktiv</string>
+    <string name="user_userinfo_daily_activity_very_active_more">Die meiste Zeit des Tages wird mit schweren körperlichen Tätigkeiten verbracht.(z. B. Bauarbeiter)</string>
+    <string name="user_userinfo_daily_activity_done">Fertig</string>
+    <!-- act_setting -->
+    <string name="act_setting_title">Einstellungen</string>
+    <string name="act_setting_copyright">Copyright</string>
+    <string name="act_setting_about">Impressum</string>
+    <string name="act_App_Version">Version der App</string>
+
+    <!-- BP FAQ -->
+
+    <string name="bpfaq_BeforeUse">Vor der Anwendung</string>
+    <string name="bpfaq_BloodPressureKnowledge">Körpergewicht-Infos</string>
+    <string name="bpfaq_DataSyncing">Datensynchronisierung</string>
+    <string name="bpfaq_Troubleshooting">Fehlerbehebung</string>
+    <string name="bpfaq_Useandips">Anwendung und Tipps</string>
+    <string name="bpfaq_Warranty">Garantie</string>
+
+    <string name="bpfaq_BP_Tutorial">BP Lernprogramm</string>
+    <!-- act_setting_about -->
+    <string name="act_setting_about_app_version">App-Version</string>
+    <string name="act_setting_about_model">Modell</string>
+    <string name="act_setting_about_iHealth">iHealth</string>
+    <string name="act_bp_guide_title">BP Guide</string>
+    <string name="infomation_email">support@ihealthlabs.com.</string>
+    <string name="Pulse_Oximeter_Setup">Pulsoximeter Setup</string>
+    <string name="pulse_oximeter_basics">Pulsoximeter - Grundlagen</string>
+    <string name="using_the_pluse_oximeter">Verwendung des Pulsoximeters</string>
+    <string name="syncing_data">Datensynchronisierung</string>
+    <string name="troubleshooting">Fehlerbehebung</string>
+    <string name="Activty_and_sleep_Setup">Aktivität und Schlaf Setup</string>
+    <string name="general_information">Allgemeine Informationen</string>
+    <string name="information_and_setup">Informationen und Einrichtung</string>
+    <string name="syncing_your_iHealth_tracker">iHealth Tracker synchronisieren</string>
+    <string name="information_about_activity_tracking">Informationen zum Aktivitäten-Tracking</string>
+    <string name="information_about_sleep_tracking">Informationen zum Schlaf-Tracking</string>
+    <string name="charging_and_battery">Laden und Batterie</string>
+    <string name="trouble_shooting">Fehlerbehebung</string>
+    <string name="body_weight_knowledge">Körpergewicht-Infos</string>
+    <string name="before_use">Vor der Anwendung</string>
+    <string name="use_and_tips">Anwendung und Tipps</string>
+    <string name="data_syncing">Datensynchronisierung</string>
+    <string name="warranty">Garantie</string>
+    <!-- user_take_photo -->
+    <string name="user_userinfo_takephoneError_notsupport">Das Gerät unterstützt keine Kamerafunktionen</string>
+    <!-- user_login -->
+    <string name="user_login_proDia_title">Fehler</string>
+    <string name="user_login_checkuser">Der Benutzername muss eine gültige E-Mail-Adresse sein</string>
+    <string name="user_login_checkuser_null">Benutzername kann nicht leer bleiben</string>
+    <string name="user_login_checkpassword">Das Passwort muss zwischen 6-128 Zeichen haben.</string>
+    <string name="user_login_checkpassword_null">Das Passwort darf nicht leer sein</string>
+    <string name="user_login_signin_toast_204">Benutzername oder Passwort falsch</string>
+    <string name="user_login_signin_toast_206">Benutzerkonto gesperrt</string>
+    <string name="user_login_signin_toast_207">Benutzerkonto blockiert</string>
+    <string name="user_login_signin_toast_209">Benutzer existiert nicht.</string>
+    <string name="user_login_signin_toast_901">Netzwerk-Zeitüberschreitung</string>
+    <string name="user_login_signin_toast_902">Nicht mit dem Netzwerk verbunden</string>
+    <string name="user_login_signin_toast_999">Netzwerkfehler</string>
+    <string name="user_login_signin_toast_404">Anmeldung fehlgeschlagen</string>
+    <string name="user_password_wrongthreetime">Ihr Zugang wurde durch 3 falsche Kennwörter aufgehängt. Bitte versuchen Sie es in 15 Minuten oder klicken Sie auf den "Passwort vergessen" Link, um Ihr Passwort zurückzusetzen. </string>
+    <string name="user_login_account_error">Ein Konto Fehler aufgetreten ist, wenden Sie sich bitte neu einloggen</string>
+    <string name="user_login_out_error"> Logout ausfallen</string>
+
+    <!-- user_register2 -->
+    <string name="user_register2_proDia_message">Synchronisieren</string>
+    <string name="user_register2_signin_toast_404">Synchronisieren fehlgeschlagen</string>
+    <!-- user_register3 -->
+    <string name="user_register3_proDia_message">Einrichten ...</string>
+    <string name="user_register3_signin_toast_000">Registrierung fehlgeschlagen</string>
+    <string name="user_register3_signin_toast_203">Das Passwort entspricht nicht den Erfordernissen</string>
+    <!-- user_userinfo -->
+    <string name="user_userinfo_proDia_title">Warnung</string>
+    <string name="user_userinfo_proDia_message_update">Wird aktualisiert ...</string>
+    <string name="user_userinfo_proDia_message_upload">Wird hochgeladen ...</string>
+    <string name="user_userinfo_update_toast_201">iHealth-ID ist bereits vorhanden</string>
+    <string name="user_userinfo_update_toast_111">Update fehlgeschlagen</string>
+    <string name="user_userinfo_upload_toast_200">Update erfolgreich</string>
+    <!-- 体重Setting -->
+    <string name="act_weight_setting_hs5">HS5</string>
+    <string name="act_weight_setting_hs6">HS6</string>
+    <!-- AM测量数据同步 -->
+    <string name="act_am_test_steps">Schritte</string>
+    <!-- AM运动字符串 -->
+    <string name="am_totaltittle_minute">Minute</string>
+    <string name="am_totaltittle_totalburn">Verbrannte Kalorien</string>
+    <!-- AM睡眠字符串 -->
+    <string name="am_totaltittle_hours">h</string>
+    <!-- 卡路里运动 -->
+    <string name="Inport">Import</string>
+    <string name="StartTime">Startzeit</string>
+    <string name="EndTime">Endzeit</string>
+    <string name="calorie">Calorie</string>
+    <string name="common_done">Fertig</string>
+    <string name="min">Min.</string>
+    <string name="add">Add</string>
+    <string name="name">Name</string>
+    <string name="common_6am">6 Uhr</string>
+    <string name="common_11_59pm">23:59 Uhr</string>
+    <string name="bpresults_TrendsData">Datum</string>
+    <string name="bpresults_Moodtitle">Stimmung</string>
+    <string name="bpresults_Activitytitle">Aktivität</string>
+    <string name="bpresults_share_title">Meine Blutdruck-Zusammenfassung</string>
+    <string name="bpresults_Time">Zeit</string>
+    <!-- bp error -->
+    <string name="bperr0">Die Messungen konnten wegen Bewegungen des Arms/Handgelenks nicht vorgenommen werden.</string>
+    <string name="bperr1">Der systolische Druck kann nicht ermittelt werden</string>
+    <string name="bperr2">Der diastolische Druck kann nicht ermittelt werden</string>
+    <string name="bperr3">Das pneumatische System ist blockiert oder die Manschette war während des Aufpumpens zu fest angelegt</string>
+    <string name="bperr4">Das pneumatische System hat ein Loch oder die Manschette war während des Aufpumpens zu locker angelegt</string>
+    <string name="bperr5">Der Manschettendruck liegt bei über 300 mmHg</string>
+    <string name="bperr6">Der Manschettendruck hat 15 mmHg in über 160 Sekunden nicht erreicht</string>
+    <string name="bperr7">Datenabruffehler</string>
+    <string name="bperr8">Datenabruffehler</string>
+    <string name="bperr10">Datenabruffehler</string>
+    <string name="bperr12">Kommunikationsfehler</string>
+    <string name="bperr13">Schwache Batterie</string>
+    <string name="bperr14">Die Systole liegt über 260 mmHg oder die Diastole über 199 mmHg</string>
+    <string name="bperr15">Die Systole liegt unter 60 mmHg oder die Diastole unter 40 mmHg</string>
+    <string name="bperr16">Bewegungen von Arm/Handgelenk außerhalb des Bereichs.</string>
+    <!-- bp result -->
+    <string name="bptest_Start">START</string>
+    <string name="bpresult_SYS">SYS</string>
+    <string name="bpresult_DIA">DIA</string>
+    <string name="bpresult_UnitmmHg">mmHg</string>
+    <string name="bpresult_UnitKPa">kPa</string>
+    <string name="amtrends_steps">Schritte</string>
+    <string name="BMI">BMI</string>
+    <!-- 设备选择相关字段 -->
+    <string name="how_to_set_up">Wie verlinke ich Geräte?</string>
+    <string name="refresh">Wird aktualisiert</string>
+    <string name="refreshing">Aktualisierung läuft...</string>
+    <string name="summary">My Vitals</string>
+    <string name="mygoals">Ziele</string>
+    <!-- 分享 -->
+    <string name="share_mail">E-Mail</string>
+    <string name="share_Twitter">Twitter</string>
+    <string name="share_Facebook">Facebook</string>
+    <string name="share_Evernote">Evernote</string>
+    <!-- 首次进入 -->
+    <string name="am_share_title">Meine Aktivitäten-Zusammenfassung</string>
+    <string name="Weight_share_title">Meine Gewichts-Zusammenfassung</string>
+    <string name="only_one_am">Pro Konto ist nur ein Aktivitäten-Tracker erlaubt. Bitte prüfen Sie die MAC-Adresse auf der Rückseite Ihres Aktivitäten-Tracker, den Sie koppeln möchten.</string>
+    <string name="ask_upgrade">Es ist ein Firmware-Update verfügbar. Möchten Sie das Update jetzt ausführen?</string>
+    <string name="ask_binding_new">Neuer Tracker gefunden. Um diesen Tracker mit Ihrem Konto zu koppeln und das vorherige zu löschen, wählen Sie \„ja\“ aus</string>
+    <string name="bluetooth_devicelist_dialog_ssid">SSID:</string>
+    <string name="bluetooth_devicelist_dialog_type">Typ:</string>
+    <string name="bluetooth_devicelist_dialog_password">Kennwort</string>
+    <string name="bluetooth_setwifi_title">WLAN einstellen</string>
+    <string name="findam">Tracker %1$s wurde gefunden. Stimmt diese ID-Nummer mit der Nummer auf der Rückseite Ihres Trackers überein, zum Koppeln des Geräts mit Ihrem Konto \"Ja\" auswählen</string>
+    <string name="connectdevice">Gerät verbinden</string>
+    <!-- 用户编辑 -->
+    <string name="user_userinfo_name_error">Benutzername muss 1 - 32 Zeichen aufweisen</string>
+    <!-- chen 新加 -->
+    <string name="set_wifi_ok">WLAN erfolgreich eingerichtet</string>
+    <string name="set_wifi_no">WLAN einrichten fehlgeschlagen</string>
+    <string name="Hours_Slept">Schlafzeit</string>
+    <string name="lookingdevice">Ihr Gerät wird gesucht</string>
+    <string name="Scale_full">Die Waage hat die max. Anzahl von 20 Konten erreicht.</string>
+    <string name="cleaning_up">Daten werden bereinigt...</string>
+    <!-- 管理 -->
+    <string name="act_regulatory_title">Rechtliches</string>
+    <!-- 新加提示 -->
+    <string name="weight_hs5_vfr">VFR</string>
+    <!-- 血氧结果卡增加 -->
+    <string name="Hours_activity">Aktivitätszeit</string>
+    <string name="am3_addalarm_title_cancel">Abbrechen</string>
+    <string name="am3_addalarm_title_done">Fertig</string>
+    <string name="common_repeat">Wiederholen</string>
+    <string name="am3_addalarm_description">Die Schlaf-Erinnerung weckt Sie durch einen Tracker mit leichter Vibration auf.</string>
+    <string name="am3_activealarm_description">Der Leerlauf-Alarm erinnert Sie durch Vibrationen vom Tracker daran, Ihr Aktivitätsniveau zu erhöhen.</string>
+    <string name="frame_slidebar_left_name_txt">Profil bearbeiten</string>
+    <string name="act_equipment_guide_am3s_3">Öffnen Sie die App, wählen Sie Ihr Gerät und geben Sie die letzten zwei der sechs Ziffern Ihres Trackers ein.</string>
+    <string name="Monday">Montag</string>
+    <string name="Tuesday">Dienstag</string>
+    <string name="Wednesday">Mittwoch</string>
+    <string name="Thursday">Donnerstag</string>
+    <string name="Friday">Freitag</string>
+    <string name="Saturday">Samstag</string>
+    <string name="Sunday">Sonntag</string>
+    <string name="common_never">Niemals</string>
+    <string name="weight_body_analysis_scale">Körperanalysewaage</string>
+    <string name="Incorrect_pin">Falsche PIN, bitte erneut versuchen.</string>
+    <string name="common_repeat_everyday">Täglich</string>
+    <string name="delete_dialog">Diese Messung wird dauerhaft gelöscht; sind Sie sicher?</string>
+    <string name="delete_alarm_dialog">Dieser Alarm wird dauerhaft gelöscht; sind Sie sicher?</string>
+    <string name="week_repeat_workdays">Wochentags</string>
+    <string name="am3_addalarm_title">Neuer Alarm</string>
+    <!-- 低功耗是否可用-AM,PO弹框提示文字 -->
+    <string name="record_the_random_6_digit_number">Bitte notieren Sie die zufällige 6-stellige Nummer auf dem Tracker, geben Sie dann die letzten 2 Ziffern dieser Nummer während des Kopplungsvorgangs ein.</string>
+    <string name="am3s_Activty_and_sleep_Setup">Aktivität und Schlaf Setup</string>
+    <string name="am3s_product_information">Produktinformationen</string>
+    <string name="am3s_set_up">Einrichten</string>
+    <string name="am3s_sleep_tracking">Schlaf-Tracking</string>
+    <string name="am3s_activity_tracking">Aktivitäten-Tracking</string>
+    <string name="am3s_charging_and_battery">Charging And Battery</string>
+    <string name="am3s_syncing_your_ihealth_edge">iHealth Edge synchronisieren</string>
+    <string name="am3s_trouble_shooting">Fehlerbehebung</string>
+    <string name="deletecurrentuserdialog">Sind Sie sicher, dass Sie das aktuelle Benutzerkonto löschen möchten?</string>
+    <string name="Upgrade_confirm">Soll die Firmware der Waage aktualisiert werden?</string>
+    <string name="Scan_QR_code">QR-Code scannen</string>
+    <!-- hint值其实不用翻译，EditText会有默认国家值 -->
+    <string name="user_register2_country">Ihre Region</string>
+    <!-- “选择国家”  google的多语言 -->
+    <string name="choose_country">Region wählen</string>
+    <string name="country">region</string>
+    <!-- 以下为3.0用到字段   没有跟2.0混在一起   后面可以考虑合并 -->
+    <string name="manual_input">Manuelle Eingabe</string>
+    <string name="input_bp_title">Log</string>
+    <string name="input_date_title">Datum</string>
+    <string name="input_common_time">Zeit</string>
+    <string name="input_bp_sys">SYS</string>
+    <string name="input_bp_dia">DIA</string>
+    <string name="input_bp_pulse">Puls</string>
+    <string name="input_bp_sys_unit">mmHg</string>
+    <string name="input_bp_sys_unit2">kPa</string>
+    <string name="input_bp_pulse_unit">Schläge/Min</string>
+    <string name="input_bp_note">Anmerkungen hinzufügen</string>
+    <string name="input_done">FERTIG</string>
+    <string name="setting_title">Einstellungen</string>
+    <string name="setting_mydeice">Meine Geräte einrichten</string>
+    <string name="select_device">Neues Gerät auswählen</string>
+    <string name="select_device_bp_title">BLUTDRUCK</string>
+    <string name="select_device_hs_title">WAAGE</string>
+    <string name="select_device_am_title">AKTIVITÄTSMONITORE</string>
+    <string name="select_device_po_title">PULSOXIMETER</string>
+    <string name="select_device_bp">Blutdruckmessgerät</string>
+    <string name="select_device_hs">Waagen</string>
+    <string name="select_device_am">Aktivitäten-Tracker</string>
+    <string name="select_device_po">Pulsoximeter</string>
+    <string name="setting_goals">Ziele</string>
+    <string name="setting_unit">Einheiten</string>
+    <string name="setting_shealth">SHealth</string>
+    <string name="setting_partnerservice">Partner Service</string>
+    <string name="setting_about">Über</string>
+    <string name="setting_device_isconnect">Verbunden</string>
+    <string name="setting_device_notconnect">Nicht verbunden</string>
+    <string name="numberpicker_cancel">Abbrechen</string>
+    <string name="numberpicker_ok">OK</string>
+    <string name="setting_mydevice_details">Einzelheiten</string>
+    <string name="setting_mydevice_product_id">Produkt-ID:</string>
+    <string name="setting_mydevice_hardware">Hardware-Version:</string>
+    <string name="setting_mydevice_firmware">Firmware-Version:</string>
+    <string name="setting_mydevice_offline_switch">Offline-Messung:</string>
+    <string name="setting_mydevice_device_battery">Batterie des Geräts</string>
+    <string name="setting_mydevice_forgot_device">Zurücksetzen</string>
+    <string name="setting_mydevice_speech_language_modify">Die Sprachfunktion ist nur in Englisch und Französisch verfügbar. Ändern Sie bitte zuerst die Sprache Ihres Gerätes.</string>
+    <string name="setting_mydevice_speech_language_modify2">VDie Sprachfunktion ist nur in Englisch und Französisch verfügbar. Wenn Sie eine andere Sprache wählen, wird diese Funktion deaktiviert.</string>
+    <string name="setting_mydevice_speech_language_setting">Gehe zu Einstellung</string>
+    <string name="setting_mydevice_speech">Sprache</string>
+    <string name="setting_mydevice_select_language">Sprache auswählen</string>
+    <string name="setting_mydevice_select_user">Benutzer auswählen</string>
+    <string name="setting_mydevice_share_device">Gerät freigeben</string>
+    <string name="setting_mydevice_set_wifi">Wi-Fi einstellen</string>
+    <string name="setting_mydevice_tp_hr_switch">Temperatur und Raumluftfeuchtigkeit ermitteln</string>
+    <string name="setting_mydevice_reset_wifi">WLAN rücksetzen</string>
+    <string name="setting_mydevice_delete_currentuser">Derzeitigen Benutzer löschen</string>
+    <string name="setting_mydevice_tp_txt">TEMP</string>
+    <string name="setting_mydevice_rh_txt">RH</string>
+    <string name="input_po_po">SpO2</string>
+    <string name="input_po_pr">Pulsfrequenz</string>
+    <string name="input_po_pi">PI</string>
+    <string name="input_po_po_unit">%</string>
+    <string name="input_hs_weight">Gewicht</string>
+    <string name="input_hs_weight_unit_kg">kg</string>
+    <string name="input_hs_weight_unit_lbs">lb(s)</string>
+    <string name="input_hs_weight_unit_st">st</string>
+    <string name="input_hs_bodyfat">Körperfett</string>
+    <string name="input_hs_bodyfat_unit">%</string>
+    <string name="input_hs_bone_mass">Knochenmasse</string>
+    <string name="input_hs_bodywater">Körperwasser</string>
+    <string name="input_hs_musclemass">Muskelmasse</string>
+    <string name="input_hs_dci">TKA</string>
+    <string name="input_hs_fatrating">Bauchfettanteil</string>
+    <string name="share_bp_datas">Blutdruckdaten</string>
+    <string name="share_file_cvs">CSV-Datei</string>
+    <string name="share_file_xls">XLS-Datei</string>
+    <string name="share_file_pdf">PDF-Datei</string>
+    <string name="share_content">Inhalt:</string>
+    <string name="share_email">E-Mail</string>
+    <string name="share_format">Format:</string>
+    <string name="share_from">Von:</string>
+    <string name="share_to">An:</string>
+    <string name="share">Teilen</string>
+    <string name="share_progressDialog_title">Bitte warten Sie...</string>
+    <string name="share_po_datas">Blut-Sauerstoff-Daten</string>
+    <string name="share_am_datas">Aktivität und Schlaf Daten</string>
+    <string name="share_hs_datas">HS-Daten</string>
+    <string name="share_receiver">Empfänger:</string>
+    <!-- bp Menu Act -->
+    <string name="bp_menu_dialog">Wählen Sie zum Starten ein Gerät aus</string>
+    <string name="bp_menu_noBP3m">BP3M wurde getrennt</string>
+    <string name="bp_menu_noTrack">Track wurde getrennt</string>
+    <string name="bp_menu_noBP5">BP5 wurde getrennt</string>
+    <string name="bp_menu_noBP7">BP7 wurde getrennt</string>
+    <string name="bp_menu_noBP7s">BP7S wurde getrennt</string>
+
+    <string name="bp_menu_Upload">Offline-Daten hochladen</string>
+    <!-- bp menu nodevice -->
+    <string name="bp_upload_text">%1$d neue Messwerte seit dem letzten Hochladen</string>
+    <string name="bp_upload_btn_content">Alle Messwerte hochladen</string>
+    <string name="bp_list_pulseunit">Schläge/Min</string>
+    <!-- bplist -->
+    <string name="common_edit">Bearbeiten</string>
+    <string name="common_cancel">Abbrechen</string>
+    <string name="common_delete">Löschen</string>
+    <string name="bp_list_All">Alle</string>
+    <!-- bpResults -->
+    <string name="bpresults_Send">Fertig</string>
+    <string name="bpresults_PulseWave">Pulswelle</string>
+    <string name="bpresults_Add_comment">Notizen hinzufügen</string>
+    <string name="bpresults_Note">Hinweis</string>
+    <string name="bpresults_WHO1">Normaler Blutdruck</string>
+    <string name="bpresults_WHO2">Hoch-normaler Blutdruck</string>
+    <string name="bpresults_WHO3">Leichter Bluthochdruck</string>
+    <string name="bpresults_WHO4">Moderater Bluthochdruck</string>
+    <string name="bpresults_WHO5">Starker Bluthochdruck</string>
+    <!-- bp measure -->
+    <string name="bpmeasure_title">Messung</string>
+    <string name="bpmeasure_continue">Fortfahren</string>
+    <string name="bpmeasure_degree">Bitte positionieren Sie Ihren Arm korrekt.</string>
+    <string name="bp_test_stop">Stopp</string>
+    <!-- bp trends -->
+    <string name="trends_nodata">Keine Daten</string>
+    <string name="btn_Day">Kürzlich</string>
+    <string name="btn_Week">Woche</string>
+    <string name="btn_Month">Monat</string>
+    <string name="btn_Year">Jahr</string>
+    <string name="bptrends_date">Blutdruck nach Datum</string>
+    <string name="bptrends_day">Blutdruck nach Tageszeit</string>
+    <!-- bp upload -->
+    <string name="bp_upload">Hochladen des Blutdrucks</string>
+    <string name="bp_upload_edit">Bearbeiten</string>
+    <string name="menu_sidebar_title_BP">Blutdruck</string>
+    <string name="device_guide_am3s_1_txt">Nach Erhalt des Edges und vor der Erstnutzung sollten Sie die Batterie voll aufladen, um so die Lebensdauer der Batterie zu verlängern.</string>
+    <string name="device_guide_am4_1_txt">Nach Erhalt des Wave und vor der Erstnutzung sollten Sie die Batterie voll aufladen, um so die Lebensdauer der Batterie zu verlängern.</string>
+    <!-- 设备引导-BP3-1 -->
+    <string name="device_guide_bp3_1_title">Einstellungsanleitung zum BP3</string>
+    <string name="device_guide_bp3_1_skip">Abbrechen</string>
+    <string name="device_guide_bp3_1_txt">Vergewissern Sie sich, dass das Gerät vollständig geladen ist.</string>
+    <string name="device_guide_bp3_1_next">Weiter</string>
+    <!-- 设备引导-BP3-2 -->
+    <string name="device_guide_bp3_2_txt">Nehmen Sie bitte die Hülle von Ihrem Mobilgerät ab.</string>
+    <string name="device_guide_bp3_2_txt1">Verbinden Sie Ihr android-Gerät mit dem Blutdruck-Dock</string>
+    <!-- 设备引导-BP3-3 -->
+    <string name="device_guide_bp3_3_txt">Legen Sie das Messgerät, wie oben gezeigt, an und drücken Sie auf START. Nehmen Sie Ihre erste Blutdruck-Messung vor!</string>
+    <!-- 设备引导-BP5-1 -->
+    <string name="device_guide_bp5_1_title">Einstellungsanleitung zum BP5</string>
+    <!-- 设备引导-BP5-2 -->
+    <string name="device_guide_bp5_2_txt">Drücken Sie bitte die START/STOP-Taste auf dem Blutdruckmessgerät.</string>
+    <string name="device_guide_bp5_2_txt2">Klicken Sie auf das Gerät mit dem Namen BP5 xxxxx zum Koppeln.</string>
+    <string name="isopenbluetooth">Schalten Sie Bluetooth ein, um "iHealth" die Verbindungsherstellung zum Zubehör zu erlauben.</string>
+    <string name="isopenwifi">Bitte stellen Sie die Verbindung zum WLAN-Netzwerk in den Einstellungen Ihres Mobilgeräts her</string>
+    <!-- 设备引导-BP5-4_1 -->
+    <string name="device_guide_bp5_4_searching">Wird gesucht ...</string>
+    <string name="device_guide_bp5_4_1_txt">Ist Ihr Blutdruckmessgerät eingeschaltet?</string>
+    <string name="device_guide_bp5_4_1_txt2">Stellen Sie sicher, dass die Leuchte erscheint, wenn Sie auf die START/STOPP-Taste auf dem Blutdruckmessgerät drücken. Wenn keine Leuchte erscheint, laden Sie es zunächst.</string>
+    <!-- 设备引导-BP5-4_2 -->
+    <string name="device_guide_bp5_4_2_txt">Funktioniert nicht?</string>
+    <string name="device_guide_bp5_4_2_txt1"> Befinden sich in der Nähe andere Smart-Geräte, sollten diese bitte entfernt werden.</string>
+
+
+    <string name="device_guide_bp5_4_2_txt2">Stellen Sie sicher, dass sich Ihr Blutdruckmessgerät in der Nähe befindet.</string>
+    <string name="device_guide_bp5_4_2_txt3">Stellen Sie sicher, dass Ihr Blutdruckmessgerät in den Bluetooth-Einstellungen Ihres Mobilgeräts gekoppelt wurde.</string>
+    <!-- 设备引导-BP5-4_3 -->
+    <string name="device_guide_bp5_4_3_txt">Sie können Folgendes probieren</string>
+    <string name="device_guide_bp5_4_3_txt1">Gehen Sie zu Ihren Bluetooth-Einstellungen und löschen Sie BP5XXXXXX aus Ihrer Bluetooth-Liste. Schalten Sie die Bluetooth-Einstellungen aus und koppeln Sie das BP5 erneut.</string>
+    <string name="device_guide_bp5_4_3_txt2">Bitte halten Sie die "Start"-Taste gedrückt oder klicken Sie auf die "Menü"-Schaltfläche und wischen Sie vollständig nach unten, um alle Apps zu schließen, die im Hintergrund ausgeführt werden, und öffnen Sie MyVitals erneut.</string>
+    <!-- 设备引导-BP7-1 -->
+    <string name="device_guide_bp7_1_title">Einrichtungsanleitung  BP7</string>
+    <!-- 设备引导-BP7-2 -->
+    <string name="device_guide_bp7_2_txt">Drücken Sie bitte auf die START/STOPP-Taste auf dem Blutdruckmessgerät.</string>
+    <string name="device_guide_bp7_2_txt2">Klicken Sie auf das Gerät mit dem Namen BP7 xxxxx zum Koppeln.</string>
+    <!-- 设备引导-BP7-4_2 -->
+    <string name="device_guide_bp7_4_3_txt1">Gehen Sie zu Ihren Bluetooth-Einstellungen und löschen Sie BP7XXXXXX aus Ihrer Bluetooth-Liste. Schalten Sie die Bluetooth-Einstellungen aus und koppeln Sie das BP7 erneut.</string>
+
+    <!-- 设备引导-BPM1 -->
+
+    <string name="ready_to_connect">"Bereit zum Verbinden"</string>
+    <string name="ready_to_connect_failure">"Verbindungsfehler."</string>
+    <string name="return_back_to_app">"Kehren Sie dann zur MyVitals-App zurück"</string>
+    <string name="bpm1_press_user2_button">"Die Taste Benutzer 2 10 Sekunden lang gedrückt halten, um das Wi-Fi einzurichten"</string>
+    <string name="choose_wifi">"Wählen Sie Ihr WLAN-Netzwerk"</string>
+    <string name="wifi_password_hint">"Wi-Fi-Passwort eingeben"</string>
+    <string name="setting_wifi">"Wi-Fi-Verbindung wird hergestellt…"</string>
+    <string name="setting_wifi_failed">"Wi-Fi-Verbindung konnte nicht hergestellt werden"</string>
+    <string name="retry">"Erneut versuchen"</string>
+    <string name="setting_wifi_error">"Wi-Fi-Passwort ist falsch."</string>
+    <string name="setting_wifi_success">"Wi-Fi erfolgreich verbunden"</string>
+    <string name="setting_wifi_unsuccess">"Einstellung ist fehlgeschlagen, bitte warten Sie einen Moment."</string>
+    <string name="setting_has_not_been_completed">Die Einstellungen sind unvollständig</string>
+    <string name="set_user">"Benutzer einstellen"</string>
+    <string name="device_guide_bpm1_6_title">"BPM1-Benutzer einstellen"</string>
+    <string name="device_guide_bpm1_6_title2">"Einen Benutzer unter Benutzer 1 und Benutzer 2 auswählen"</string>
+    <string name="bpm1_exists_user_describe">"Ausgewählt durch {0}"</string>
+    <string name="device_guide_bpm1_6_title3">"Benutzer 1 und Benutzer 2 entspricht den Tasten Benutzer 1 und Benutzer 2 an dem Gerät"</string>
+    <string name="set_user_warning1">"Benutzer 1 wurde bereits ausgewählt. Wollen Sie sie ihn immer noch auswählen?"</string>
+    <string name="set_user_warning2">"Benutzer 2 wurde bereits ausgewählt. Wollen Sie sie ihn immer noch auswählen?"</string>
+    <string name="bpm1_setup_complete">"BPM1-Einrichtung abgeschlossen"</string>
+    <string name="select_wifi_describe">"Verbinden Sie das Wi-Fi Ihres Telefons mit iHealth-BPM1-XXX, kehren Sie dann zur MyVitals-App zurück"</string>
+    <string name="searching_for_wifi">"Suche nach WLAN..."</string>
+    <string name="go_to_set_wifi">"Öffnen, um WLAN einzurichten"</string>
+    <string name="input_email">"Jeweilige E-Mail-Adressen eingeben"</string>
+    <string name="share_bpm1">"Teilen"</string>
+    <string name="open_gps_message">"Schalten Sie die Standorterkennung ein, damit „iHealth MyVitals“ Ihren Standort erkennen und Ihnen die Wetterinformationen anzeigen kann."</string>
+    <string name="open_gps_message_settings">"Einstellungen"</string>
+    <string name="open_gps_message_cancle">"Abbrechen"</string>
+    <string name="allow_gps_message">"Sie sollten die Standorterkennung einschalten, damit wir Ihre Position akkurat bestimmen können."</string>
+    <string name="device_guide_bpm1_2_title2">Verbinden Sie Ihr das WLAN Ihres Telefons mit BPM1-xxx unter 000 Einstellungen -> 000 WLAN</string>
+    <string name="bpm1_setuser_failed">"Verbindung zum Internet nicht möglich."</string>
+    <string name="bpm1_network_disabled">"Ihr Telefon ist nicht mit dem Internet verbunden, bitte prüfen Sie Ihr Netzwerk und versuchen Sie es erneut."</string>
+
+
+    <!-- 设备引导-PO3-1 -->
+    <string name="device_guide_po3_1_title">Einrichtungsanleitung  PO3</string>
+    <!-- 设备引导-PO3-3_1 -->
+    <string name="device_guide_po3_3_1_txt">Ist Ihr Pulsoximeter eingeschaltet?</string>
+    <string name="device_guide_po3_3_1_txt2">Stellen Sie sicher, dass „- -“ angezeigt wird, wenn Sie auf die Taste am Pulsoximeter drücken.</string>
+    <!-- 设备引导-PO3-3_2 -->
+    <string name="device_guide_po3_3_2_txt1">Befinden sich in der Nähe andere Smart-Geräte, sollten diese bitte entfernt werden.</string>
+    <string name="device_guide_po3_3_2_txt2">Stellen Sie sicher, dass sich Ihr Pulsoximeter in der Nähe befindet.</string>
+    <string name="device_guide_po3_3_2_txt3">Ihr Pulsoximeter kann schneller gefunden werden, wenn Sie die auf Taste drücken, um es eingeschaltet zu lassen.</string>
+    <!-- 设备引导-PO3-3_3 -->
+    <string name="device_guide_po3_3_3_txt1">Halten Sie die Taste 8 Sekunden lang gedrückt, um das Pulsoximeter zurückzusetzen.</string>
+    <string name="device_guide_po3_3_3_txt2">Schalten Sie Bluetooth in den Einstellungen Ihres Mobilgeräts aus und dann wieder ein</string>
+    <string name="device_guide_po3_3_3_txt3">Bitte halten Sie die "Start"-Taste gedrückt oder klicken Sie auf die "Menü"-Schaltfläche und wischen Sie vollständig nach unten, um alle Apps zu schließen, die im Hintergrund ausgeführt werden, und öffnen Sie MyVitals erneut.</string>
+    <!-- amResults -->
+    <string name="amresults_title">Aktivitäts und Schlaf-Messergebnisse</string>
+    <string name="amresults_Active">Aktiv</string>
+    <string name="amresults_Nonactive">Nicht aktiv</string>
+    <string name="amresults_steps">Schritt</string>
+    <string name="amresults_km">Km</string>
+    <string name="amresults_kacl">kcal</string>
+    <string name="amresults_h">h</string>
+    <string name="amresults_Totalsleep">Gesamter Schlaf</string>
+    <string name="amresults_Asleep">Schlafend</string>
+    <string name="amresults_DeepSleep">Tiefschlaf</string>
+    <string name="amresults_Awaken">Wach</string>
+    <string name="amresults_SleepStatus">Schlafeffizienz</string>
+    <!-- goal -->
+    <string name="goal_title">Ziel</string>
+    <string name="goal_TargetWeight">Zielgewicht</string>
+    <string name="goal_BloodPressure">Zielblutdruck</string>
+    <string name="goal_dailyActiveGoal">Ziel für tägliche Aktivität</string>
+    <string name="weight_unit_st">st</string>
+    <string name="weight_unit_kg">kg</string>
+    <string name="weight_unit_lb">lb(s)</string>
+    <string name="am_unit_km">Km</string>
+    <string name="am_unit_kcal">kcal</string>
+    <string name="am_list_of">van</string>
+    <string name="amresults_mile">Meilen</string>
+    <string name="goal_null"> -- </string>
+    <string name="diastolic_ishigher_systolic">Der Hochdruck-Wert darf nicht gleich oder niedriger als der Niederdruck-Wert sein.</string>
+    <string name="weightvalue_error">Die Gewichtswerte sind nicht innerhalb des Bereichs oder das Format ist falsch.</string>
+    <string name="bloodvalue_error">Die Blutdruckwerte sind nicht in dem Bereich</string>
+    <!-- unit -->
+    <string name="setting_unit_bp">Blutdruckeinheiten:</string>
+    <string name="setting_unit_hs">Gewichtseinheiten:</string>
+    <string name="setting_unit_length">Entfernungseinheiten:</string>
+    <string name="setting_unit_height">Größeneinheiten:</string>
+    <string name="setting_unit_temperature">Temperatureinheiten:</string>
+    <!-- am setting -->
+    <string name="amsetting_title">Edge Detail</string>
+    <string name="amsetting_about">Impressum</string>
+    <string name="amsetting_settings">EINSTELLUNGEN</string>
+    <string name="amsetting_productid">Produkt-ID:</string>
+    <string name="amsetting_HardwareVersion">Hardware-Version:</string>
+    <string name="amsetting_Update">Update</string>
+    <string name="amsetting_FirmwareVersion">Firmware-Version:</string>
+    <string name="amsetting_DeviceBattary">Gerätebatterie</string>
+    <string name="amsetting_DeviceSkin">Geräteoberfläche</string>
+    <string name="amsetting_SleepAlarm">Schlafalarm</string>
+    <string name="amsetting_ActiveAlarm">Aktiv-Alarm</string>
+    <string name="amsetting_Every">Jede %1$d  Stunden %2$d  min</string>
+    <string name="amsetting_reset">Zurücksetzen</string>
+    <!-- AM Measurement -->
+    <string name="ammeasure_notconnect">Das Gerät ist nicht verbunden</string>
+    <string name="ammeasure_gotoyourphone">Gehen Sie zu Ihren Telefoneinstellungen und schalten Sie Bluetooth ein</string>
+    <string name="ammeasure_sync">SYNC</string>
+    <string name="ammeasure_link">VERKNÜPFEN</string>
+    <string name="setting_title_undevice">Sie haben bisher noch keine iHealth-Geräte eingerichtet!</string>
+    <string name="setting_select_newdevice">Wählen Sie neue Geräte aus</string>
+    <!-- am3 setup guide -->
+    <string name="device_guide_am3_title">Einstellungsanleitung zum AM3</string>
+    <string name="device_guide_am3s_title">Einrichtungsanleitung Edge</string>
+    <string name="device_guide_am4_title">Einrichtungsanleitung Wave</string>
+    <string name="device_guide_am3_2_txt">Gehen Sie bei Ihrem Telefon auf Einstellungen und schalten Sie Bluetooth ein.</string>
+    <string name="device_guide_am3_3_txt">Legen Sie Ihr Messgerät wie oben dargestellt an und drücken Sie auf VERKNÜPFEN. Nehmen Sie dann Ihre erste Aktivitätsmessung vor!</string>
+    <!-- 设备主界面TAB描述 -->
+    <string name="measurement">Messen</string>
+    <string name="list">Liste</string>
+    <string name="trends">Trends</string>
+    <!-- 设备选择相关字段 -->
+    <string name="add_device_dialog_am3_title1">Es funktioniert nicht?</string>
+    <string name="add_device_dialog_am3_txt1_1">Befinden sich in der Nähe andere Smart-Geräte, sollten diese bitte entfernt werden.</string>
+    <string name="add_device_dialog_am3_txt1_2">Stellen Sie sicher, dass sich Ihr Aktivitäts-Tracker in der Nähe befindet.</string>
+    <string name="add_device_dialog_am3_txt1_3">Bitte stellen Sie sicher, dass Ihr AM3 nicht mit einem anderen Benutzer verknüpft ist. Es sollte „Zum Beginnen die App starten“ auf der Anzeige anzeigen. Heben Sie bitte anderenfalls die Verknüpfung mit dem vorherigen Benutzer auf.</string>
+    <string name="add_device_dialog_am3_title2">Versuchen Sie Folgendes</string>
+    <string name="add_device_dialog_am3_txt2_1">Schalten Sie Bluetooth in den Einstellungen Ihres Mobilgeräts aus und wieder an.</string>
+    <string name="add_device_dialog_am3_txt2_2">Bitte halten Sie die "Start"-Taste gedrückt oder klicken Sie auf die "Menü"-Schaltfläche und wischen Sie vollständig nach unten, um alle Apps zu schließen, die im Hintergrund ausgeführt werden, und öffnen Sie MyVitals erneut.</string>
+    <string name="add_device_dialog_am3s_title1">Es funktioniert nicht?</string>
+    <string name="add_device_dialog_am3s_txt1_1">Befinden sich in der Nähe andere Smart-Geräte, sollten diese bitte entfernt werden.</string>
+    <string name="add_device_dialog_am3s_txt1_2">Stellen Sie sicher, dass sich Ihr Aktivitäten-Tracker in der Nähe befindet.</string>
+    <string name="add_device_dialog_am3s_title2">Versuchen Sie Folgendes</string>
+    <string name="add_device_dialog_am3s_txt2_1">Edge-Neustart (verbinden Sie das Ladegerät und halten Sie die Taste acht Sekunden gedrückt).</string>
+    <string name="add_device_dialog_am3s_txt2_2">Schalten Sie Bluetooth in den Einstellungen Ihres Mobilgeräts aus und wieder an.</string>
+    <string name="add_device_dialog_am3s_txt2_3">Bitte halten Sie die "Start"-Taste gedrückt oder klicken Sie auf die "Menü"-Schaltfläche und wischen Sie vollständig nach unten, um alle Apps zu schließen, die im Hintergrund ausgeführt werden, und öffnen Sie MyVitals erneut.</string>
+    <!-- PO Result -->
+    <string name="po_upload">Hochladen vom Pulsoximeter</string>
+    <string name="POResult_title">Pulsoximeter-Ergebnisse</string>
+    <string name="SPO2">SpO2</string>
+    <string name="POResult_unnormal">Anormal</string>
+    <string name="POResult_normal">Normal</string>
+    <string name="PR">Puls</string>
+    <string name="PI">PI</string>
+    <string name="POResult_OxygenRange">Sauerstoffbereich</string>
+    <string name="bpm">BPM</string>
+    <string name="spo2_share_title">Meine Oximeter-Zusammenfassung</string>
+    <string name="spo_introduce" formatted="false">Dieses Gerät hat einen SpO2-Messbereich von 70 - 100 %.
+SpO2-Pegel von weniger als 70 % können auf eine Fehlfunktion des Geräts, Fehlbedienung oder einen anormalen Blutsauerstoffsättigungsgrad hinweisen. Bitte wenden Sie sich mit Fragen zu Ihrem Blutsauerstoffsättigungsgrad an Ihren Arzt.</string>
+
+    <!-- HS Result -->
+    <string name="HSResult_title">Gewichtsergebnis</string>
+    <string name="HSResult_WEIGHT">GEWICHT</string>
+    <string name="HSResult_BMI">BMI</string>
+    <string name="HSResult_HSRange">BMI-Klassifikation</string>
+    <string name="HSResult_HSRange4">Fettleibig</string>
+    <string name="HSResult_HSRange3">Übergewicht</string>
+    <string name="HSResult_HSRange2">Normal</string>
+    <string name="HSResult_HSRange1">Untergewicht</string>
+    <string name="HSResult_bodyfat">Körperfett</string>
+    <string name="HSResult_Leanmass">Magere Muskelmasse</string>
+    <string name="HSResult_bodybone">Knochenmasse</string>
+    <string name="HSResult_bodydci">DCI</string>
+    <string name="HSResult_bodymuscle">Muskelmasse</string>
+    <string name="HSResult_bodywater">Körperwasser</string>
+    <string name="HSResult_VFR">VFR</string>
+    <string name="HSResult_ComeOn">Come on,\n You are beautiful</string>
+    <!-- BP Result -->
+    <string name="bpresults_title">Blutdruckergebnisse</string>
+    <string name="bpresults_SYS">SYS</string>
+    <string name="bpresults_DIA">DIA</string>
+    <string name="bpresults_Pulse">Puls</string>
+    <string name="bpresults_bpunit1">mmHg</string>
+    <string name="bpresults_bpunit2">kPa</string>
+    <string name="bpresults_pulseunit">Schläge/Min</string>
+    <string name="bpresults_WHO">WHO</string>
+    <string name="bpresults_GNC">GNC</string>
+    <string name="bpresults_WHOzong">Systolisch</string>
+    <string name="bpresults_WHOheng">Diastolisch</string>
+    <string name="BPResult_BPRange">BD-Bereich</string>
+    <string name="BPResult_4BPRange4">Normaler Blutdruck</string>
+    <string name="BPResult_4BPRange3">Hoch-normal</string>
+    <string name="BPResult_4BPRange2">Phase1 HBP</string>
+    <string name="BPResult_4BPRange1">Stufe 2 HBP</string>
+    <string name="BPResult_6BPRange6">Optimal</string>
+    <string name="BPResult_6BPRange5">Normaler Blutdruck</string>
+    <string name="BPResult_6BPRange4">Hoch-normal</string>
+    <string name="BPResult_6BPRange3">Milder HBD</string>
+    <string name="BPResult_6BPRange2">Moderater HBD</string>
+    <string name="BPResult_6BPRange1">Schwerer HBD</string>
+    <string name="BPResult_mooddescripe">(Der Blutdruck wird durch Ihre Stimmung beeinflusst.)</string>
+    <string name="BPResult_activitydescripe">(Der Blutdruck wird durch Änderungen des Lebensstils beeinflusst.)</string>
+    <!-- po haveconnect -->
+    <string name="POTest_putfinger">Setzen Sie das Pulsoximeter auf Ihren Finger und drücken Sie die Taste zum Starten der Messung.</string>
+    <string name="POTest_pulloutfinger">Nehmen Sie das Pulsoximeter von Ihrem Finger, um die Messung zu stoppen.</string>
+    <string name="POTest_connect">Gerät ist nicht verbunden</string>
+    <!-- hs menu nodevice -->
+    <string name="hs_nodevice_hs5">Stellen Sie sicher, dass Ihr Telefon und die Waage HS5 in demselben WiFi-Netzwerk sind.</string>
+    <string name="hs_havedevice_hs345">Stellen Sie sich barfuß auf die Waage</string>
+    <string name="hs_havedevice_hs6">Stellen Sie sich barfuß auf die Waage, die Daten werden automatisch in Ihrem Cloud-Konto synchronisiert.</string>
+    <string name="hs_havedevice_hs6_statisticaldata">Daten jetzt synchronisieren</string>
+    <string name="hs_Testing">Testen</string>
+    <!-- HS5 设备引导 - 1 -->
+    <string name="device_guide_hs5_title">Einstellungsanleitung zur HS5</string>
+    <string name="device_guide_hs5_txt1_1">Batterien einlegen.</string>
+    <!-- HS5 设备引导 - 2 -->
+    <string name="device_guide_hs5_txt2_1">Bitte stellen Sie die Verbindung zum WLAN-Netzwerk in den Einstellungen Ihres Mobilgeräts her</string>
+    <!-- HS5 设备引导 - 3 -->
+    <string name="device_guide_hs5_txt3_1">Gehen Sie bei Ihrem Telefon auf Einstellungen und schalten Sie Bluetooth ein.</string>
+    <!-- HS5 设备引导 - 4 -->
+    <string name="device_guide_hs5_txt4_1">HIst Ihre Waage mit dem WLAN-Netzwerk verbunden?</string>
+    <string name="device_guide_hs5_txt4_1_1">Auf der Waage muss zu sehen sein, dass das Wifi-Symbol erst blinkt und dann durchgehend leuchtet, „SET“ sollte verschwinden und durch „0.0“ ersetzt werden.</string>
+    <!-- <string name="device_guide_hs5_txt4_2">Not working?</string> 同device_guide_bp5_4_2_txt -->
+    <string name="device_guide_hs5_txt4_2_1">Achten Sie darauf, dass Ihre Waage bei der Durchführung von Messungen nicht zu weit von Ihrem Router entfernt ist.</string>
+    <string name="device_guide_hs5_txt4_2_2">Stellen Sie sicher, dass Ihre Waage und Ihr Telefon in demselben Wifi-Netzwerk sind.</string>
+    <!-- <string name="device_guide_hs5_txt4_3">You can try the following</string> 同device_guide_bp5_4_3_txt -->
+    <string name="device_guide_hs5_txt4_3_1">Legen Sie die Batterien wieder ein.</string>
+    <string name="device_guide_hs5_txt4_3_2">Starten Sie Ihren Router neu.</string>
+    <string name="device_guide_hs5_txt4_3_3">Wenn das Einstellen des Wifis fehlgeschlagen ist (das Wifi-Symbol auf der Waage ist nicht stabil), setzen Sie die Waage bitte zurück</string>
+    <!-- HS3 设备引导 - 1 -->
+    <string name="device_guide_hs3_title">Einstellungsanleitung zur HS3</string>
+    <!-- <string name="device_guide_hs3_txt1_1">Batterien einlegen</string> 同device_guide_hs5_txt1_1 -->
+    <!-- HS3 设备引导 - 2 -->
+    <!-- <string name="device_guide_hs3_txt2_1">Go to your Phone Settings and turn on Blutooth.</string> device_guide_hs5_txt3_1 -->
+    <!-- HS3 设备引导 - 3 -->
+    <string name="device_guide_hs3_txt3_1">Stellen Sie sicher, dass die Waage „0.0“ anzeigt</string>
+    <string name="device_guide_hs3_txt3_2">Klicken Sie auf das Gerät mit dem Namen HS3 xxxxx zum Koppeln.</string>
+    <!-- HS3 设备引导 - 4 -->
+    <string name="device_guide_hs3_txt4_1">Ist Ihre Waage eingeschaltet</string>
+    <string name="device_guide_hs3_txt4_1_1">Stellen Sie sicher, dass „0.0“ auf der Waage angezeigt wird. Tauschen Sie bitte anderenfalls die Batterien aus.</string>
+    <!-- <string name="device_guide_hs3_txt4_2">Not working?</string> 同device_guide_bp5_4_2_txt -->
+    <string name="device_guide_hs3_txt4_2_1">Befinden sich in der Nähe andere Smart-Geräte, sollten diese bitte entfernt werden.</string>
+    <string name="device_guide_hs3_txt4_2_2">Stellen Sie sicher, dass sich Ihre Waage in der Nähe befindet.</string>
+    <!-- <string name="device_guide_hs3_txt4_3">You can try the following</string> 同device_guide_hs5_txt4_3 -->
+    <!-- <string name="device_guide_hs3_txt4_3_1">Reinsert the battery.</string > 同device_guide_hs5_txt4_3_1 -->
+    <string name="device_guide_hs3_txt4_3_2">Gehen Sie zu Ihren Bluetooth-Einstellungen und löschen Sie HS3XXXXXX aus Ihrer Bluetooth-Liste. Schalten Sie die Bluetooth-Einstellungen aus und koppeln Sie die HS3 erneut.</string>
+    <string name="device_guide_hs3_txt4_3_3">Bitte halten Sie die "Start"-Taste gedrückt oder klicken Sie auf die "Menü"-Schaltfläche und wischen Sie vollständig nach unten, um alle Apps zu schließen, die im Hintergrund ausgeführt werden, und öffnen Sie MyVitals erneut.</string>
+    <!-- HS6 HS5S设备引导 - 1 -->
+    <string name="device_guide_hs6_title">Einrichtungsanleitung iHealth</string>
+    <string name="device_guide_hs5s_title">iHealth Vista Einrichtungsleitfaden</string>
+    <string name="device_guide_hs6_txt1_1">Bitte stellen Sie die Verbindung zum WLAN-Netzwerk in den Einstellungen Ihres Mobilgeräts her</string>
+    <!-- HS6 HS5S设备引导 - 2 -->
+    <string name="device_guide_hs6_2_txt">QR-Code auf der Rückseite der Waage scannen</string>
+    <string name="device_guide_hs6_2_btn">QR-Code scannen</string>
+    <!-- HS6 HS5S设备引导 - 3 -->
+    <string name="device_guide_hs6_3_1_txt">Drücken Sie auf die „Set“-Taste am Batteriehalter.Drehen Sie Ihre Waage um, um zu sehen, ob die Einstellungsmeldung auf der Anzeige erscheint.</string>
+    <string name="device_guide_hs6_3_2_txt">Geben Sie das Kennwort Ihres Netzwerks ein.</string>
+    <string name="device_guide_hs6_3_btn">Wifi einstellen</string>
+    <!-- HS4 设备引导 - 1 -->
+    <string name="device_guide_hs4_title">Einrichtungsanleitung iHealth Lite</string>
+    <string name="device_guide_hs4_txt3_3_2">Schalten Sie Bluetooth in den Einstellungen Ihres Mobilgeräts aus und wieder an</string>
+    <string name="device_guide_hs5_add1">Drücken Sie auf die "Einstellen"-Taste im Batteriefach.</string>
+    <string name="device_guide_hs5_add2">Drehen Sie Ihre Waage um, um zu sehen, ob die Setup-Meldung auf dem Display erscheint.</string>
+    <string name="device_guide_hs5_txt4_4_4">Klicken Sie zum Koppeln auf das Gerät namens HS5 xxxxxx.</string>
+    <!-- 活动和睡眠趋势 -->
+    <string name="trends_sport">Schritte</string>
+    <string name="am_trends_sleep">Schlaf</string>
+    <string name="am_trends_hour">h</string>
+    <string name="am_unit_steps">Schritte</string>
+    <string name="am_unit_step">Schritt</string>
+    <string name="trends_distance">Entfernung</string>
+    <string name="trends_calories">Verbrannte Kalorien</string>
+    <string name="trends_calories_unit">kcal</string>
+    <string name="am_unit_distance_miles">Meilen</string>
+    <string name="am_unit_distance_km">Km</string>
+    <!-- MyVitals -->
+    <string name="my_vitals_title">Meine Vitalwerte</string>
+    <string name="than_last"> Und letztlich </string>
+    <string name="same_as_last_time">Dasselbe wie beim letzten Mal</string>
+    <string name="HS_upload">Hochladen des Gewichts</string>
+    <!-- HS6 -->
+    <string name="Scale_full_hs6">Die Waage hat die max. Anzahl von 10 Konten erreicht.</string>
+    <string name="hs6_reset_wifi">Möchten Sie das WLAN Ihres iHealth Core jetzt rücksetzen?</string>
+    <string name="hs6_reset_wifi_setting">Sie können Wifi wie folgt zurücksetzen: Mein Gerät einrichten -> Core -> Wifi zurücksetzen</string>
+    <string name="BPResult_SYSexplaination">Systolischer Druck: Maximalwert des Blutdrucks infolge des Zusammenziehens der systemischen Herzkammer.\n
+    Diastolischer Druck: Minimalwert des Blutdrucks infolge des Entspannens der systemischen Herzkammer.
+    </string>
+    <string name="BPResult_Waveexplaination">Pulswelle Innerhalb jedes Herzzyklus fluktuiert der zyklische Druck, was durch die Systole und Diastole verursacht wird, die die Arterien erweitern und zurückziehen. Die regelmäßigen Schläge, die durch diese Expansion und Verengung der Arterien verursacht werden, bezeichnet man Puls. Die Ausbreitung der Vorwärtswelle entlang der Blutgefäße wird Pulswelle genannt.</string>
+    <string name="POResult_PIexplaination">PI:\nPI bezeichnet den Perfusionsindex. PI-Werte reflektieren den pulsierenden Blutfluss, welcher die Fähigkeit der Perfusion widerspiegelt. Je größer das Pulsieren des Blutflusses ist, desto größer auch die Welligkeit, was einen höheren PI-Wert ergibt.</string>
+    <!-- 设备引导-BP3-3_v2 -->
+    <string name="device_guide_bp3_3_v2_txt">Ist die Leuchte am BP3 eingeschaltet und leuchtet sie durchgehend?</string>
+    <string name="device_guide_bp3_3_v2_txt1">1. Laden Sie Ihr Blutdruckmessgerät auf</string>
+    <string name="device_guide_bp3_3_v2_txt2">2. Trennen Sie das BP3 und Ihr Mobilgerät und stellen Sie die Verbindung erneut her</string>
+    <string name="AMResult_StatusExplation">der Prozentsatz an Zeit, die Sie liegend und tatsächlich schlafend verbracht haben</string>
+    <string name="hsresult_Goal">Ziel</string>
+    <string name="HSResult_BodyFatExplation">Beim Körperfettprozentsatz handelt es sich um die Menge an Körperfett proportional zu Ihrem Körpergewicht. Einen erhöhten Körperfettgehalt zu reduzieren, verringert das Risiko bestimmter Erkrankungen, wie z. B. hoher Blutdruck, Herzerkrankungen, Diabetes und Krebs.</string>
+    <string name="HSResult_LeanMassExplation">Die magere Körpermasse ist der Anteil der Körperzusammensetzung, die man erhält, wenn man das Körperfett vom gesamten Körpergewicht abzieht. Der Prozentsatz der gesamten mageren Körpermasse wird in der Regel nicht angegeben - er liegt typischerweise bei 60 - 90%. Die magere Körpermasse (LBM) ist als Index aussagekräftiger, als das Gesamtkörpergewicht, um die Menge an Medikamenten zu verschreiben und eine Stoffwechselstörungen zu beurteilen, da das Körperfett für den Stoffwechsel weniger relevant ist.</string>
+    <string name="HSResult_BodyWaterExplation">Beim Körperwasserprozentsatz handelt es sich um die Gesamtflüssigkeitsmenge im Körper einer Person, ausgedrückt als Prozentsatz des Gesamtgewichts. Wasser spielt in den Prozessen des Körpers eine lebenswichtige Rolle und ist in jeder Zelle, in jedem Gewebe und Organ anzutreffen. Die Aufrechterhaltung eines gesunden Gesamt-Körperwasserprozentsatzes gewährleistet das effiziente Funktionieren des Körpers und reduziert das Risiko der Entwicklung damit verbundener gesundheitlicher Probleme.</string>
+    <string name="HSResult_MuscleMassExplation">Diese Funktion zeigt das Gewicht der Muskeln in Ihrem Körper an. Die angezeigte Muskelmasse schließt die Skelettmuskulatur, die weiche Muskulatur (wie z. B. die Muskulatur des Herzens und des Verdauungstrakts) und das in den Muskeln enthaltene Wasser ein. Muskeln spielen eine wichtige Rolle, da Sie beim Energieverbrauch als Motor fungieren. In dem Maße wie sich Ihre Muskelmasse erhöht, steigt auch Ihr Energieverbrauch an, was überschüssige Körperfette reduziert und Gewicht auf gesunde Weise abbaut.</string>
+    <string name="HSResult_DCIExplation">Die tägliche Kalorienaufnahme ist eine geschätzte Kalorienanzahl zur Aufrechterhaltung des Gewichts.</string>
+    <string name="HSResult_BoneMassExplation">Diese Funktion zeigt die Knochenmasse im Körper an (Knochenmineralien, Kalzium und andere Mineralien). Forschungen haben ergeben, dass Sportübungen und der Aufbau von Muskelgewebe mit stärkeren und gesünderen Knochen zusammenhängen.</string>
+    <string name="HSResult_VFRExplation">Beim Viszeralfett handelt es sich um Fettgewebe in der inneren Bauchhöhle, das lebenswichtige Organe im Bauchbereich umgibt. Forschungen zeigen, dass sich auch bei gleich bleibendem Gewicht und Körperfett das Fettgewebe mit zunehmendem Alter verändert und sich mit größerer Wahrscheinlichkeit im Rumpfbereich einlagert, insbesondere nach der Menopause.</string>
+    <string name="BPTrends_minmax">Min-Max</string>
+    <string name="BPTrends_LastTest">Letzter Test</string>
+    <string name="HSTrends_Highest">Höchste</string>
+    <string name="HSTrends_Lowest">Niedrigste</string>
+    <string name="HSTrends_Average">Durchschnitt</string>
+    <string name="AMTrends_Activity">Aktivität</string>
+    <string name="AMTrends_BestDay">Bester Tag</string>
+    <string name="AMTrends_GoalReached">Ziel erreicht</string>
+    <string name="AMTrends_day">Tag</string>
+    <string name="AMTrends_steps">Schritt</string>
+    <string name="AMTrends_mins">Minuten</string>
+    <string name="AMTrends_totalSteps">Gesamtzahl an Schritten</string>
+    <!-- zendesk新加 -->
+    <string name="ContactUs">Kontakt</string>
+    <string name="ContactUs_send">Senden</string>
+    <string name="send_succ">Support-Ticket gesendet! Ein iHealth-Kundenservice-Mitarbeiter wird Ihnen so schnell wie möglich antworten.</string>
+    <string name="send_failed">Senden fehlgeschlagen</string>
+    <string name="yourEmail">Ihre E-Mail:</string>
+    <string name="subject">Betreff:</string>
+    <string name="no_email">Geben Sie bitte Ihre E-Mail-Adresse ein</string>
+    <string name="Description">Beschreibung</string>
+    <string name="AMTrends_h">h</string>
+    <!-- update -->
+    <string name="update_title">Neu Version</string>
+    <string name="update_txt">Möchten Sie die aktuelle Version dieser App herunterladen?</string>
+    <string name="update_must_txt">Um fortzufahren, müssen Sie die aktuelle Version der App herunterladen.</string>
+    <string name="update_button_later">Später</string>
+    <string name="update_button_download">Download</string>
+    <string name="yes">Ja</string>
+    <string name="HSTrends_bmp">BPM</string>
+    <!-- ask bluetooth -->
+    <string name="Application_Bluetooth_permission_request">Schalten Sie Bluetooth ein, um "iHealth" die Verbindungsherstellung zum Zubehör zu erlauben.</string>
+    <string name="Application_GPS_permission_request">\n
+        Bitte schalten Sie die Ortungsdienste (GPS), um erfolgreich ihealth Geräte anschließen. Mach es jetzt an?\n</string>
+    <string name="user_userinfo_yes">Ja</string>
+    <string name="user_userinfo_no">Nein</string>
+    <string name="openBT">Stellen Sie Bluetooth in den Einstellungen Ihres Mobilgeräts auf "An"</string>
+    <string name="opening">Öffnen...</string>
+    <string name="hs5_position">Sie sind Benutzer NR.</string>
+    <!-- AMResult -->
+    <string name="amresult_TotalStep">Gesamtzahl der Schritte</string>
+    <string name="AMResult_hours">Std.</string>
+    <string name="AMResult_hour">Std.</string>
+    <string name="AMResult_min">Min.</string>
+    <string name="AMResult_mins">Min.</string>
+    <string name="hs6_guide_target_weight_title">Zielgewicht</string>
+    <string name="hs6_guide_target_weight_txt1">Bitte geben Sie Ihr tatsächliches Gewicht ein</string>
+    <string name="hs6_guide_target_weight_txt2">Das aktuelle Gewicht wird genutzt, um unterschiedliche Nutzer innerhalb einer 3 Kg-Abweichung zu unterscheiden. Es wird nach jeder Messung aktualisiert.</string>
+    <string name="hs6_guide_reset_wifi_title">Möchten Sie das Wifi Ihrer iHealth Core jetzt zurücksetzen?</string>
+    <string name="hs6_guide_reset_wifi_txt">WLAN  kann wie folgt rückgesetzt werden: Mein Gerät einrichten ->; Core ->; WLAN rücksetzen</string>
+    <string name="hs5s_guide_reset_wifi_title">Möchten Sie das WLAN Ihres iHealth Vista jetzt zurücksetzen?</string>
+    <string name="hs5s_guide_reset_wifi_txt">So können Sie WLAN zurücksetzen: MyDevice einrichten > Vista > WLAN zurücksetzen</string>
+    <string name="list_no_sharedata">Für diese Zeitspanne sind keine freigegebenen Daten vorhanden.</string>
+    <string name="common_blood_pressure">BLUTDRUCK</string>
+    <string name="input_hs_done_hint">Eingabefehler!</string>
+    <!-- PO 设备引导 -->
+    <string name="act_equipment_guide_po3_1">Verbinden Sie den Pulsoximeter per Bluetooth.</string>
+    <string name="act_equipment_guide_po3_2">Koppeln Sie Ihr Pulsoximeter mit Ihrem Gerät</string>
+    <string name="act_equipment_guide_po3_3">Öffnen Sie die App und nehmen Sie die Messung vor</string>
+    <string name="act_equipment_guide_am3_3">App öffnen und bei Aufforderung "Ja" auswählen.</string>
+    <!-- BP 设备引导 -->
+    <string name="act_equipment_guide_bp_1">Batterie aufladen</string>
+    <string name="act_equipment_guide_bp_2">Stellen Sie Bluetooth in den Einstellungen Ihres Mobilgeräts auf "An"</string>
+    <string name="act_equipment_guide_bp_3">Zum Verbinden auf "Koppeln" tippen</string>
+    <string name="bp_guid_bp5_first">Vergewissern Sie sich, dass die Manschette so angebracht ist, dass zwischen die Manschette und den Arm zwei Finger passen.</string>
+    <string name="bp_guid_bp5_second">Positionieren Sie das Messgerät so mittig am Arm, dass es mit Ihrem Mittelfinger eine Linie bildet.</string>
+    <string name="bp_guid_bp5_third">Legen Sie die Manschette gemäß den UNTEN/OBEN-Zeichen an.</string>
+    <string name="bp_guid_bp5_fourth">Richten Sie das Messgerät mittig so zu Ihrem Arm aus, dass es mit Ihrem Mittelfinger eine Linie bildet.</string>
+    <string name="bp_guid_bp5_fifth">Legen Sie die Manschette 2 cm über Ihrem Ellbogen an.</string>
+    <string name="bp_guid_bp7_first">In diesem Messbereich kann sich die Manschette auf Höhe des Herzens befinden.</string>
+    <string name="bp_guid_bp7_second">Legen Sie die Manschette um das Handgelenk und achten Sie auf 1-2 cm Distanz zwischen der Manschette und der Unterseite der Handfläche, wobei das iHealth-Logo nach oben zeigt.</string>
+    <string name="bp_guid_bp7_third">Setzen Sie sich bequem hin, legen Sie Ihren Arm auf dem Aufbewahrungsetui ab und winkeln Sie Ihre Faust an, bis sie im Messbereich liegt. </string>
+    <string name="bp_guid_bp3_first">Vergewissern Sie sich, dass die Manschette so angebracht ist, dass zwischen die Manschette und den Arm zwei Finger passen.</string>
+    <string name="bp_guid_bp3_second">Legen Sie die Manschette 2 cm über Ihrem Ellbogen an.</string>
+    <string name="bp_guid_bp3_third">Positionieren Sie Ihren Arm so, dass sich die Manschette auf Höhe Ihres Herzens befindet.</string>
+    <string name="bp_guid_bp3_fourth">Positionieren Sie das Messgerät so mittig am Arm, dass es mit Ihrem Mittelfinger eine Linie bildet.</string>
+    <string name="user_userinfo_upload_toast_222">Upload fehlgeschlagen</string>
+    <string name="share_title">App-Auswahl für die Freigabe</string>
+    <string name="app_name">iHealth</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="app_version">V2.4.0 </string>
+    <string name="guest">Gast</string>
+    <string name="Data">Daten</string>
+    <!-- <string name="facebook_app_id">294007404096176</string> -->
+    <string name="facebook_app_id">527669054035079</string>
+    <!-- 修改 -->
+    <string name="act_guide_edittext_text3">Unterstützt eine Vielzahl von iHealth-Geräten, sodass Sie Ihre Vitalwerte überall und jederzeit überwachen können.</string>
+    <!-- 新加 -->
+    <string name="act_guide_start">Starten Sie Ihren gesunden Weg </string>
+    <string name="ok">OK</string>
+    <string name="Cancel">Abbrechen</string>
+    <!-- 主架构相关 -->
+    <string name="bp">Blutdruck</string>
+    <string name="bp_measure_title">Blutdruck</string>
+    <string name="bp_list_title">Blutdruckergebnisse</string>
+    <string name="bp_trends_title">Blutdrucktrends</string>
+
+    <string name="am3">Aktivität und Schlaf</string>
+    <string name="am_measure_title">Aktivität und Schlaf</string>
+    <string name="am_list_title">Aktivitäts und Schlaf-Messergebnisse</string>
+    <string name="am_trends_title">Aktivitäts- und Schlaftrends</string>
+
+    <string name="po">Pulsoximeter</string>
+    <string name="po_measure_title">Pulsoximeter</string>
+    <string name="po_list_title">Pulsoximeter-Ergebnisse</string>
+    <string name="po_trends_title">Pulsoximetertrends</string>
+
+    <string name="hs">Gewicht</string>
+    <string name="hs_measure_title">Gewicht</string>
+    <string name="hs_list_title">Gewichtsergebnis</string>
+    <string name="hs_trends_title">Gewichtstrends</string>
+
+    <string name="setting">Einstellung</string>
+    <string name="shop">Einkauf</string>
+    <string name="menu_sys_notice">Systemhinweis</string>
+    <string name="menu_ask">Möchten Sie die App beenden?</string>
+    <string name="init_cover">Hier können Ihre Geräte verwalten und Einrichten von neuen Geräten.</string>
+    <string name="act_faq_title">Support</string>
+    <string name="please_input_random">Geben Sie bitte die letzten zwei Ziffern ein</string>
+    <string name="share_error_1">Kann Aktienkomponente nicht finden, zu teilen</string>
+    <string name="linked_devices">Suche</string>
+    <string name="potest_text">Ziehen Sie den Finger aus dem Gerät, um die Messung zu beenden.</string>
+    <string name="checkBLE_proDia_no_support_phone"> Ihr Android-Gerät ist mit dem Bluetooth-Energiesparmodul dieses Produkts nicht kompatibel.</string>
+    <string name="checkBLE_proDia_no_support_sdk">Ihre Version des Android-Betriebssystems ist mit diesem Produkt nicht kompatibel. Bitte führen Sie ein Upgrade auf Android 4.3 oder höher durch.</string>
+    <string name="checkBLE_proDia_no_support_sdk_samsung">Ihre Version des Android-Betriebssystems ist mit diesem Produkt nicht kompatibel. Bitte führen Sie ein Upgrade auf Android 4.4 oder höher durch.</string>
+    <string name="user_register3_signin_toast_201">iHealth-ID existiert bereits</string>
+    <string name="menucover">Hier können Sie Ihre Messgeräte verwalten und neue Geräte einrichten.</string>
+    <string name="device_guide_hs4s_added">wenn HS4S, um Tap "Pair" zu verbinden</string>
+    <string name="week_repeat_weekend">Wochenenden</string>
+
+    <!-- 最近没有数据 -->
+    <string name="week_nodate">Keine Daten für die letzten 7 Tage verfügbar</string>
+    <string name="month_nodate">Keine Daten für die letzten 30 Tage verfügbar</string>
+    <string name="year_nodate">Keine Daten für die letzten 365 Tage verfügbar</string>
+    <string name="today_nodate">Keine Daten für heute verfügbar</string>
+
+    <!-- 设备引导-BP3-1 -->
+    <string name="device_guide_bp3L_1_title">Einstellungsanleitung zum Ease</string>
+    <string name="device_guide_bp3L_1_txt">Verbindung wird hergestellt</string>
+    <string name="device_guide_bp3L_1_TryAgain">Erneut versuchen.</string>
+    <string name="device_guide_bp3L_1_skip">Abbrechen</string>
+    <string name="device_guide_bp3L_4_txt">Funktioniert nicht? Versuchen Sie folgendes.</string>
+    <string name="device_guide_bp3L_4_txt2">Bitte stellen Sie sicher, dass Ihr iHealth Ease in der Nähe ist.</string>
+    <string name="device_guide_bp3L_4_txt3">Schalten Sie Bluetooth in den Einstellungen Ihres Smartphones kurz aus und dann wieder ein.</string>
+    <string name="device_guide_bp3L_4_txt4">Klicken Sie bitte doppelt auf Ihre Home-Taste und wischen Sie nach oben, um alle Apps, die derzeit im Hintergrund laufen, zu schließen, und öffnen Sie MyVitals erneut.</string>
+    <string name="bp_menu_noBP3L">Ease wurde getrennt</string>
+    <string name="bp_nodevice_noteConnect">Nicht verbunden. Bitte Einstellungen für Ihr Gerät überprüfen.</string>
+    <string name="resetAmdialog">Sind Sie sicher, dass Sie die Werkseinstellungen wiederherstellen möchten?</string>
+
+    <!-- 设备引导-BP7s-1 -->
+
+    <string name="device_guide_bp7s_2_txt2">Click on the device titled View xxxxxx to pair</string>
+    <string name="device_guide_bp7s_2_txt">Press START/STOP button for 2 seconds to turn on the Bluetooth when the blood pressure monitor is power off</string>
+
+    <string name="device_guide_bp7s_1_title">Einrichtungsanleitung View</string>
+    <string name="device_guide_bp7s_3_txt">Drücken Sie die „START/STOP“ Taste während 2 Sekunden, um Bluetooth einzuschalten, wenn der Blutdruckmonitor ausgeschaltet ist.</string>
+    <string name="device_guide_bp7s_2_tv">Gehen Sie auf Einstellungen des Telefons →Bluetooth und klicken Sie auf das Gerät mit der Bezeichnung Ansicht xxxxx zum Verbinden.</string>
+    <string name="device_guide_bp7s_4_txt1">Entfernen Sie andere Geräte, die die Verbindung stören könnten.</string>
+    <string name="device_guide_bp7s_4_txt2"> Vergewissern Sie sich, dass Ihr iHealth View in der Nähe Ihres Smartphones oder Tablet-PCs liegt.</string>
+    <string name="device_guide_bp7s_4_txt3">Deaktivieren Sie Bluetooth auf Ihrem Mobilgerät und aktivieren Sie es wieder.</string>
+    <string name="device_guide_bp7s_4_txt4">Mit einem Doppelklick auf die Home-Taste und einer Wischbewegung nach oben werden alle aktiven Apps im Hintergrund geschlossen.
+ Anschließend öffnen Sie bitte erneut die My Vitals App</string>
+    <string name="device_guide_bp7s_4_txt5">Drücken Sie auf dem Blutdruckmessgerät die START/STOP-Taste bis die LED Anzeige aufleuchtet.
+ Wenn keine Anzeige erscheint, laden Sie bitte das Gerät vollständig auf.</string>
+    <!-- bp7s guid5 -->
+    <string name="device_guide_bp7s_5_title">Messungs-Anweisungen</string>
+    <string name="device_guide_bp7s_5_title1">Keine Daten vorhanden. Bitte führen Sie zunächst eine Blutdruckmessung durch.</string>
+    <string name="device_guide_bp7s_5_title2">Handgelenk-Position ok</string>
+    <string name="device_guide_bp7s_5_tv1">Drücken Sie die "START/STOP"-Taste bei abgeschaltetem Gerät, um Bluetooth zu aktivieren.</string>
+    <string name="device_guide_bp7s_5_tv2">Schalten Sie den Monitor ein und justieren Sie diesen an Ihrem Handgelenk. Drücken Sie erneut auf die "START/STOP"-Taste, um eine Messung durchzuführen.</string>
+    <string name="device_guide_bp7s_5_cancle">Abbrechen</string>
+    <!-- bp7s 同步 -->
+    <string name="bp7s_sync">SYNC</string>
+    <string name="bp_nodevice_toPair">Klicken Sie auf das Gerät mit dem Namen BP xxxxxx zum Koppeln</string>
+    <string name="bp_nodevice_Connect">Verbinden Sie Ihr android-Gerät mit dem Blutdruck-Dock und starten Sie MyVitals.</string>
+    <string name="bp_nodevice_toPairBP3L">Aus dem Kontrollzentrum öffnen Sie Bluetooth und verbinden Sie es mit dem Monitor.</string>
+    <string name="bp_menu_bpFilter">Filterdaten</string>
+    <string name="bp7s_syncing">SYNCHRONISIEREN</string>
+    <string name="bp_menu_noBP7S">View wurde getrennt</string>
+    <string name="bp7s_syncing_failed">Synchronisierung fehlgeschlagen, bitte erneut versuchen.</string>
+    <string name="device_bp7s_noofflinedata">Keine Daten vorhanden</string>
+    <!-- bp7s 指导 -->
+    <string name="bp_guid_bp7s_second">Legen Sie die Manschette um Ihr Handgelenk, Bildschirm nach oben und iHealth Logo aufrecht. Lassen Sie zwei Finger breit Abstand zwischen der Manschette und dem unteren Rand Ihrer Handfläche.</string>
+    <string name="bp_guid_bp7s_third">Schalten Sie den Monitor ein indem Sie das Armband um Ihr Handgelenk legen oder die "START/STOP"-Taste drücken. Eine Messung ist nur möglich, wenn das Armband korrekt angelegt ist. Ist die richtige Position erreicht, drücken Sie erneut die "START/STOP"-Taste um die Messung zu starten.</string>
+
+    <!--hs5 删除用户  -->
+
+    <string name="hs5_delete_user">Nutzer Nummer</string>
+    <string name="hs5_delete_user_me">-me</string>
+    <string name="hs5_delete_user_confirm">Soll %1$s wirklich gelöscht werden?</string>
+    <string name="hs5_delete_users">Nutzer löschen</string>
+    <string name="hs5_delete_users_failed">Löschen fehlgeschlagen</string>
+    <string name="hs5_delete_users_success">Erfolgreich gelöscht</string>
+    <!-- 550BT 引导-->
+    <string name="device_guide_550bt_1_title">Einrichtungsanleitung Track</string>
+    <string name="device_guide_550bt_1_txt">Bitte drücken Sie die Taste [upto] auf dem Blutdruckmonitor, um Bluetooth einzuschalten. </string>
+    <string name="device_guide_550bt_2_txt2">Stellen Sie sicher, dass das iHealth Track in der Nähe liegt.</string>
+    <string name="device_guide_550bt_2_txt4">Mit einem Doppelklick auf die Home-Taste und einer Wischbewegung nach oben werden alle aktiven Apps im Hintergrund geschlossen.
+ Anschließend öffnen Sie bitte erneut die My Vitals App</string>
+    <string name="device_guide_550bt_2_txt5">Stellen Sie sicher, dass Bluetooth aktiviert ist. Drücken Sie die Taste auf dem Blutdruckmessgerät, um Bluetooth zu aktivieren.</string>
+    <string name="bp_guid_550bt_fourth">Drücken Sie die "START/STOP"-Taste auf dem Blutdruckmessgerät, um die Messung zu starten.</string>
+    <string name="bp_menu_no550bt">Track wurde getrennt</string>
+    <!-- 新加欢迎页 -->
+    <string name="act_guide_edittext_550bt">Vollständig automatische Messung offline und einfache Verwaltung der Cloud-Daten.</string>
+    <!-- google -->
+    <string name="bp_guid_550bt_third">Vollautomatische Messung offline und einfach zu verwaltene Cloud-Daten.</string>
+    <!-- 绑定账号 三方整合 -->
+    <string name="bindsuccess_input_password">In Ihren account wurde ein iHealth-Account eingebunden; bitte geben Sie Ihr Passwort ein.</string>
+    <string name="bind_choose_title">Account wird eingebunden</string>
+    <string name="userchoose"> Sie sollten einen iHealth-Account einbinden.</string>
+    <string name="use_exiting_account">Einen bestehenden Account verwenden</string>
+    <string name="register_bind_new_count">Einen neuen Account erstellen und einbinden</string>
+    <string name="choosewarn">Bitte nehmen Sie die folgenden Informationen zur Kenntnis, ehe Sie fortfahren:\n        Wenn Sie sich entscheiden, einen iHealth-Account in Ihren gegenwärtigen Account einzubinden, werden die Verlaufsdaten in den iHealth-Account überführt, was normalerweise etwas Zeit in Anspruch nimmt (der Vorgang der Datenzusammenführung findet in der Cloud statt; wenn dies abgeschlossen ist, werden diese Verlaufsdaten in Ihre Anwendung transferiert).  </string>
+    <string name="Register_Bind">Anmelden und einbinden</string>
+    <string name="Bind">Einbinden</string>
+    <string name="continue_smart"> Weiter</string>
+    <string name="best_account">Bitte wählen Sie einen geeignetsten Account</string>
+    <string name="same_server_faild">konto ist in Ihrem Land nicht verfügbar</string>
+    <string name="rebind">Ihr Konto bereits gebunden ist, melden Sie sich bitte erneut.</string>
+    <string name="check_usernameandpassword_fail">Binden fehlgeschlagen</string>
+    <string name="account_exists">iHealth-ID existiert bereits</string>
+    <string name="bind_country_load">Hochladen</string>
+    <string name="confirm_country">Bitte bestätigen Sie Ihren Standort für bessere Leistung von iHeath.</string>
+    <string name="add_user">Konto hinzufügen</string>
+    <string name="link_iHealth_account">Um die Sicherheit Ihres Kontos zu gewährleisten, verknüpfen Sie es bitte mit einem iHealth-Konto.        </string>
+    <string name="notice">Hinweis</string>
+    <string name="bind_title">Verknüpfung Ihres iHealth-Kontos</string>
+    <string name="bind_tip"> Die Verknüpfung mit einem iHealth-Konto stellt sicher, dass Ihre Daten sicher sind.</string>
+    <string name="creat_new_account">Neues Konto erstellen und verknüpfen</string>
+    <string name="comfirm_info_title">Geben Sie Ihre Daten ein</string>
+    <string name="comfirm_info_tip"> Bei fehlerhaften Angaben kann es künftig zu Problemen mit dem Konto kommen</string>
+    <string name="comfirm_info_marning">Füllen Sie bitte alle Felder aus</string>
+    <string name="comfirm_info_caution">  Bestätigen Sie bitte die Richtigkeit Ihrer Angaben </string>
+    <string name="choose_your_country">Aufgabe wählen</string>
+    <string name="third_complete">  Bei der Verknüpfung von Konten müssen ggf. einige Daten zusammengeführt werden. Dies kann bis z u 24 Std. dauern</string>
+    <string name="third_complete2">Wenn Ihr Daten nach 24 Std. nicht angezeigt werden, wenden Sie sich bitte an den iHealth-Kundendienst   </string>
+    <string name="got_it">Erledigt</string>
+    <string name="success">Erfolg!</string>
+
+    <!-- shealth -->
+    <string name="tv_shealth_tip">  Möchten Sie die Daten dieses iHealth MyVitals-Konto für die SHealth-App freigeben? Falls ja, teilt nur dieses Konto Daten mit SHealth</string>
+    <string name="tv_shealth_tip_title">Sie fügen Ihrer SHealth einen neuen Benutzer hinzu.
+        </string>
+    <string name="share_list_title_years">Jahre</string>
+    <string name="share_list_title_mybloodpressure">Mein Blutdruck</string>
+    <string name="share_list_title_myweight">Mein Gewicht/Körperfett</string>
+    <string name="share_list_title_myactivity">Meine Übungen</string>
+    <string name="share_list_title_myspo2">Mein SpO2</string>
+    <string name="wifi_pwd_limit">WLAN-Passwörter dürfen 32 Zeichen nicht überschreiten.</string>
+    <string name="wifi_pwd_limit_comma">WLAN-Passwörter dürfen keine Kommata (,) enthalten.</string>
+    <string name="device_disconnected">Ihr Gerät wurde getrennt</string>
+
+    <!-- AM4及AM新需求相关 -->
+    <string name="please_input_random_added">Bitte geben Sie die letzten beiden Nummern der auf dem Tracker angezeigten Zahl ein.</string>
+    <string name="please_check_mac">Bitte prüfen Sie die MAC-Adresse auf der Rückseite des Trackers, um das richtige Gerät zu identifizieren.</string>
+    <string name="bind_am3s_well_done">Jetzt kann\'s losgehen</string>
+    <string name="bind_am3s_success">Erfolgreich verbunden</string>
+    <string name="bind_am3s_bottom_txt">Der Tracker kann nun verwendet werden.</string>
+    <string name="am_nodevice_openblutooth">Bitte Bluetooth aktivieren</string>
+    <string name="am_nodevice_swipedown_openblutooth">Mit einer Wischbewegung vom oberen Display nach unten öffnen Sie das Einstellungsmenü. Schalten Sie nun Ihr Bluetooth ein.</string>
+    <string name="am_nodevice_OR">ODER</string>
+    <string name="am_nodevice_gosetting_openblutooth">Gehen Sie in die Telefoneinstellungen und aktivieren Sie Bluetooth.</string>
+    <string name="am_have_device">Es ist bereits ein Tracker mit Ihrem Konto verknüpft. Wenn Sie einen neuen Tracker hinzufügen möchten, resetten Sie zunächst den alten Tracker und fügen Sie dann den neuen hinzu. </string>
+    <string name="wave_guide_what_is">Was ist iHealth Wave?</string>
+    <string name="wave_guide_activity">Aktivität</string>
+    <string name="wave_guide_stay_motivated">Bleib motiviert</string>
+    <string name="wave_guide_stay_motivated_walking">Walken</string>
+    <string name="wave_guide_stay_motivated_running">Laufen</string>
+    <string name="wave_guide_stay_motivated_swimming">Schwimmen</string>
+    <string name="wave_guide_keep_swimming">Weiter schwimmen</string>
+    <string name="wave_guide_keep_swimming_freestyle">Freistil</string>
+    <string name="wave_guide_keep_swimming_backstroke">Rückenschwimmen</string>
+    <string name="wave_guide_keep_swimming_breaststroke">Brustschwimmen</string>
+    <string name="wave_guide_sleep">Schlaf</string>
+    <string name="wave_guide_sleep_your_efficient">Wie effizient ist Ihr Schlaf?</string>
+    <string name="wave_guide_sleep_alarm">Alarm</string>
+    <string name="wave_guide_sleep_analysis">Analyse</string>
+    <string name="wave_guide_swim_mode">Schwimmmodus</string>
+    <string name="wave_guide_swim_mode_when_swimming">Während des Schwimmens</string>
+    <string name="wave_guide_swim_mode_when_swimming_time">Zeit</string>
+    <string name="wave_guide_swim_mode_when_swimming_styles">Stile</string>
+    <string name="wave_guide_swim_mode_when_swimming_percentage">Prozentsatz</string>
+    <string name="wave_guide_swim_mode_when_swimming_duration">Dauer</string>
+    <string name="wave_guide_swim_mode_finish_swimming">Nach dem Schwimmen </string>
+    <string name="wave_guide_swim_mode_finish_swimming_calories">Kalorien</string>
+    <string name="wave_guide_swim_mode_finish_swimming_strokes">Anzahl Züge</string>
+    <string name="wave_guide_swim_mode_finish_swimming_strokes_per">Armschläge pro Minute</string>
+    <string name="wave_guide_swim_mode_attention">Achtung</string>
+    <string name="wave_guide_swim_mode_attention_content">Der Schwimm-Modus ist standardmässig aktiviert. Sollten Sie diesen nicht nutzen, deaktivieren Sie diesen bitte.</string>
+    <string name="wave_guide_swim_mode_set_mode">Schwimm-Modus einstellen
+Schwimm-Modus</string>
+    <string name="wave_settings_pool_length">Poollänge</string>
+    <string name="wave_settings_open_water">Freies Gewässer</string>
+    <string name="wave_settings_other">Andere …</string>
+    <string name="wave_settings_set_pool_length">Beckenlänge einstellen</string>
+    <string name="wave_settings_cover_txt1">Der Schwimmmodus ist standardmäßig aktiviert. Wenn er eingeschaltet ist, wird Akkuleistung verbraucht. Es wird empfohlen, den Schwimmmodus abzuschalten, wenn Sie ihn nicht nutzen möchten.</string>
+    <string name="wave_settings_cover_txt2">Wenn die Poollänge eingegeben wird, verbessert sich die Genauigkeit der Kontrolle Ihrer Schwimmdistanz.</string>
+
+    <!-- am4结果卡 -->
+    <string name="AM4Result_Workout">Training</string>
+    <string name="AM4Result_Swim">Schwimmen</string>
+    <string name="AM4Result_TotalSleep">Gesamter Schlaf</string>
+    <string name="AM4Result_Light">Leicht</string>
+    <string name="AM4Result_Deep">Tief</string>
+    <string name="AM4Result_Awake">Wach</string>
+    <string name="AM4Result_Steps">Schritte</string>
+
+    <string name="AM4Result_BackStroke">Rückenschwimmen</string>
+    <string name="AM4Result_Freestyle">Freistil</string>
+    <string name="AM4Result_BreastStroke">Brustschwimmen</string>
+    <string name="AM4Result_Other">Sonstiges</string>
+
+    <string name="AM4Result_Str">Str</string>
+    <string name="AM4Result_Spm">Spm</string>
+    <string name="AM4Result_Laps_Star">*</string>
+    <string name="AM4Result_LapsExplanation">*Genießen Sie frühen Zugriff auf die Rundenfunktion, da wir in der Beta-Testphase arbeiten.</string>
+    <string name="AM4Result_cover_laps">Anzahl der geschwommenen Runden.</string>
+    <string name="AM4Result_cover_kcal">Beim Schwimmen verbrannte Kalorien.</string>
+    <string name="AM4Result_cover_total_stroke">Ihr gesamten Züge</string>
+    <string name="AM4Result_cover_stroke_per_minute">Züge pro Minute</string>
+    <string name="AM4Result_cover_swim_styles">Prozentualer Anteil der Dauer für die verschiedenen Schwimmstile</string>
+
+    <string name="contact_us">Kontaktieren sie uns</string>
+    <string name="send">senden</string>
+
+    <string name="yourEmailEU"> E-mail *:</string>
+    <string name="subjectEU">Betreff *:</string>
+    <string name="slect_product">Wählen Sie Ihr Produkt aus *:</string>
+    <string name="serialNumber"> Seriennummer:</string>
+    <string name="serialNumberExtra">Die Seriennummer befindet sich auf der Seite oder Rückseite Ihres Geräts (SN)</string>
+    <string name="request">Bitte wählen Sie den Grund Ihrer Anfrage aus *:</string>
+    <string name="description"> Beschreibung *:</string>
+    <string name="descriptionExtra">Bitte beschreiben Sie Ihre Anfrage so genau wie möglich, so dass wir Ihnen eine entsprechende Antwort in der bestmöglichen Zeit liefern können.</string>
+    <string name="explain"> (*) Pflichtfelder</string>
+    <string name="network_error">Netzwerkfehler</string>
+    <string name="success_message">Vielen Dank ! Ihre Anfrage wurde erfolgreich an unser Support Team gesendet.</string>
+    <string name="fail_message">Senden fehlgeschlagen. Bitte versuchen Sie es erneut.</string>
+    <string name="notice_message"> Bitte machen Sie alle notwendigen Angaben vor dem Absenden Ihrer Anfrage.</string>
+    <string name="doneEU">Erledigt</string>
+    <string name="wave_guide_swim_mode_Displays_swim_styles">Anzeige des Schwimmstils</string>
+    <string name="am_wave_guide_swim_goal">Schwimmziel</string>
+    <string name="am_wave_guide_swim_total_duration">Gesamtdauer</string>
+    <string name="am_wave_guide_set_swim_goals_blabla">Schwimmziele zur Selbstmotivation einstellen</string>
+    <string name="am_wave_guide_turn_on_the_blabla">Schwimmmodus aktivieren und Schwimmziel einstellen</string>
+    <string name="am_wave_guide_when_you_swim_blabla">Während des Schwimmens wird das Schwimmziel nach den Schwimmstilen angezeigt</string>
+    <string name="am_wave_guide_rotate_wrist_blabla">Handgelenk zur Anzeige des Schwimmziels drehen</string>
+    <string name="am_wave_setting_swim_goal_content">Schwimmziel ist die geschwommene Ist-Zeit, nicht die im Wasser verbrachte Zeit.</string>
+    <string name="am_wave_setting_swim_goal_title">Schwimmziel</string>
+    <string name="AM4Result_Total_calories">Gesamtkalorien</string>
+    <string name="AM4Result_Current_BMR">Aktuelle BMR</string>
+    <string name="AM4Result_Active_calories">Aktive Kalorien</string>
+    <string name="AM4Result_cover_alarm">Der Schlafalarm weckt Sie mit Vibrationen vom Tracker</string>
+    <string name="wave_guide_swim_mode_charge_the_wave">Wave vor Erstgebrauch vollständig laden, um die Lebensdauer der Batterie zu verlängern</string>
+    <string name="AM4Result_cover_search">Es ist bereits ein Tracker mit Ihrem Konto verbunden; zum Hinzufügen eines neuen Trackers muss der alte zunächst zurückgesetzt werden</string>
+    <string name="am_swim_goal">Schwimmziel</string>
+    <string name="wave_settings_cover_txt_new">Der Schwimmmodus is standardmäßig aktiviert und erhöht den Batterieverbrauch. Bitte ausschalten, falls kein Schwimmen geplant ist.</string>
+    <string name="am_list_step">Schritte</string>
+    <string name="distance_mile_unit"> Meile</string>
+    <string name="am_wave_guide_swim_duration">Dauer</string>
+    <string name="common_repeat_every_friday">Jeden Freitag</string>
+    <string name="common_repeat_every_monday">Jeden Montag</string>
+    <string name="common_repeat_every_saturday">Jeden Samstag</string>
+    <string name="common_repeat_every_sunday">Jeden Sonntag</string>
+    <string name="common_repeat_every_thursday">Jeden Donnerstag</string>
+    <string name="common_repeat_every_tuesday">Jeden Dienstag</string>
+    <string name="common_repeat_every_wednesday">Jeden Mittwoch</string>
+    <string name="common_am_lower">am</string>
+    <string name="common_save">Speichern</string>
+    <string name="common_sport">Sport</string>
+    <string name="common_am_upper">AM</string>
+    <string name="common_pm_upper">PM</string>
+    <string name="common_pm_lower">pm</string>
+    <string name="reminder_top_bar_title">Erinnerung</string>
+    <string name="reminder_take_pill">Erinnerung</string>
+    <string name="reminder_choose_your_task">Aufgabe wählen</string>
+    <string name="reminder_alarm_Tone">Alarmton</string>
+    <string name="reminder_add_new_task">Neue Aufgabe hinzufügen</string>
+    <string name="reminder_add">Erinnerung hinzufügen</string>
+    <string name="reminder_notify_blood">Meinen Blutdruck erfassen.</string>
+    <string name="reminder_notify_blood_weight">Blutdruck und mein Gewicht erfassen.</string>
+    <string name="reminder_notify_pill">Tablette nehmen.</string>
+    <string name="reminder_notify_pill_blood">Tablette nehmen und meinen Blutdruck erfassen.</string>
+    <string name="reminder_notify_pill_blood_weight">Tablette nehmen und meinen Blutdruck und mein Gewicht erfassen.</string>
+    <string name="reminder_notify_pill_sport">Tablette nehmen und Sport.</string>
+    <string name="reminder_notify_pill_sport_blood">Tablette nehmen, Sport und meinen Blutdruck erfassen.</string>
+    <string name="reminder_notify_pill_sport_blood_weight">Tablette nehmen, Sport und meinen Blutdruck und mein Gewicht erfassen.</string>
+    <string name="reminder_notify_pill_sport_weight">Tablette nehmen, Sport und mein Gewicht erfassen.</string>
+    <string name="reminder_notify_pill_weight">Tablette nehmen und mein Gewicht erfassen.</string>
+    <string name="reminder_notify_sport">Sport.</string>
+    <string name="reminder_notify_sport_blood">Sport und Blutdruck erfassen.</string>
+    <string name="reminder_notify_sport_blood_weight">Sport und meinen Blutdruck und mein Gewicht erfassen.</string>
+    <string name="reminder_notify_sport_weight">Sport und mein Gewicht erfassen.</string>
+    <string name="reminder_notify_weight">Blutdruck und mein Gewicht erfassen.</string>
+    <string name="AM4Result_Lap">lap</string>
+    <string name="AM4Result_Laps">laps</string>
+    <string name="AM4Result_H">h</string>
+    <string name="AM4Result_Mins">min</string>
+    <string name="AM4Result_s">s</string>
+    <string name="am_setting_sleepalarm_cannot_same">Sie können nicht die gleiche Erinnerungszeit einstellen, bitte nutzen Sie eine andere Zeitangabe.</string>
+    <string name="setting_walking_challenge">Geh-Wettstreit</string>
+    <string name="setting_waliking_challenge_text1">Auf der Ergebnis-Seite wird ein neues Banner für den Geh-Wettstreit angezeigt.</string>
+    <string name="setting_waliking_challenge_text2">Sie können Ihr Spiel in Echtzeit mitverfolgen.</string>
+    <string name="am_setting_am3_planemode">Flugzeugmodus</string>
+    <string name="am_setting_am3_drivemode">Fahrmodus</string>
+
+    <string name="rationale_ask_again">Diese App funktioniert ohne die angeforderten Berechtigungen eventuell nicht richtig. Öffnen Sie den App-Einstellungsbildschirm, um die App-Berechtigungen zu ändern.</string>
+    <string name="title_settings_dialog">Berechtigungen erforderlich.</string>
+</resources>
