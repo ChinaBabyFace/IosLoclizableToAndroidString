@@ -33,7 +33,7 @@ public class IosStringFileParser {
      * @param instream
      * @return
      */
-    public ArrayMap<String, HashSet<String>> parseIosStringFileToReverseMap(InputStream instream) {
+    public ArrayMap<String, HashSet<String>> getIosVkSetMap(InputStream instream) {
         long time = System.currentTimeMillis();
         ArrayMap<String, HashSet<String>> stringMap = new ArrayMap<>();
         try {
@@ -75,7 +75,7 @@ public class IosStringFileParser {
         return stringMap;
     }
 
-    public ArrayMap<String, String> parseIosStringFileToNormalMap(InputStream instream) {
+    public ArrayMap<String, String> getIosKvMap(InputStream instream) {
         long time = System.currentTimeMillis();
         ArrayMap<String, String> stringMap = new ArrayMap<>();
         try {

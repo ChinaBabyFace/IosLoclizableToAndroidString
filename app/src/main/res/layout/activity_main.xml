@@ -24,17 +24,40 @@
         android:orientation="vertical">
 
         <Button
-            android:id="@+id/start_convert_button"
+            android:id="@+id/and_new_item"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="用ios多语言文件导出生成Android的多语言文件"
-            />
+            android:text="强制增加或更新指定数量条目"/>
+
+        <Button
+            android:id="@+id/all_insert"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="对所有条目执行，有则不动，无则增加"/>
+
+        <Button
+            android:id="@+id/all_update_and_insert"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="对所有条目执行有则同步，无则增加"/>
 
         <Button
             android:id="@+id/check_ios_file_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="检查IOS文件是否有换行符"/>
+            android:text="检查IOS文件合法性"/>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/logcat"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=""/>
+
+        </ScrollView>
     </LinearLayout>
 
 </RelativeLayout>

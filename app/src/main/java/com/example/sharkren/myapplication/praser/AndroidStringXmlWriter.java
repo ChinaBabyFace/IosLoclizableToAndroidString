@@ -3,6 +3,8 @@ package com.example.sharkren.myapplication.praser;
 import android.text.TextUtils;
 import android.util.Log;
 
+import com.example.sharkren.myapplication.model.StringItem;
+
 import java.io.File;
 import java.io.FileWriter;
 
@@ -21,10 +23,15 @@ public class AndroidStringXmlWriter {
         fileContent = new StringBuilder();
     }
 
-    public void appendStringItem(String stringName, String content) {
-        String item = "<string name=\"" + stringName + "\">" + content + "</string>\n";
+    public void appendStringItem(StringItem item) {
+        String formatted = "";
+        if (!item.isFormatted()) {
+            formatted = " formatted=\"false\"";
+        }
+        String itemString = "<string name=\"" + item.getName() + "\" " + formatted + ">" + item.getContent() +
+                "</string>\n";
         //        Log.e(TAG, getCountryCode()+"_XML:" + item);
-        fileContent.append(item);
+        fileContent.append(itemString);
         setTotal(getTotal() + 1);
     }
 
@@ -82,10 +89,6 @@ public class AndroidStringXmlWriter {
 
     public String getFileSavePath() {
         return fileSavePath;
-    }
-
-    public void setFileSavePath(String fileSavePath) {
-        this.fileSavePath = fileSavePath;
     }
 
     public int getTotal() {

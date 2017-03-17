@@ -1,6 +1,7 @@
 package com.example.sharkren.myapplication.praser;
 
 import android.support.v4.util.ArrayMap;
+import android.text.TextUtils;
 import android.util.Log;
 import android.util.Xml;
 
@@ -58,9 +59,10 @@ public class AndroidStringXmlParser {
         return stringList;
     }
 
-    public ArrayMap<String, String> readXmlToMap(InputStream inputstream) throws XmlPullParserException, IOException {
+    public ArrayMap<String, StringItem> getAndroidKvMap(InputStream inputstream) throws XmlPullParserException,
+            IOException {
         long time = System.currentTimeMillis();
-        ArrayMap<String, String> stringMap = new ArrayMap<>();
+        ArrayMap<String, StringItem> stringMap = new ArrayMap<>();
         XmlPullParser parser = Xml.newPullParser();
         parser.setInput(inputstream, "UTF-8");
         int eventCode = parser.getEventType();
@@ -72,8 +74,14 @@ public class AndroidStringXmlParser {
                     break;
                 case XmlPullParser.START_TAG:
                     if ("string".equals(parser.getName())) {
-                        stringMap.put(parser.getAttributeValue(0),
-                                parser.nextText());
+                        StringItem item = new StringItem();
+                        item.setName(parser.getAttributeValue(null, "name"));
+                        String formattedString = parser.getAttributeValue(null, "formatted");
+                        if (!TextUtils.isEmpty(formattedString)) {
+                            item.setFormatted(Boolean.parseBoolean(formattedString));
+                        }
+                        item.setContent(parser.nextText());
+                        stringMap.put(item.getName(), item);
                     }
                     break;
                 case XmlPullParser.END_TAG:

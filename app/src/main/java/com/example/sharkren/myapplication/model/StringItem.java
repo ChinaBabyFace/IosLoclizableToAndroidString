@@ -7,6 +7,7 @@ package com.example.sharkren.myapplication.model;
 public class StringItem {
     private String name;
     private String content;
+    private boolean isFormatted = true;
 
     public String getName() {
         return name;
@@ -22,5 +23,13 @@ public class StringItem {
 
     public void setContent(String content) {
         this.content = content;
+    }
+
+    public boolean isFormatted() {
+        return isFormatted;
+    }
+
+    public void setFormatted(boolean formatted) {
+        isFormatted = formatted;
     }
 }
